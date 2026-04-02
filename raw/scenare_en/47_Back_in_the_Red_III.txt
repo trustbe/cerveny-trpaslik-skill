@@ -1,0 +1,2465 @@
+[--------------------------------------------------------------------------]
+
+RED DWARF - SERIES 8
+
+[--------------------------------------------------------------------------]
+
+EPISODE 3 -- BACK IN THE RED, part 3
+
+[--------------------------------------------------------------------------]
+
+Version 1.0
+
+07 - 11 March, 1999
+
+Last update: 28 March, 1999
+
+Raz / raz@matrixcity.org
+
+http://www.matrixcity.org
+
+[-- 1 - Model/CGI shot ----------------------------------------------0:00--]
+
+[Inside the Tank. Slow zoom towards a huge, segmented, cylindrical tower
+
+that houses blocks of cells]
+
+[-- 2 - Int. A small cell -------------------------------------------0:08--]
+
+[Enter RIMMER, LISTER]
+
+[Both look exhausted. RIMMER collapses into a chair by their table, and
+
+LISTER wearily attempts the long climb up the ladder to his top bunk]
+
+RIMMER
+
+One day in this lousy, stinking penal colony and I'm cracking up.
+
+Everyone's so deranged and brutal it's frightening. This afternoon I was so
+
+depressed I went to see the social worker.
+
+[Reaching his bed at last, LISTER lays down gratefully, wincing]
+
+LISTER
+
+Was he any help?
+
+RIMMER
+
+Not really; he beat me up.
+
+He said I was a whining nancy-boy with girlie white legs, then pummelled
+
+me repeatedly with his book, "Showing compassion to inmates".
+
+LISTER
+
+I thought social workers were supposed to be nice?
+
+RIMMER
+
+In the end I was so shell-shocked I went to see the priest and explained
+
+everything.
+
+LISTER
+
+What did he say?
+
+RIMMER
+
+He said I was a whining baby who was missing his mum. Then he beat me up,
+
+too. You can still see the crucifix marks in the back of my head.
+
+LISTER
+
+It's cos we're in G-tower. All the staff are mad, here. One of the guys
+
+was saying, though, as a reward for good behaviour, they move you to the
+
+luxury block on D-wing. Everything's really nice there; they even shampoo
+
+the rats. Groom their tails and everything.
+
+RIMMER
+
+I must look it up in my Michelin guide to penal Hell-holes. I'm sure it
+
+probably gets the full five slop-out buckets.
+
+LISTER
+
+They've got everything: TV's, music centres... they've even got a trouser
+
+press.
+
+RIMMER
+
+Since when were you interested in a trouser press? You care less about
+
+your appearance than a member of the Dutch royal family.
+
+LISTER
+
+No, I was thinking: if we got moved to a cell with a trouser press, we
+
+could make cheese toasties.
+
+RIMMER
+
+What's this?
+
+[RIMMER picks up an envelope from the table in front of him where it sat
+
+on top of a book, and opens it]
+
+RIMMER
+
+"Floor 13 information pack.
+
+If privacy is required when using toilet, please wear blindfold."
+
+[RIMMER takes out a thick, black blindfold and looks at it blankly.
+
+LISTER nods toward the table]
+
+LISTER
+
+What's the book?
+
+[RIMMER picks it up to glance at the cover, then tosses it back]
+
+RIMMER
+
+Gideon's Bible.
+
+LISTER
+
+He follows me everywhere, that bloke! I was staying in a hotel once, he
+
+left his bible behind there, as well. And two years later, another hotel,
+
+dozy git left it behind again!
+
+RIMMER
+
+Everything is ruined. My career's over, I've no goal, no hope, no life.
+
+LISTER
+
+Yeah, but how come that's started to get you down now?
+
+RIMMER
+
+Maybe you hadn't noticed, but we're going to spend the next two years in
+
+the brig? Two years with the scum of the universe, hardened criminals,
+
+deranged droids, people so unbalanced and debauched they could even get
+
+elected as President of the United States. We've got to escape!
+
+LISTER
+
+Woh! There're security cameras everywhere.
+
+[LISTER hauls himself off his bunk and joins RIMMER at the table]
+
+LISTER
+
+You know that mad geezer with the one eye and the funny tic? He said it
+
+was impossible.
+
+RIMMER
+
+Well he's bound to say that, he was the warden!
+
+If only I'd hired a smarter lawyer, instead of the brain-dead, pompous,
+
+stupid-haired git I ended up with.
+
+LISTER
+
+You defended yourself!
+
+[RIMMER stares hard at LISTER]
+
+RIMMER
+
+Yes, and I don't need reminding of that, thank you very much.
+
+Two years in the Tank...
+
+[RIMMER picks up the blindfold and plods over to the other side of the cell]
+
+LISTER
+
+Two years...
+
+[RIMMER turns and sits down on the toilet, putting on the blindfold, which
+
+has the word "ENGAGED" stencilled on it. He grimaces]
+
+RIMMER
+
+How did I get into this mess?
+
+[LISTER notices what RIMMER is doing, and turns away hurriedly]
+
+LISTER
+
+I think the blindfold's supposed to be for me...
+
+[-- 3 - Model/CGI shot -----------------------------------------Raz--3:22--]
+
+[Red Dwarf cruises by a colourful starscape]
+
+[Text appears over the image:
+
+"2 DAYS EARLIER"]
+
+[-- 4 - Int. Captain's office ---------------------------------------3:26--]
+
+[CAPTAIN HOLLISTER present]
+
+[HOLLISTER is sat at his desk alone facing the camera, talking to the
+
+recording computer that he has just activated]
+
+HOLLISTER
+
+This is the diary of Captain F. Hollister of the mining ship Red Dwarf.
+
+Several of my crew are presently being tried for crimes against the Space
+
+Corps:
+
+[HOLLISTER inserts the following edited video sequence into his diary. The
+
+signal crackles momentarily with static, clearing to:]
+
+[-- 5 - Int. Courtroom ----------------------------------------------3:34--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, two BAILIFFS, CAPTAIN HOLLISTER,
+
+CHIEF MEDICAL OFFICER KAREN NEWTON, CHIEF ENGINEER present]
+
+HOLLISTER
+
+Are you familiar with the mind scan?
+
+LISTER
+
+We are familiar with the mind scan, sir.
+
+HOLLISTER
+
+You understand that it will involve the administration of psychotropic
+
+drugs, that is, drugs that affect your mental state, making this process
+
+possible? If you accept, say 'aye'.
+
+KRYTEN, CAT, KOCHANSKI, LISTER
+
+Aye.
+
+HOLLISTER
+
+Please sign the consent forms and seal them into the envelopes provided.
+
+We reconvene at 10am tomorrow.
+
+[The four Dwarfers, having signed their forms and slid them into the
+
+envelopes, lick the glue seal and resign themselves to the Captain's tests]
+
+[-- 6 - Int. Captain's office ---------------------------------------4:04--]
+
+[CAPTAIN HOLLISTER present]
+
+HOLLISTER
+
+To test the voracity of their defence, unknown to them, I've had them
+
+placed in artificial reality where their -
+
+[The following three video sequences are pasted in]
+
+[-- 7 - Int. Artificial Reality chamber -----------------------------4:08--]
+
+[LISTER, KRYTEN, KOCHANSKI, CAT present]
+
+HOLLISTER [VO]
+
+- actions can be observed.
+
+[The hapless Dwarfers each stand at an A.R. interface point. Eyes closed,
+
+their hands twitch spasmodically around dual feedback joysticks]
+
+[-- 8 - Int. Corridor aboard Red Dwarf ------------------------------4:15--]
+
+[Enter KRYTEN, CAT, KOCHANSKI, LISTER]
+
+[We watch a flashback of events we've seen before. The Dwarfs emerge,
+
+Reservoir Dogs style, from a side corridor in their Dibbley togs. Of
+
+course, now we know that this is all a psychotropically-generated,
+
+consensually shared fantasy]
+
+[-- 9 - Int. Captain's table ----------------------------------------4:27--]
+
+[CAPTAIN HOLLISTER, CMO, three other FEMALE OFFICERS, two other MALE
+
+OFFICERS present]
+
+HOLLISTER
+
+Right now, they believe they're escaping, but we just want to observe what
+
+they do...
+
+RIMMER
+
+So, that means, that if anyone happens to mention any... special
+
+agreements... that they've entered into --
+
+Could you excuse me? I think I... left the iron on...
+
+[Exit RIMMER]
+
+[-- 10 - Int. Captain's office --------------------------------------4:45--]
+
+[CAPTAIN HOLLISTER present]
+
+HOLLISTER
+
+Rimmer, one of the least able of my crew -
+
+[-- 11 - Int. Captain's office --------------------------------------4:48--]
+
+[CAPTAIN HOLLISTER, RIMMER present]
+
+[HOLLISTER has selected a recording of RIMMER's embarrassingly lengthy
+
+salute to illustrate his appraisal]
+
+[-- 12 - Int. Captain's office --------------------------------------4:54--]
+
+[CAPTAIN HOLLISTER present]
+
+HOLLISTER
+
+- has started acting very suspiciously, being incredibly insightful, and
+
+efficient.
+
+[-- 13 - Int. Captain's office --------------------------------------4:59--]
+
+[CAPTAIN HOLLISTER, RIMMER present]
+
+[Here HOLLISTER selects footage from the same meeting, and we see RIMMER
+
+place the folder containing his report on Drive Plate safety procedure
+
+on the CAPTAIN's desk before returning to attention]
+
+[-- 14 - Int. Captain's office --------------------------------------5:02--]
+
+[CAPTAIN HOLLISTER present]
+
+HOLLISTER
+
+I suspect he may have access to the crew's confidential files. We also
+
+believe he may be in possession of a virus, which makes him incredibly
+
+attractive to the opposite sex. This is obviously a remarkable serum and, as
+
+a responsible senior officer of the Space Corps., it's imperative I gain
+
+possession of this solution and use some myself.
+
+[-- 15 - Int. Galley ------------------------------------------------5:21--]
+
+[HOLLISTER's remarkable guesswork concerning the Sexual Magnetism virus is
+
+partially justified as we see him insert into his diary security camera
+
+footage of the ship's CMO jumping RIMMER's bones...]
+
+CMO
+
+Oh - my - god - you are sexy! So very, very sexy!
+
+[The CMO shoves RIMMER through a door into an adjoining cramped room marked
+
+'Captain's Galley'
+
+[Exit RIMMER, CMO]
+
+[-- 16 - Int. Captain's office --------------------------------------5:31--]
+
+[CAPTAIN HOLLISTER present]
+
+HOLLISTER
+
+Yesterday he was observed injecting his groin with anaesthetic -
+
+[-- 17 - Int. Medical office ----------------------------------------5:35--]
+
+[RIMMER present]
+
+HOLLISTER [VO]
+
+- something we believe he did to regain some self-control.
+
+[Once again, we see RIMMER checking the contents of a hypodermic and
+
+emptying the contents into his nether-regions]
+
+[-- 18 - Int. Corridor aboard Red Dwarf -----------------------------5:38--]
+
+[Enter RIMMER]
+
+[RIMMER begins to lose feeling in his legs, they appear to turn rubbery and
+
+RIMMER begins to have trouble walking. He blunders awkwardly along the
+
+corridor]
+
+[Enter three FEMALE CREW MEMBERS]
+
+RIMMER
+
+Hi.
+
+FEMALE CREW MEMBERS
+
+Hi...
+
+[-- 19 - Int. Captain's office --------------------------------------5:54--]
+
+[CAPTAIN HOLLISTER present]
+
+HOLLISTER
+
+I also suspect someone, possibly Lister, has given Rimmer access to the
+
+crew's confidential files, and he's using this information to blackmail his
+
+way up the chain of command. It's sickening, it's unforgivable, but it's a
+
+technique that can work. I should know: I used the same method myself to
+
+become Captain. If the crew discover I'm really just Dennis the donut boy,
+
+I'm finished.
+
+I will continue to observe Lister's actions in AR and expect my suspicions
+
+to be confirmed.
+
+Report ends.
+
+[The images collapses as HOLLISTER shuts off the camera]
+
+[-- 20 - Int. Artificial Reality chamber ----------------------------6:26--]
+
+[LISTER, KRYTEN, KOCHANSKI, CAT present]
+
+[The Dwarfers are still hooked up to A.R. interfaces, their actions
+
+translated into jerks on the control sticks. A video screen between LISTER
+
+and KRYTEN displays the scene inside the simulation. On it we see CAT,
+
+dressed in Dibbley costume, pushing a cart]
+
+[-- 21 - Int. Red Dwarf landing bay ---------------------------------6:28--]
+
+[CAT present]
+
+[CAT is still wearing his Dibbley disguise and is pushing a large cart,
+
+over which a white sheet is draped. Two Skutters flank him]
+
+FLIGHT CONTROLLER [VO]
+
+T minus eighteen seconds --
+
+[-- 22 - Int. Red Dwarf landing bay hangar section ------------------6:33--]
+
+[Three Blue Midget craft parked and inactive in the hangar section]
+
+FLIGHT CONTROLLER [VO]
+
+-- and counting; engines start.
+
+[-- 23 - Int. Blue Midget cockpit -----------------------------------6:35--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+[The four take stations at the various control consoles inside Blue Midget.
+
+Like its parent ship, Blue Midget has also undergone substantial
+
+restructuring during the nanobot rebuild. No longer the cramped, darkened
+
+control centre of old, the new cockpit is expansive - approximately 10ft
+
+square, with a main bank of helm controls stretching across the front of
+
+the cockpit, and a secondary bank of logistics and navigation control
+
+equipment build into a long desk behind the pilots chairs. CAT immediately
+
+slips behind the helm controls while KRYTEN and KOCHANSKI take stations
+
+a the secondary controls desk. LISTER disappears behind the desk too,
+
+beside KOCHANSKI]
+
+[-- 24 - Int. Red Dwarf Ground Control station ----------------------6:38--]
+
+[GROUND CONTROLLER present]
+
+[A GROUND CONTROLLER, stationed in a small control booth and surrounded
+
+by banks of illuminated controls and data screens, checks over her status
+
+displays]
+
+[-- 25 - Int. Blue Midget cockpit -----------------------------------6:40--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+GROUND CONTROLLER [VO]
+
+This is Ground Control to Midget 3 -
+
+[-- 26 - Int. Red Dwarf Ground Control station ----------------------6:44--]
+
+GROUND CONTROLLER
+
+- you don't appear to have flight clearance. Please state your name and
+
+clearance code.
+
+[-- 27 - Int. Blue Midget cockpit -----------------------------------6:48--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+CAT
+
+Ground Control, this is, er...
+
+[As CAT hesitates, LISTER pops his head up from behind the control desk]
+
+LISTER
+
+Major Tom!
+
+CAT
+
+Yeah! Major Tom -
+
+[LISTER nods approvingly and sinks back out of sight]
+
+[-- 28 - Int. Red Dwarf Ground Control station ----------------------6:53--]
+
+[GROUND CONTROLLER present]
+
+GROUND CONTROLLER
+
+Major Tom, what is your clearance code and pilot number?
+
+[-- 29 - Int. Blue Midget cockpit -----------------------------------6:56--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+CAT
+
+I'm sorry, I left all my details in my other pants.
+
+[CAT winces, hoping the evasion will succeed]
+
+[-- 30 - Int. Red Dwarf Ground Control station ----------------------7:01--]
+
+[GROUND CONTROLLER present]
+
+[The CONTROLLER presses a hand to her earpiece, frowning suspiciously]
+
+GROUND CONTROLLER
+
+I'm sorry, I didn't catch that.
+
+[-- 31 - Int. Blue Midget cockpit -----------------------------------7:03--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+[A small viewscreen crackles to life on the panel next to CAT, displaying
+
+an image of the young and beautiful GROUND CONTROLLER. CAT is blown away]
+
+CAT
+
+Woooowwww!
+
+[-- 32 - Int. Red Dwarf Ground Control station ----------------------7:05--]
+
+[GROUND CONTROLLER present]
+
+[She rolls her eyes disparagingly]
+
+GROUND CONTROLLER
+
+Without takeoff clearance I can't permit you to fly.
+
+[-- 33 - Int. Blue Midget cockpit -----------------------------------7:09--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+CAT
+
+I can handle this thing, okay. I'm good. I'm better than good, I'm
+
+smoooooth, with a capital 'Smooooo'.
+
+[-- 34 - Int. Red Dwarf Ground Control station ----------------------7:18--]
+
+[GROUND CONTROLLER present]
+
+[She chuckles as CAT grins around his huge dentures]
+
+GROUND CONTROLLER
+
+Well that's as maybe, but I need a little proof you can fly that thing.
+
+[-- 35 - Int. Blue Midget cockpit -----------------------------------7:22--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+CAT
+
+Fly!? I can make this thing dance!
+
+[-- 36 - Int. Red Dwarf Ground Control station ----------------------7:25--]
+
+[GROUND CONTROLLER present]
+
+[The CONTROLLER nods, disbelieving]
+
+[-- 37 - Int. Blue Midget cockpit -----------------------------------7:26--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+[CAT rapidly taps a sequence of commands into the keyboard in front of him,
+
+snaps his fingers, then uncovers Blue Midget's throttles and powers up.
+
+As the little transport craft rises to its feet, CAT dashes from his
+
+station, pauses at the rear of the cockpit to collect a metal tray, under
+
+the puzzled gazes of his crew mates, and heads out.
+
+Blue Midget straightens a leg as CAT emerges, and he slides effortlessly
+
+down the limb to the hanger deck. Dusting himself off as the GROUND
+
+CONTROLLER looks on, CAT executes a short tap sequence, then offers the
+
+floor to Blue Midget. The ungainly machine duplicates the sequence
+
+precisely, its alloy foot pads clanging noisily on the deck.
+
+After a second sequence carried out first by CAT then by Blue Midget, CAT
+
+leaps behind one of the ship's metal legs, sheds his Dibbley costume, and
+
+emerges in a sharp, glittering blue suit and tap shoes.
+
+CAT and Blue Midget now perform a smoothly choreographed duet of complex
+
+tap steps, though when CAT raps a toe-cap sharply on Blue Midget's foot
+
+pad at the end of one routine, the machine glares down at him, swings a
+
+leg and sends CAT sailing through the air to land at the other end of the
+
+hangar.
+
+Not dissuaded, CAT comes back in full effect, snapping his finger, he
+
+wakes the three other parked Midgets who form us as backing dancers as
+
+CAT and the first Midget cary out a complex sequence of dance steps
+
+becoming more and more elaborate and fast-paced with each passing moment.
+
+Not even the resounding crash of glass-work exploding from the ranks of
+
+Ground Controller's booths as Blue Midget's feet crash down onto the deck
+
+during a particularly energetic set piece are enough to break the rhythm,
+
+and CAT's set reaches its conclusion as he jumps up onto a foot pad held
+
+out by the ship, which it then uses to propel him up in to the air.
+
+Gracefully, without a hair out of place, CAT slips through a roof hatch
+
+and lands in the pilots chair inside the cockpit]
+
+[-- 55 - Int. Red Dwarf Ground Control station -----------------Raz--9:50--]
+
+[GROUND CONTROLLER present]
+
+[The GROUND CONTROLLER shakes her head in amazement]
+
+GROUND CONTROLLER
+
+Wow!
+
+[-- 56 - Int. Blue Midget cockpit -----------------------------------9:52--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+[CAT produces a large stogie, takes a draw on the cigar and blows a smoke
+
+ring]
+
+CAT
+
+You free Saturday?
+
+[-- 57 - Int. Red Dwarf Ground Control station ----------------------9:59--]
+
+[GROUND CONTROLLER present]
+
+GROUND CONTROLLER
+
+I am now.
+
+[-- 58 - Int. Blue Midget cockpit ----------------------------------10:01--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+[CAT starts as the logistics suddenly present themselves]
+
+CAT
+
+Holy-shmoly! I got a date in three day's time; I better start getting
+
+ready!
+
+LISTER
+
+You're going nowhere, man, we are outta here!
+
+[LISTER taps on his keyboard and yanks hard on Blue Midget's throttles]
+
+[-- 59 - CGI/Model shot --------------------------------------------10:11--]
+
+[Blue Midget paws the ground like a charging bull, then lurches
+
+gracelessly out of the hanger section and down a launching tube]
+
+[-- 60 - CGI/Model shot --------------------------------------------10:19--]
+
+[Red Dwarf is left behind as Blue Midget arcs out into Deep Space]
+
+[-- 61 - Int. Corridor about Red Dwarf -----------------------------10:24--]
+
+[MP THORNTON present]
+
+[THORNTON stands security outside a hatchway, stencilled above which is a
+
+plaque reading "AR SUITE / SUITO"]
+
+[Enter RIMMER]
+
+[The MP hears RIMMER clomping awkwardly along the corridor on his numbed
+
+legs, and watches him approach disdainfully]
+
+RIMMER
+
+Thornton -
+
+THORNTON
+
+No one's allowed in there, Rimmer. Beat it.
+
+[RIMMER leans slightly toward THORNTON and stares at him]
+
+RIMMER
+
+Angus Thornton, age thirty-six, middle name 'Lionel'.
+
+[RIMMER jerks away, perhaps expecting the other man to take a swing at him.
+
+When THORNTON merely looks at him, RIMMER comes closer again]
+
+RIMMER
+
+Inside leg measurement: twenty-nine, neck size: sixteen; *circumcised*.
+
+[RIMMER jerks away again and THORNTON stares at RIMMER incredulously]
+
+THORNTON
+
+How do you know all this?
+
+[Gaining confidence, RIMMER bobs closer, delivering the coup de grace]
+
+RIMMER
+
+Jazz fan. Good credit rating. Once admitted to hospital totally naked and
+
+attached to -
+
+[Here RIMMER leans in close to THORNTON's ear and hisses quietly]
+
+RIMMER
+
+- the suction end of a vacuum cleaner.
+
+THORNTON
+
+That's a vicious, slanderous, filthy, stinking, slanderous lie that you
+
+just made up!
+
+Who told you?
+
+RIMMER
+
+Want all the crew to know? Take a cigarette break; five minutes.
+
+THORNTON
+
+Okay, I'm going, okay. I'm lighting up already, I'm going.
+
+[Exit THORNTON]
+
+[RIMMER backs through the hatchway, looking up and down the corridor for
+
+unwanted eyes, then darts through]
+
+[-- 62 - CGI/Model shot --------------------------------------------11:15--]
+
+[Blue Midget streaks through space, toward a nebula and nearby moon]
+
+[-- 63 - Int. Blue Midget cockpit ----------------------------------11:19--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+LISTER
+
+Now all we've got to do is get a bearing on those damn nano's -
+
+[-- 64 - Int. Artificial Reality chamber ---------------------------11:22--]
+
+[LISTER, KRYTEN, KOCHANSKI, CAT present]
+
+[Behind LISTER is a video screen portraying the scene inside Blue Midget
+
+as we just saw it]
+
+LISTER [on video screen]
+
+- and we're cruising down Freedom Boulevard.
+
+[Enter RIMMER]
+
+[RIMMER waddles in from the corridor and stops by the A.R. computer
+
+interface panel]
+
+KRYTEN [on video screen]
+
+Getting something now, sir.
+
+LISTER [on video screen]
+
+Good.
+
+We didn't need that confidential files scam I cooked up with Rimmer after
+
+all. All that stuff I gave him on the Captain... Double-dealing, two-faced
+
+rat!
+
+[RIMMER watches these events on the screen and begins typing commands on
+
+the interface panel, speaking aloud as he does so]
+
+RIMMER
+
+Find - all - references - to - the - agreement - between - Lister - and -
+
+Rimmer - and - remove!
+
+[The word "REMOVED" appears on the video screen and flashes]
+
+A.R. COMPUTER [VO]
+
+"All references removed."
+
+[RIMMER sighs with relief]
+
+[-- 65 - Int. Blue Midget cockpit ----------------------------------11:52--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+[HOLLY present, on a viewscreen in the cockpit]
+
+[As LISTER checks his control panel, the world suddenly seems to 'jump-cut',
+
+as if several seconds of time had just been snipped out]
+
+LISTER
+
+What was that? Something weird just happened...
+
+KOCHANSKI
+
+Yeah, I felt it, too.
+
+[Another jump-cut manifests, and CAT is left facing in the opposite
+
+direction]
+
+CAT
+
+There it was again!
+
+[The same thing happens to HOLLY]
+
+HOLLY
+
+And again.
+
+KRYTEN
+
+Oh, my.
+
+LISTER
+
+What is it?
+
+KRYTEN
+
+I don't believe I'm here.
+
+KOCHANSKI
+
+I have that feeling all the time.
+
+KRYTEN
+
+I have it. I believe we're in some kind of computer-manipulated,
+
+psychotropically induced mind state.
+
+[-- 66 - Computer viewscreen ---------------------------------------12:12--]
+
+[HOLLY present]
+
+HOLLY
+
+You took the words right out of my mouth.
+
+[-- 67 - Int. Blue Midget cockpit ----------------------------------12:15--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, 2 SKUTTERS present]
+
+KOCHANSKI
+
+You mean this is our trial? Our escape is our trial?
+
+LISTER
+
+The envelopes... When we signed the consent forms... there must have been
+
+some kind of drug on the gluey bit we licked.
+
+CAT
+
+So you mean nothing's been real since then? Blue Midget? The Ground
+
+Controller? None of that was real? You mean after all this, I still haven't
+
+got a date?? Damn! Another year when I have to sent a Valentine's card to my
+
+hand...
+
+LISTER
+
+No, this good, this is good! It proves we're innocent! Everything we've
+
+said and done: escaping, trying to track down the nano's; it corroborates
+
+our story!
+
+[-- 68 - Computer viewscreen ---------------------------------------12:49--]
+
+[HOLLY present]
+
+HOLLY
+
+But you are guilty, guys! Who are you fooling?
+
+[HOLLY immediately looks startled and casts his eyes about]
+
+HOLLY
+
+I dunno why I said that.
+
+[-- 69 - Int. Artificial Reality chamber ---------------------------12:55--]
+
+[RIMMER, LISTER, KRYTEN, KOCHANSKI, CAT present]
+
+[RIMMER taps more commands into the interface panel]
+
+[-- 70 - Int. Blue Midget cockpit ----------------------------------12:58--]
+
+[KRYTEN, CAT, KOCHANSKI, LISTER, HOLLY, 2 SKUTTERS present]
+
+KOCHANSKI
+
+We're being framed...
+
+[Another jump-cut, and KRYTEN and KOCHANSKI have switched places]
+
+KOCHANSKI
+
+Wait a minute, what's happening? I just said "we're being framed" and
+
+suddenly -
+
+[Yet another jump-cut - KRYTEN suddenly finds himself standing staring at
+
+the rear wall of the cockpit]
+
+LISTER
+
+It just happened again! Everything we say's being --
+
+[Reality jump-cuts once more, returning KRYTEN and KOCHANSKI to their
+
+original positions]
+
+KRYTEN
+
+Bananas.
+
+LISTER
+
+If I say who I think's responsible for this it'll get cut too, so I'm not
+
+going to, but it's him. I know it's him, you can bet on it, and if I ever
+
+catch up to him, I'm gonna cut off both his b--
+
+[A reality jump-cut mercifully spares us the gory details of RIMMER's fate]
+
+LISTER
+
+-- blunt knife.
+
+CAT
+
+So how do we stop him?
+
+KRYTEN
+
+If we're plugged into A.R. software there must be a 'trap door' built into
+
+the program somewhere to allow escape.
+
+CAT
+
+You mean to help you get out if the program freezes?
+
+KRYTEN
+
+Precisely. There'll be a cryptic clue around somewhere, something like a
+
+trap door or exit...
+
+[The Dwarfers begin to search around the cockpit]
+
+CAT
+
+I got it! There's a button here with 'E' - 'eleven' - 'T' written on it.
+
+[The rest of the Dwarfers stare at CAT blankly]
+
+KRYTEN
+
+And?
+
+CAT
+
+Eleven is 'XI' in Roman numerals. E - XI - T; 'EXIT'!
+
+[LISTER glances around disbelievingly]
+
+LISTER
+
+*He* got *that*?
+
+KRYTEN
+
+I think it proves, without a shadow of a doubt, this is not reality!
+
+[The two SKUTTERS applaud CAT from their corner of the cockpit]
+
+KOCHANSKI
+
+Press it.
+
+[Smiling smugly, CAT reaches out and presses the button. As he does so,
+
+the picture elongates vertically, changes, then slides back into focus]
+
+[-- 71 - Stop-motion animated sequence -----------------------------14:11--]
+
+[CAT, KRYTEN, KOCHANSKI, LISTER present]
+
+[The scene is a barren, snowy plain, below a clear blue sky. Amazingly, the
+
+Dwarfers appear to be constructed from plasticene! CAT faces away from
+
+the camera and frustratedly waves his arms in juddering stop-motion]
+
+CAT
+
+Now where are we?
+
+[CAT spins around, and more of the strange landscape is revealed. More
+
+barren plains, that is. Only a small igloo nearby breaks the monotony]
+
+KRYTEN
+
+Well, somehow we've wound up in the screen saver!
+
+[Behind KRYTEN, CAT loses his footing on the snow, sliding across the
+
+ground and into the igloo, before thudding against its inner wall]
+
+KOCHANSKI
+
+We need to locate a power source so we can switch the A.R. machine off.
+
+[Away from the others, LISTER is laid on his stomach, investigating a large
+
+circular hole]
+
+LISTER
+
+A power source? A.R.? There has to be a clue around here somewhere. Maybe
+
+it's in this ice hole?
+
+[He peers down into the depths, and a huge plasticene shark suddenly rears
+
+up in front of him, growling in annoyance. The shark swallows LISTER whole
+
+and slips back down into the water under the ice. Moments later it pops
+
+back out and unceremoniously ejects LISTER from its throat, sending him
+
+sailing through the air, and lolls out a large tongue in disgust]
+
+[CAT pops his head out of the igloo]
+
+CAT
+
+There's some food in here!
+
+KOCHANSKI
+
+So?
+
+CAT
+
+Including a bottle of ketchup...
+
+[CAT draws forth a large red bottle with a white label. On the label are the
+
+peculiarly spelt words 'Tomato Source', and a large black arrow]
+
+LISTER
+
+So?
+
+[LISTER tries to dust off his coating of snow, and CAT waggles the bottle
+
+meaningfully]
+
+CAT
+
+Power ketchup, get it?
+
+KRYTEN
+
+What's to get?
+
+CAT
+
+Power sauce!
+
+LISTER
+
+Pity he's only smart when he's made out of plasticene..!
+
+KOCHANSKI
+
+Press it!
+
+[-- 72 - Int. Artificial Reality chamber ---------------------------15:06--]
+
+[LISTER, KRYTEN, KOCHANSKI, CAT, RIMMER present]
+
+[The A.R. program shuts down, the interface ports deactivate and the
+
+Dwarfers regain consciousness. RIMMER desperately stabs buttons on the
+
+interface panel]
+
+LISTER
+
+Ohhhh... ohhhh...
+
+[LISTER hears the noise of RIMMER's efforts and glances up, noticing him]
+
+LISTER
+
+You back-stabbin', weaselly smegger! You were trying to frame us!
+
+RIMMER
+
+Listy! Just the man. Now, I know, at first glance, this may look bad --
+
+[RIMMER abandons the interface panel and waddles toward LISTER. Pheromones
+
+enhanced by the Sexual Magnetism virus waft out in search of susceptible
+
+targets, and find...]
+
+KOCHANSKI
+
+God, he's gorgeous...
+
+RIMMER
+
+Ohh, hold her back, please, hold her, please! No more, no more!
+
+KOCHANSKI
+
+Oh those nostrils! They're driving me crazy, I've simply got to have them!
+
+[KOCHANSKI advances on RIMMER; LISTER grabs her arm and digs in his heels]
+
+LISTER
+
+Hold her back, Kryten! Help me!
+
+[-- 73 - Int. Service elevator -------------------------------------15:37--]
+
+[Enter RIMMER, KOCHANSKI, LISTER, KRYTEN, CAT]
+
+[RIMMER stumbles into a decrepit service elevator, soon followed by the
+
+other Dwarfers who are dragged along by a rampant KOCHANSKI]
+
+KRYTEN
+
+Mister Cat, sir, put the lift on hold!
+
+[CAT breaks off from helping restrain the head-tossing KOCHANSKI and slaps
+
+the lift's Hold button]
+
+KOCHANSKI
+
+I want his babies!
+
+LISTER
+
+The Luck virus, have you still got it? Take some! It'll cure the virus,
+
+and restore you both to normal.
+
+[RIMMER uncorks the Luck virus and takes a swig. Instantly, the sexually
+
+charged pheromones discharged by the Sexual Magnetism virus dissipate and
+
+KOCHANSKI regains control of her basic instincts. She turns away, covering
+
+her face]
+
+KOCHANSKI
+
+Oh god, that's so embarrassing...
+
+LISTER
+
+What now, Holl?
+
+[LISTER presses a stud on his HOLLY-watch, calling up HOLLY's image on the
+
+lift's communications viewscreen]
+
+[Enter HOLLY]
+
+[The Dwarfers move to take places in the seats set against the lift walls]
+
+[-- 74 - Computer viewscreen ---------------------------------------16:10--]
+
+HOLLY
+
+No time to lose, you should head for the nearest one of these:
+
+[HOLLY's image slides down the screen until only the top of his bald head
+
+is visible, blue lighting illuminates him and a starscape appears behind
+
+him]
+
+[-- 75 - Int. Service elevator -------------------------------------16:17--]
+
+[ALL present]
+
+LISTER
+
+You mean a moon?
+
+[-- 76 - Computer viewscreen ---------------------------------------16:18--]
+
+[HOLLY present]
+
+[HOLLY's image shoots back into its normal position and he grins happily]
+
+HOLLY
+
+Exactly.
+
+[-- 77 - Int. Service elevator -------------------------------------16:20--]
+
+[ALL present]
+
+KRYTEN
+
+He's right. We can regroup there and continue our search for the nano's.
+
+RIMMER
+
+What about me?
+
+KRYTEN
+
+Well, suggest we persuade you to come with us, sir, or, failing that, we
+
+bludgeon you unconscious.
+
+CAT
+
+Him, come with us? Are you out of your mind? That's so dumb I should've
+
+said it!
+
+KRYTEN
+
+Well, Mister Rimmer has had access to the confidential files, sir. He
+
+knows all the security codes. Without him, our chances of escape are about
+
+as remote as meeting an interesting hairdresser called Kylie.
+
+RIMMER
+
+Why would I want to take off with you lot? What have you got to offer?
+
+KRYTEN
+
+Well, I'm very good at laundry, sir.
+
+[KRYTEN smiles sincerely]
+
+[-- 78 - Computer viewscreen ---------------------------------------16:53--]
+
+[HOLLY present]
+
+HOLLY
+
+I do a damn fine moon impression.
+
+[-- 79 - Int. Service elevator -------------------------------------16:56--]
+
+[ALL present]
+
+CAT
+
+I'm so gorgeous, there's a six month waiting list for birds to suddenly
+
+appear, every time I am near.
+
+KRYTEN
+
+And you know what they say, sir: "if you've got three good friends, you're
+
+a rich man".
+
+RIMMER
+
+Only poor people say that.
+
+CAT
+
+Forget it, he's not gonna change his mind.
+
+KRYTEN
+
+He's right, time is of the essence. The crew will know we're out of A.R.
+
+now and are probably sending someone to investigate.
+
+[LISTER gets up and heads across the lift to sit beside RIMMER]
+
+LISTER
+
+So, what's it to be?
+
+RIMMER
+
+Look, if I leave I'm always going to be a failure. The shame of it. Every
+
+time I have a boiled egg, knowing I don't even outrank the toastie
+
+soldiers. I want to be an officer, a man of honour.
+
+LISTER
+
+Officers aren't men of honour, they're headcases. Those induction pranks
+
+they play when you qualify?
+
+[RIMMER looks into the middle-distance, his eyes far-away]
+
+RIMMER
+
+I've dreamt of that proud day for years now. As I wake up after the
+
+celebration party and find that my pubes are orange and I'm handcuffed to a
+
+goat. And, most hilarious of all, discovering someone's superglued me to the
+
+rear of one of those rabbits that whizzes around greyhound tracks.
+
+Ahhhhhhh, those mad japes they play on you! I can't miss all that!
+
+LISTER
+
+But that's not gonna happen for you now, man. Just like it didn't happen
+
+for the other Rimmer.
+
+[-- 80 - Computer viewscreen ---------------------------------------18:11--]
+
+[HOLLY present]
+
+HOLLY
+
+We're giving you a second chance at life, and an opportunity for you to
+
+screw it up in a new and original way.
+
+[-- 81 - Int. Service elevator -------------------------------------18:19--]
+
+[ALL present]
+
+KRYTEN
+
+You'll get your own seat in the cockpit, and you'll be in control of at
+
+least five buttons...
+
+KOCHANSKI
+
+Krytie, don't be pathetic, he's hardly going to be impressed at the
+
+prospect of being in charge of a few buttons...
+
+RIMMER
+
+Five, you say?
+
+LISTER
+
+No more vending machine maintenance. No more getting heckled by drinks
+
+dispensers.
+
+RIMMER
+
+That's five whole buttons?
+
+KOCHANSKI
+
+A new start, a new life?
+
+LISTER
+
+You'll wake up in the morning... you'll want to leap out of bed!
+
+KRYTEN
+
+Well, in your case, Mister Lister, sir, that's because your sheets are
+
+full of pointy poppadum shards!
+
+RIMMER
+
+Tell me more about these buttons; are some illuminated?
+
+LISTER
+
+What do you say, man? The old Rimmer was a vital member of the team! He
+
+performed essential functions we've never replaced.
+
+RIMMER
+
+What did he do?
+
+LISTER
+
+I dunno, really.
+
+He, erm... he was, erm... he was, erm...
+
+[LISTER looks around, hoping for someone to bail him out, but none of the
+
+others appear to have any ideas]
+
+LISTER
+
+Ah! Head of Safety!
+
+RIMMER
+
+"Head of Safety", that's a hell of a title!
+
+[RIMMER's eyebrows raise, impressed, as he considers this. Then he frowns]
+
+RIMMER
+
+But what did he actually do?
+
+[LISTER again glances away, thinking fast]
+
+LISTER
+
+He sought out danger; he sought out peril. Then he advised us the best way
+
+to run away from it.
+
+RIMMER
+
+Head of Safety; five buttons?
+
+[RIMMER weighs his options]
+
+RIMMER
+
+I'm in!
+
+CAT
+
+He's in? Let's celebrate! I'll crack open a bottle of cyanide!
+
+[-- 82 - CGI/Model shot ---------------------------------------Raz--19:38--]
+
+[In the hanger section of Red Dwarf's landing bay three Blue Midget craft
+
+are parked quietly]
+
+[-- 83 - CGI / Live action composite -------------------------------19:40--]
+
+[Red Dwarf's landing bay]
+
+[Enter RIMMER]
+
+[RIMMER strides across the landing bay towards the hangar, checking behind
+
+him to make sure the other Dwarfers still follow]
+
+[Exit RIMMER]
+
+[Enter CAT, LISTER, KRYTEN, KOCHANSKI]
+
+[The four scurry along behind RIMMER, casting glances around to see if
+
+they've been spotted]
+
+[Exit CAT, LISTER, KRYTEN, KOCHANSKI]
+
+[-- 84 - Int. Blue Midget cockpit ----------------------------------19:46--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+[The Dwarfers take their seats and begin powering up their Blue Midget]
+
+[-- 85 - CGI/Model shot --------------------------------------------19:49--]
+
+[In the hangar area, one of the Blue Midget craft rises to its feet]
+
+[-- 86 - Int. Blue Midget cockpit ----------------------------------19:50--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+[Working at his console, CAT suddenly notices the small viewscreen flicker
+
+into life, and does a double-take. It's the GROUND CONTROLLER, but not as
+
+we know her; she seems to have aged 30 years or so, most of them apparently
+
+spent eating]
+
+GROUND CONTROLLER [on viewscreen]
+
+This is Ground Control.
+
+[-- 87 - Int. Red Dwarf Ground Control station ---------------------19:54--]
+
+[GROUND CONTROLLER present]
+
+GROUND CONTROLLER
+
+You don't appear to have flight clearance.
+
+[-- 88 - Int. Blue Midget cockpit ----------------------------------19:58--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+CAT
+
+You're the ground controller?
+
+[-- 89 - Int. Red Dwarf Ground Control station ---------------------20:00--]
+
+[GROUND CONTROLLER present]
+
+GROUND CONTROLLER
+
+Please state your name and clearance code.
+
+[-- 90 - Int. Blue Midget cockpit ----------------------------------20:04--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+[CAT glances at LISTER is disgust]
+
+CAT
+
+Reality sucks!
+
+[-- 91 - Int. Red Dwarf Ground Control station ---------------------20:06--]
+
+[GROUND CONTROLLER present]
+
+GROUND CONTROLLER
+
+Your name's "Reality Sucks"??
+
+[The CONTROLLER cackles heartily]
+
+GROUND CONTROLLER
+
+One second, Mister Sucks.
+
+[-- 92 - Int. Blue Midget cockpit ----------------------------------20:12--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+[CAT exchanges a worried glance with LISTER]
+
+[-- 93 - Int. Red Dwarf Ground Control station ---------------------20:14--]
+
+[GROUND CONTROLLER present]
+
+GROUND CONTROLLER
+
+Just checking my clearance lists...
+
+[-- 94 - Int. Blue Midget cockpit ----------------------------------20:16--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+LISTER
+
+Look, just do another smegging dance and we'll get the hell out of here!
+
+CAT
+
+Dance? With her I'd have trouble walking! Powering up!
+
+[CAT throws Blue Midget's launching throttles into 'maximum lurch' and
+
+G-forces push them backwards as the ship charges]
+
+[-- 95 - CGI/Model Shot --------------------------------------------20:27--]
+
+[Blue Midget charges drunkenly along a launch tube, 'arms' flailing]
+
+[-- 96 - Int. Red Dwarf Ground Control station ---------------------20:30--]
+
+[GROUND CONTROLLER present]
+
+GROUND CONTROLLER
+
+Come back Mister Sucks, come back!
+
+[-- 97 - CGI/Model shot --------------------------------------------20:33--]
+
+[Blue Midget speeds away from the lumbering Red Dwarf]
+
+[-- 98 - CGI/Model shot --------------------------------------------20:38--]
+
+[Blue midget heads off alone into space]
+
+[-- 99 - Int. Blue Midget cockpit ----------------------------------20:42--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+KOCHANSKI
+
+There's nothing on the scanner for a thousand mile radius... We're in the
+
+clear, guys!
+
+LISTER
+
+Yes, oh yes!
+
+KRYTEN
+
+I don't believe we are, ma'am...
+
+CAT
+
+What's up?
+
+KRYTEN
+
+According to the supplies inventory we're frighteningly low on... oh, and
+
+everyone was so happy, I can barely say it out loud...
+
+RIMMER
+
+What are we frighteningly low on? Oxygen?
+
+KRYTEN
+
+Worse! Fabric softener!
+
+Suggest we chart a course to the nearest derelict, the SS Einstein...
+
+before everyone's woolens get all bibbly-bobbly!
+
+CAT
+
+Einstein? Wasn't he the dude who discovered America?
+
+RIMMER
+
+Einstein discovered the Theory of Relativity.
+
+CAT
+
+Where did he discover it? Was it fossilised, and stuff?
+
+[RIMMER draws in breath and prepares to lecture]
+
+RIMMER
+
+The Theory of Relativity is...
+
+[RIMMER breaks off, eyes casting around for inspiration. Finally, he gives
+
+up]
+
+RIMMER
+
+What is the Theory of Relativity?
+
+[LISTER looks up at the computer viewscreen above their heads]
+
+LISTER
+
+Yeah, what is it, Holl?
+
+[-- 100 - Computer viewscreen --------------------------------------21:33--]
+
+[HOLLY present]
+
+HOLLY
+
+Bit busy at the moment, Dave.
+
+[-- 101 - Int. Blue Midget cockpit ---------------------------------21:36--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+LISTER
+
+Well, just tell us what is is in, sort of, simple layman's terms.
+
+[-- 102 - Computer viewscreen --------------------------------------21:39--]
+
+[HOLLY present]
+
+HOLLY
+
+It's a theory.
+
+[-- 103 - Int. Blue Midget cockpit ---------------------------------21:41--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+LISTER
+
+Yeah, but what is it?
+
+[-- 104 - Computer viewscreen --------------------------------------21:43--]
+
+[HOLLY present]
+
+HOLLY
+
+Oh, you want it more complicated than that, do you?
+
+[-- 105 - Int. Blue Midget cockpit ---------------------------------21:46--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+LISTER
+
+What does it mean?
+
+[-- 106 - Computer viewscreen --------------------------------------21:47--]
+
+[HOLLY present]
+
+HOLLY
+
+It's the Theory of Relativity. You know, it's the theory you only tell
+
+your relatives.
+
+[-- 107 - Int. Blue Midget cockpit ---------------------------------21:56--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+RIMMER
+
+It's so sad. Holly's supposed to have an I.Q. of 6000. Now, I doubt he
+
+could even spell I.Q.
+
+[-- 108 - Computer viewscreen --------------------------------------22:02--]
+
+[HOLLY present]
+
+HOLLY
+
+If I'm so stupid, if I'm computer senile, explain this then.
+
+[-- 109 - Int. Blue Midget cockpit ---------------------------------22:06--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+[There is a pause. HOLLY does not elaborate]
+
+CAT
+
+Explain what?
+
+[-- 110 - Computer viewscreen --------------------------------------22:09--]
+
+[HOLLY present]
+
+HOLLY
+
+You can't, can you.
+
+[-- 111 - Int. Blue Midget cockpit ---------------------------------22:12--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+[LISTER exchanges glances with the others]
+
+LISTER
+
+Explain what??
+
+[-- 112 - Computer viewscreen --------------------------------------22:16--]
+
+[HOLLY present]
+
+HOLLY
+
+It's no good stalling, trying to buy time.
+
+If I'm so stupid, explain why I was able to re-create a new set of
+
+nanobots and get them to resurrect the crew.
+
+[-- 113 - Int. Blue Midget cockpit ---------------------------------22:27--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+[All five stare up at the viewscreen]
+
+RIMMER
+
+What?
+
+LISTER
+
+Eh?
+
+KOCHANSKI
+
+What?
+
+KRYTEN
+
+What?
+
+[-- 114 - Computer viewscreen --------------------------------------22:29--]
+
+[HOLLY present]
+
+HOLLY
+
+I thought you'd be pleased.
+
+[-- 115 - Int. Blue Midget cockpit ---------------------------------22:31--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+CAT
+
+But why?
+
+[-- 116 - Computer viewscreen --------------------------------------22:33--]
+
+[HOLLY present]
+
+HOLLY
+
+My job is to keep Dave sane. True, I'm not that good at it, but I do my
+
+best. That's why I create these little diversions to keep him occupied.
+
+[-- 117 - Int. Blue Midget cockpit ---------------------------------22:42--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+LISTER
+
+But Holl, we could have wound up doing two years in the brig!
+
+[-- 118 - Computer viewscreen --------------------------------------22:46--]
+
+[HOLLY present]
+
+HOLLY
+
+Still could. I've just worked it out, we're still in A.R.
+
+[-- 119 - Int. Blue Midget cockpit ---------------------------------22:51--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+ALL
+
+What?
+
+[-- 120 - Computer viewscreen --------------------------------------22:53--]
+
+[HOLLY present]
+
+HOLLY
+
+In computer jargon: my plans have all gone tits-up.
+
+[-- 121 - Int. Captain's office ------------------------------------22:57--]
+
+[CAPTAIN HOLLISTER present]
+
+[HOLLISTER is sat at his desk, watching events unfold on a large viewscreen
+
+on the wall at the opposite end of his office]
+
+[-- 122 - Blue-framed computer viewscreen --------------------------23:00--]
+
+[Red Dwarf HOLLY present]
+
+[This version of HOLLY appears much like our own, except that his head is
+
+elongated at the top, giving him a large forehead with texture mapping
+
+that warps strangely as his head moves up and down]
+
+[-- 123 - Int. Captain's office ------------------------------------23:02--]
+
+[CAPTAIN HOLLISTER present]
+
+HOLLY [on viewscreen]
+
+I was out-thought, and out-manoeuvred.
+
+LISTER [on viewscreen]
+
+Who by?
+
+[-- 124 - Computer viewscreen --------------------------------------23:05--]
+
+HOLLY
+
+By a superior intellect.
+
+[-- 125 - Int. Blue Midget cockpit ---------------------------------23:07--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+CAT
+
+You mean the hand-dryer in the men's toilets has outsmarted you again?
+
+[-- 126 - Computer viewscreen --------------------------------------23:13--]
+
+[HOLLY present]
+
+HOLLY
+
+No, by that -
+
+[-- 127 - Int. Captain's office ------------------------------------23:14--]
+
+[CAPTAIN HOLLISTER present]
+
+HOLLY [on viewscreen]
+
+- other version of me, the one on -
+
+[-- 128 - Blue-framed computer viewscreen --------------------------23:16--]
+
+[Red Dwarf HOLLY present]
+
+HOLLY [VO]
+
+- Red Dwarf. This is -
+
+[-- 129 - Computer viewscreen --------------------------------------23:17--]
+
+[HOLLY present]
+
+HOLLY
+
+- still our trial.
+
+[-- 130 - Int. Blue Midget cockpit ---------------------------------23:18--]
+
+[CAT, KRYTEN, RIMMER, LISTER, KOCHANSKI present]
+
+CAT
+
+Our trial?? Why didn't you say? If I'd have known, I'd have worn a tie!
+
+[-- 131 - Int. Captain's office -------------------------------Raz--23:23--]
+
+[CAPTAIN HOLLISTER present]
+
+[Enter R.D. HOLLY]
+
+[As HOLLISTER finishes watching, the image of the A.R. simulation on the
+
+viewscreen is cleared with a diagonal wipe and is replaced by the image of
+
+Red Dwarf's HOLLY]
+
+HOLLISTER
+
+Well, for me, Lister's nanobots story is corroborated. They were trying to
+
+track 'em down. Their actions in the psychotropically induced scenario bear
+
+that out.
+
+R.D. HOLLY
+
+I agree Frank. I also believe we died, and were, indeed, resurrected.
+
+[-- 132 - Computer viewscreen --------------------------------------23:40--]
+
+[Red Dwarf HOLLY present]
+
+R.D. HOLLY
+
+Again, borne out by their actions.
+
+[-- 133 - Int. Captain's office ------------------------------------23:42--]
+
+[CAPTAIN HOLLISTER present]
+
+[R.D. HOLLY present, on viewscreen]
+
+HOLLISTER
+
+So, original charges: all innocent. But, its equally apparent that they
+
+used classified information from the crew's confidential files to their own
+
+ends. I suspected Rimmer had access the moment he walked into my office and
+
+began acting incredibly smart and knowledgeable.
+
+[-- 134 - Computer viewscreen --------------------------------------23:59--]
+
+[Red Dwarf HOLLY present]
+
+[The computer's image smiles at the thought]
+
+R.D. HOLLY
+
+What a giveaway.
+
+[-- 135 - Int. Captain's office ------------------------------------24:02--]
+
+[CAPTAIN HOLLISTER present]
+
+[R.D. HOLLY present, on viewscreen]
+
+HOLLISTER
+
+That's why I got him to lick one of the psychotropic envelopes when I
+
+invited him to dinner.
+
+[-- 136 - Computer viewscreen --------------------------------------24:07--]
+
+[Red Dwarf HOLLY present]
+
+R.D. HOLLY
+
+So, abusing classified information. That's a fresh charge.
+
+[-- 137 - Int. Captain's office ------------------------------------24:11--]
+
+[CAPTAIN HOLLISTER present]
+
+[R.D. HOLLY present, on viewscreen]
+
+HOLLISTER
+
+And on that, they're all guilty.
+
+[-- 138 - Computer viewscreen --------------------------------------24:13--]
+
+[Red Dwarf HOLLY present]
+
+R.D. HOLLY
+
+That's a statutory sentence.
+
+[-- 139 - Int. Captain's office -----------------------------------24:15--]
+
+[CAPTAIN HOLLISTER present]
+
+[R.D. HOLLY present, on viewscreen]
+
+HOLLISTER
+
+I know. Two years in the brig.
+
+[-- 140 - Computer viewscreen -------------------------------------24:16--]
+
+[Red Dwarf HOLLY present]
+
+R.D. HOLLY
+
+So, instead of the original charge and a possible sentence of two years
+
+in the brig -
+
+[-- 141 - Int. Captain's office -----------------------------------24:21--]
+
+[CAPTAIN HOLLISTER present]
+
+[R.D. HOLLY present, on viewscreen]
+
+R.D. HOLLY
+
+- they've been found guilty on another charge, and got an entirely
+
+different two years in the brig.
+
+[-- 142 - Computer viewscreen -------------------------------------24:27--]
+
+[Red Dwarf HOLLY present]
+
+R.D. HOLLY
+
+That's going to be a great comfort to them.
+
+I'll bring them around, and break the news.
+
+[-- 143 - Int. Artificial Reality chamber --------------------------24:36--]
+
+[LISTER, KRYTEN, KOCHANSKI, CAT, RIMMER present]
+
+[Again we see the Dwarfers hooked up to the A.R. interfaces, and this time
+
+RIMMER occupies an interface point too. The simulation shuts down for real,
+
+the control sticks retracting into their housings, and the Dwarfer's
+
+regain normal consciousness]
+
+RIMMER
+
+This is reality? But how can we be sure?
+
+CAT
+
+Why do we care? Nothing makes any sense no matter where we are.
+
+LISTER
+
+Look, everything was real before we licked the envelopes, right? Then we
+
+conked out, and got carted off to A.R.
+
+Before we licked *anything*... before we licked anything... I lent you my
+
+Holly watch!
+
+RIMMER
+
+So if this is reality, I should still be wearing it...
+
+[-- 144 - Composite shot -------------------------------------------25:03--]
+
+[HOLLY present]
+
+[Closeup of RIMMER's wristwatch, HOLLY's head is superimposed onto the face]
+
+HOLLY
+
+Oh yeah, this is reality, all right. I'd recognise it anywhere.
+
+[-- 145 - Int. Artificial Reality chamber --------------------------25:08--]
+
+[LISTER, KRYTEN, KOCHANSKI, CAT, RIMMER present]
+
+KRYTEN
+
+Also, sir, shouldn't you have the viruses? Again, you found them on
+
+Starbug before we licked the envelopes.
+
+[RIMMER takes out the two test tubes to confirm, then holds up the blue
+
+Luck virus, studying the contents of the tube]
+
+RIMMER
+
+The Luck virus; maybe we can still get out of this mess...
+
+[Enter HOLLISTER]
+
+[Like a true cartoon villain, HOLLISTER swipes the Luck virus before
+
+RIMMER can react]
+
+HOLLISTER
+
+I'll have that. The lab boys are gonna want to run tests on it.
+
+[Out of sight, RIMMER surreptitiously hands the Sexual Magnetism virus
+
+to LISTER]
+
+HOLLISTER
+
+Where's the other one?
+
+RIMMER
+
+I'm afraid I lost it, sir.
+
+HOLLISTER
+
+God damn it, Rimmer! I wanted that! Er, I mean, the lab boys wanted it,
+
+to, er, test it, too. Damn!
+
+[Exit HOLLISTER]
+
+KOCHANSKI
+
+This is all your fault.
+
+RIMMER
+
+My fault?
+
+KOCHANSKI
+
+You betrayed us over that confidential files scam -
+
+LISTER
+
+Stole the Sexual Magnetism virus -
+
+KRYTEN
+
+You lied to us -
+
+KOCHANSKI
+
+And generally behaved like a self-serving, scum-sucking, ruthless little
+
+ratbag!
+
+RIMMER
+
+And that's bad?
+
+[-- 146 - Int. Holding cells ---------------------------------------25:55--]
+
+[CAT, RIMMER, KRYTEN, LISTER, KOCHANSKI present]
+
+[HOLLY present, displayed on a mobile monitor beside KOCHANSKI]
+
+[The humanoid Dwarfers are all dressed in featureless grey jumpsuits, and
+
+are lined up against a wall marked with height lines. Each holds a board
+
+on which is stencilled their prisoner number. The board displaying
+
+HOLLY's number sits on top of his monitor casing]
+
+HOLLISTER [VO]
+
+It is the finding of this enquiry that you have been found guilty of
+
+contravening Act 21 of the Space Federation. Before sentencing, you will
+
+have medicals so you can be assigned appropriate prison status.
+
+HOLLY
+
+I've buggered this up a bit, haven't I.
+
+[-- 147 - Int. Elevator --------------------------------------------26:12--]
+
+[Close up on control panel in the lift wall. Beside the buttons marked with
+
+floor numbers is an inset panel coloured with black and yellow chevrons
+
+and labelled "Authorised personnel only". A gloved hand enters the shot,
+
+inserts a key into a lock set into the panel and turns it, sliding open
+
+the cover of a previously hidden button. The button is marked with the
+
+number 13. The gloved hand presses the button, which illuminates, then
+
+re-locks the cover]
+
+[-- 148 - CGI/Model shot -------------------------------------------26:17--]
+
+[The elevator speeds down its shaft]
+
+[-- 149 - Int. Floor 13 penal colony -------------------------------26:22--]
+
+[We look down from a ledge overlooking a vast cylindrical chamber. Walkways
+
+at various levels circle the chamber, and a group of people standing in
+
+lines can be made out at the bottom]
+
+[-- 150 - Int. Floor 13 penal colony induction area -----------------x:xx--]
+
+[PRISONERS, WARDENS, GOVENOR present]
+
+[Enter RIMMER, LISTER, CAT, KRYTEN]
+
+[The Dwarfers make their way uneasily between the ranks of hard-faced
+
+prisoners. RIMMER stands in the front-most line, LISTER in the row behind
+
+him, KRYTEN and CAT behind him somewhere, out of sight]
+
+GOVENOR
+
+Welcome to the Tank...
+
+[As the lines wait patiently, LISTER creeps up behind RIMMER, takes out the
+
+tube of Sexual Magnetism virus and sprinkles it liberally across RIMMER's
+
+shoulder before shuffling away. Unaware, RIMMER slowly begins to notice
+
+the inmates around him casting glances in his direction, then moving
+
+closer with disturbing smiles on their faces. As pairs of grimy hands
+
+begin to fasten around his body parts, RIMMER succumbs to panic and the
+
+scene mercifully disappears from sight...]
+
+[------------------------ END OF "BACK IN THE RED" -----------------26:54--]
+
+[CAST REFERENCE]
+
+RIMMER LISTER CAT
+
+Chris Barrie Craig Charles Danny John-Jules
+
+KRYTEN KOCHANSKI HOLLY
+
+Robert Llewellyn Chloe Annett Norman Lovett
+
+CAPTAIN [HOLLISTER] [GOVENOR] ACKERMAN 1st GROUND CONTROLLER
+
+Mac McDonald Graham McTavish Yasmin Bannerman
+
+2nd GROUND CONTROLLER MP THORNTON
+
+Jeillo Edwards Karl Glenn Stimpson
+
+[Transcribed and narrated by Raz from the original episode by Doug Naylor;
+
+no copyright infringement or toe-stepping intended. Comments, criticisms
+
+and corrections welcomed at "raz@matrixcity.org" Thanks.]

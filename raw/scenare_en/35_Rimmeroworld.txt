@@ -1,0 +1,376 @@
+RED DWARF Season VI Episode 5 “Rimmerworld”
+
+Created by Rob Grant & Dough Naylor, Written by Dough Naylor,
+Paul Alexander
+
+1 Model. Starbug flypast.
+
+2 Int. Starbug Medical Lab.
+
+Kryten is pressing buttons on a control panel, while Rimmer lies on a bench.
+
+Kryten (Moving to the end of the bench) Well, that's finished the
+tests sir. We just have to wait while the Navicomp processes the results.
+Unfortunately I have had to allow for the fact that you cheated at your
+eye tests.
+
+Rimmer
+(Sitting up)
+What do you mean, cheated?
+
+Kryten There's no point in lying sir. You crept in here last night,
+knowing you were going to have a medical, and you copied the eye charts
+onto your shoes.
+
+Rimmer I admit I might have taken a peek, but I'm a competitive man
+Kryten, always have been. That's what makes me what I am.
+
+Kryten We're all perfectly well aware of what you are sir. Oh, the
+results.
+(Moves over to the panel, and returns with a small piece of card)
+
+Rimmer
+(Standing)
+Ah, everything tickedyboo?
+
+Kryten Would you like to take a seat for a moment sir?
+
+Rimmer
+(Sitting on the bench)
+Problem?
+
+Kryten You don't have any next of kin, do you sir?
+
+Rimmer No, they all died of heart attacks. And not just heart attacks
+- aneurysms, strokes, brain clots, you name it.
+
+Kryten Are you of the school that, when faced with bad news, prefers
+to hear that news naked and unvarnished, or are you of the ilk that
+prefers to live in happy and blissful ignorance of the nightmare you're facing.
+
+Rimmer Ignorance, every time.
+
+Kryten
+(Very cheerily)
+Congratulations sir! You've come
+storming through your medical with flying colours. See you next time.
+
+Rimmer Everything's OK then?
+
+Kryten Absolutely peachy.
+
+Rimmer I want to know, Kryten, if there's something wrong.
+
+Kryten If there were something wrong, sir, I would tell you.
+
+Rimmer Even if I'd asked you not to?
+
+Kryten Well no. In that case I would lie and tell you everything was
+absolutely peachy.
+
+Rimmer Kryten, I want to know, that's why I asked for a medical. Is
+there bad news?
+
+Kryten Lie mode cancel. Yes sir, I'm afraid there is.
+
+Rimmer
+(Half sitting up, clutching chest)
+I knew it. It's the
+headaches isn't it. And the heart palpitations and the blackouts and the
+chest pains and the voices. It's something to do with that isn't it?
+
+Kryten Sir, when you died you were recreated as a hologram and your
+exact personality was refined to an algorithm and duplicated
+electronically. If that algorithm contained a flaw, that flaw would be
+duplicated also.
+
+Rimmer Flaw?
+
+Kryten It's not common, but it's possible for a hologram to die.
+
+Rimmer Kryten, kindly get to the point before I jam your nose between
+your cheeks and make it the filling of a buttock sandwich.
+
+Kryten As a result of both genetics and environment you are
+particularly prone to stress-related nervous disorders, and your
+activities over the past couple of years have pushed your brain to, well
+frankly beyond breaking point. (Rimmer starts breathing heavily, and
+moves over to what looks like a deep sleep booth) Your T count, which is
+the hologrammatic equivalent of blood pressure, is higher than a hippy
+on the third day of an open air festival, and if you wish to avoid a
+gigantic electronic aneurysm, it is imperative that you start on a
+program of relaxation.
+
+Rimmer I see, and you thought that the best way for me to start this
+program of relaxation was to tell me my brains are about to explode. You've
+got the bedside manner of an abattoir giblet gutter.
+
+Kryten Here's what I suggest. Try and avoid all stressful situations.
+Spend more time in your hard light form and take a little exercise. And
+here (moving over to a cupboard), try these Chinese worry balls whenever
+you feel anxious or tense. (Rimmer looks at the balls suspiciously)
+
+Lister
+(Entering)
+Hey, maybe some good news. Come and check it out. (Leaves)
+
+Rimmer Er, Kryten, I don't want the others to know about this. I want
+you to behave as if everything's absolutely normal.
+
+Kryten As you wish sir.
+
+3 Model. Starbug approaching Simulant ship.
+
+4 Int. Starbug Cockpit
+
+Lister There she blows.
+
+Cat Logging onto the ident computer.
+
+Rimmer
+(Entering, standing by Lister's chair)
+What's this?
+
+Lister We've come across the simulant ship we totalled a couple of
+weeks back. We're gonna try and board it for supplies.
+
+Kryten Is that wise sir? The scan says the superstructure is highly
+unstable and could go at any time.
+
+Rimmer What if some of the simulants have survived?
+
+Cat There's an old Cat saying: "If you're gonna eat tuna, expect
+bones."
+
+Rimmer
+(Back in his own seat)
+There's an old human saying:
+"If you're gonna talk garbage, expect pain."
+
+Lister Look, we'll take our chances man, OK?
+
+Rimmer No K. They're cybernetically deranged mechanical killing
+machines. Not content with blasting their ship out of the sky, you now
+want to go back and steal what remains of their belongings? That's the
+metaphorical equivalent of flopping your wedding tackle into a lion's
+mouth and flicking his love spuds with a wet towel. Total insanity.
+
+Lister Look, ever since that refrigeration unit packed in we've had
+to live off a few pathetic handfuls of moss and fungi scraped off
+passing asteroids. I can't stand it any more.
+
+Kryten Well sir, are you really saying you'd rather have a
+psychopathic mechanical killer rip off your skull and play your frontal
+nodes like a xylophone than have another bowl of my nourishing space
+nettle soup?
+
+Cat Buddy, I'd hand him the sticks and hold up the sheet music.
+
+Rimmer Lister, they are simulants. Why on Io should they have food
+supplies?
+
+Lister Because the ident computer says they do. Look,stocked to the
+gills.
+
+Kryten
+(To Rimmer)
+It's true sir. Rogue simulants always carry
+large stocks of food supplies in order to prolong the torment of their
+torture victims. In some cases, they've kept subjects alive for over
+forty years in a state of perpetual agony.
+
+Rimmer If we wanted to live in a state of perpetual agony, we'd let
+Lister play his guitar. We don't. I say drive on.
+
+Lister Kryten, what's for dinner?
+
+Kryten Tonight sir, asteroidal lichen stew followed by dandelion
+sorbet.
+
+Lister We're going in.
+
+5 Model. Starbug docking with Simulant ship.
+
+6 Int. Mid section.
+
+Kryten
+(To Lister)
+Sir, can't you see your behaviour is
+totally irrational?
+
+Rimmer In which case we can remove him from duty as per Space Corps
+Directive 1_9_6_1_5_6.
+
+Kryten 1_9_6_1_5_6? Any officer caught sniffing the saddle of the
+exercise bicycle in the women's gym will be discharged without trial?
+Hmm, I'm sorry sir, that doesn't quite get to the nub of the matter for
+me
+. (To Lister)
+Sir, we have enough thistles and weeds and
+cultured fungus for you to scrum yourself stupid until the day you die.
+This foolhardy trip beggars logic.
+
+Rimmer Lister, we'd be fools not to listen to him. When is he ever
+wrong? Alright, he may have a head shaped like an inexplicably popular
+fishing float but he does operate from a position of total logic and we'd
+be fools to ignore his sage council.
+
+Kryten At least let me and Mister Rimmer go in your place. We are
+after all merely electronic life forms and therefore expendable.
+
+Rimmer And what the smeg would you know, bog-bot from hell?
+
+Lister There's something else. I didn't want to say in front of the
+Cat.
+(Quick shot of Cat)
+The reserve fuel tank got punctured when
+we crashed into that ocean moon. If we don't resupply, we're out of
+power, two, three days.
+
+Kryten
+(Checking a panel)
+But what about the readouts?
+
+Lister I rigged the readouts. I didn't want to cause any alarm.
+
+Rimmer You rigged the readouts! You didn't want to cause any a..
+(hyperventilates,
+and recovers as he grinds the worry balls)
+I can't breathe, I'm
+hyperventilating.
+
+Kryten Please sir, don't panic.
+
+Rimmer It's not panic, it's a full-blown hysterical fit!
+
+Kryten Grind those balls sir! Grind them!
+
+Rimmer
+(Grinding)
+So let me get this straight. If we board
+that ship and get captured, we're finished. However if we board that
+ship and don't get captured, but the superstructure disintegrates around
+us, we're finished. On the other hand, if we board that ship and don't
+get captured and the superstructure doesn't disintegrate around us, but
+we can't find any fuel, we are in fact finished.
+
+Lister That's about the shape of it, yeah.
+
+Kryten After you with the balls sir.
+
+Lister Look, we're out of options. We've got less choice than a Welsh
+fish and chip shop. We've got to board that ship, even if it is on the
+brink of disintegration. Let's just pray the crew are rotting in Silicon
+Hell with all the photocopiers.
+
+Rimmer Look, you three go. I'm not leaving Starbug.
+
+Lister Fine, that's fair enough. Unless of course something weird and
+hideously ironic happens, like while we were away you get boarded by a
+rampaging torture party of crazed simulants in the rapid grip of
+bloodlust fever.
+
+Rimmer I'll go and pack. (Moves to the staircase)
+
+Lister Bring your extra brown rubber safety pants.
+
+(Rimmer climbs the staircase) And your hard light remote belt, we
+need all the hands we can muster.
+
+7 Model. Simulant ship.
+
+8 Int. Corridor of Simulant ship.
+
+Kryten Lifesigns.
+
+Cat If one of those suckers bumps into me, he'll be lunching on
+laser,
+(Arms bazookoid)
+Last time we met I was wearing the same
+outfit, and no-one's gonna survive to tell that story.
+
+Lister Listen guys, I suppose now's as good as time as any to tell
+you.
+
+Rimmer Tell us what?
+
+Lister We can't actually use the bazookoids. They're for
+psychological reasons only. Look, the scan said that the superstructure
+is so unstable that even a load noise could start a shipquake. That's
+why I skipped chillies for breakfast
+. (Reacting to the others' stares)
+
+Why are you all looking at me like that?
+
+Cat Like what?
+
+Lister Like I'm a nostril hair in a Spanish omelette.
+
+Rimmer Why didn't you tell us?
+
+Lister Didn't wanna cause any panic.
+
+Rimmer You didn't want to cause any p..
+(Hyperventilates, then
+slowly recovers as he grinds the balls)
+Let me get this clear in my
+head. If we meet one of these totally deranged killing machines, we have
+to engage them in combat silently? What do we do, whisper "charge",
+tippytoe up to them all screaming "shhh" and chloroform them
+with Lister's armpits? Priceless.
+
+9 Int. Another corridor.
+
+The crew move carefully along, in the order Lister, Kryten, Cat and
+Rimmer.
+
+Lister
+(Spotting)
+A teleporter.
+
+Kryten
+(Checking the controls)
+Hmmm, fully functional.
+
+Cat Let's grab what we can and load up.
+
+Rimmer Quietly.
+
+We see Lister and Cat loading the teleporter, and a variety of crates
+materialising in Starbug's mid section. They drop a crate. Worried faces
+as the noise echoes throughout the ship.
+
+Kryten It's not gonna hold much longer sir, we'd better make this the
+last batch.
+
+Lister One more trip Kryten, let me get one more crate of that red
+hot West Indian red pepper sauce.
+
+In the background, the female Simulant from "Gunmen of the
+Apocalypse" lurches through a doorway, causing more rumbling from
+the ship's hull. She doesn't appear to be in very good shape.
+
+Kryten Shhhhh.
+
+Simulant
+(Pointing her weapon at the crew)
+Well, if it isn't
+my old friends, the human vermin, the scab of slime, the pus-sucking,
+puke-laden walking cesspits of unspeakableness.
+
+Cat She remembers us
+
+Simulant Annihilated my ship, slaughtered by fellow simulants, and
+you practically destroyed me. Yes, I remember you.
+
+Cat
+(Pointing at the Simulant)
+There's one thing you should
+know. Last time we met I was wearing a cute little black number with
+peach trim and gold spangles, and although it looks like I'm wearing the
+same outfit today, it is in fact an entirely different cute little black
+number with completely different gold spangles.
+
+Kryten That was an important speech sir, and it needed to be made,
+but might I suggest that from this moment the rest of the discourse is
+conduct

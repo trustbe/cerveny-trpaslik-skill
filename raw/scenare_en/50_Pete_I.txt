@@ -1,0 +1,1669 @@
+[--------------------------------------------------------------------------]
+
+RED DWARF - SERIES 8
+
+[--------------------------------------------------------------------------]
+
+EPISODE 6 -- PETE, part 1
+
+[--------------------------------------------------------------------------]
+
+Version 0.4
+
+26 March, 1999
+
+Raz / raz@matrixcity.org
+
+http://www.matrixcity.org
+
+Credits for corrections:
+
+Brett Dunbar
+
+[-- 1 - Int./Ext. Scene desc. ---------------------------------------x:xx--]
+
+[-- 2 - Int./Ext. Scene desc. ---------------------------------------x:xx--]
+
+[-- 3 - Int. Captain's office ---------------------------------------x:xx--]
+
+[CAPTAIN HOLLISTER, GOVENOR ACKERMAN present]
+
+[ENTER LISTER, RIMMER]
+
+HOLLISTER
+
+I understand you played an idiotic prank on a senior and much respected
+
+officer yesterday.
+
+RIMMER
+
+That is just not true, sir. We played a prank on Mister Ackerman, sir -
+
+Oh, I *see*...
+
+HOLLISTER
+
+What happenned?
+
+LISTER
+
+We inserted a capsule of the truth serum, sodium pentathol, into his
+
+asthma inhaler, sir.
+
+HOLLISTER
+
+Ah, which is why he rushed onto the bridge this morning, apologised for
+
+being late, saying he'd been having 'jiggy-jiggy' with the Science Officer's
+
+wife, and hadn't allowed enough time to change out of his Batman outfit...
+
+RIMMER
+
+Permission to snigger, sir?
+
+HOLLISTER
+
+Permission refused.
+
+RIMMER
+
+May have to snigger anyway, sir...
+
+[The pair bow their heads and proceed to do just that]
+
+HOLLISTER
+
+Do either of you have anything to say?
+
+LISTER
+
+About what, sir?
+
+HOLLISTER
+
+About Mister Ackerman! About him being late, and wearing a Batman outfit?
+
+LISTER
+
+Has he considered being Tarzan? Costume change'd be much quicker.
+
+HOLLISTER
+
+You two are both serving a two-year sentence in the brig. Do you *want* to
+
+get out? Ever?
+
+LISTER
+
+It's that Mister Ackerman's so... ... *horrible*, sir.
+
+ACKERMAN
+
+I am *not*, sir! I'm extremely nice! Lovely, in fact. Warm; caring, but
+
+most of all, nice. Hence my nickname: 'Nicey' Ackerman. That's why I entered
+
+the service, sir; so I could share my sunny disposition with *inmate scum*
+
+who didn't have my start in life.
+
+RIMMER
+
+Sir, he's been horrible since the day we first met him:
+
+[-- 4 - Int./Ext. Scene desc. ---------------------------------------x:xx--]
+
+[Flashback to the Dwarfer's first day in the Tank. The inmates are lined
+
+up at the base of a circular chamber]
+
+ACKERMAN
+
+Today, we have a new intake. To them, I say: obey the rules; keep out of
+
+trouble, and you time here will pass much more pleasantly. Welcome to Floor
+
+13.
+
+CAT
+
+Seems like a nice guy!
+
+[ACKERMAN steps up to CAT, suddenly elbows him in the stomach, thumps him
+
+several times with his nightstick, then hauls him to his to his feet]
+
+ACKERMAN
+
+If you want to speak, ask my permission.
+
+CAT
+
+I was just saying how nice you seemed!
+
+ACKERMAN
+
+You spoke again.
+
+[Enter WARDEN KNOT]
+
+[ACKERMAN and KNOT proceed to beat CAT with fists and nightsticks, drawing
+
+winces from RIMMER and LISTER. ACKERMAN draws CAT upright again]
+
+CAT
+
+But I was paying you a compliment, buddy! I was saying how you seemed to
+
+be a fair-minded, okay kind of guy; not one of these psycho-types you
+
+sometimes get running around prisons.
+
+[ACKERMAN seems concerned that somehow he is being misunderstood, but this
+
+soon passes in favour of an amused smile]
+
+ACKERMAN
+
+You spoke again!
+
+[He and KNOT lay into the clueless feline once more. A guard from the rear
+
+of the lines joins in. CAT struggles to reach up and tap LISTER on the
+
+shoulder]
+
+CAT
+
+Come on, dude, back me up!
+
+[LISTER does his best to ignore events, and left to his own devices, CAT
+
+suddenly realises something]
+
+CAT
+
+Hang on, wait! I get it, I should shut up! If I shut up they'll stop
+
+hitting me.
+
+[CAT takes a deep breath and exaggeratedly clamps his mouth shut. Instantly
+
+his assailants stop their blows. ACKERMAN nods approvingly, sets CAT back
+
+onto his feet and stands him back in line. CAT smiles with satisfaction at
+
+working out this conundrum]
+
+CAT
+
+That is definitely the key!
+
+[CAT is grabbed from behind by ACKERMAN, KNOT and the guard, and a second
+
+GUARD steps in to assist in the renewed pummeling]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[HOLLISTER, ACKERMAN, RIMMER, LISTER present]
+
+ACKERMAN
+
+That is totally untrue, sir!
+
+HOLLISTER
+
+Save it.
+
+ACKERMAN
+
+What actually happenned -
+
+HOLLISTER
+
+Save it! Save it, Mister Ackerman.
+
+I've thought long and hard about a suitable punishment, and I've come up
+
+with this: you, and a team of your choice, will play Basketball against a
+
+team of guards led by Mister Ackerman -
+
+ACKERMAN
+
+God bless you, sir.
+
+HOLLISTER
+
+- where you will be trounced and humiliated in front of the entire inmate
+
+population.
+
+RIMMER
+
+But sir, if we lose, Baxter and his cronies will beat us to a pulp!
+
+HOLLISTER
+
+You better win, then!
+
+[-- xx - Int./Ext. Scene desc. ---------------------------------Raz--x:xx--]
+
+[Lister's team losing badly, guards body-checking and punching them]
+
+[Half-time sounds]
+
+[Score 48-3 to guards]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+HOLLISTER
+
+Okay guys, way to go!
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+KRYTEN
+
+Where were you?
+
+KOCHANSKI
+
+Where was I?
+
+KRYTEN
+
+You were supposed to be picking up Rice!
+
+KOCHANSKI
+
+I did. We're meeting up for drinks on Thursday.
+
+KRYTEN
+
+Not that kind of 'picking up', you ninny.
+
+CAT
+
+Buddies, we've gotta stop arguing, we can't lose this!
+
+LISTER
+
+Got it all taken care of...
+
+RIMMER
+
+As soon as the guards swig their half-time juice...
+
+LISTER
+
+Yeah, the Skutters managed to smuggles something out of the medi-lab for
+
+us, y'know that stuff that helps impotent guys put the zest back in their
+
+love lives?
+
+KRYTEN
+
+'Boing!', the virility enhancement drug!?
+
+LISTER
+
+That's the stuff, and we've Mickey Finn'd their drinks.
+
+RIMMER
+
+Within seconds, you're harder than a quadratic equation, and, it doesn't
+
+wear off for seven hours.
+
+KRYTEN
+
+For seven hours those guys are going to be like catapults!
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+KRYTEN [OOS]
+
+That's going to seriously slow them down.
+
+CAT [OOS]
+
+You're not kidding -
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+CAT
+
+Try moving fast with a fishing pole in your pants!
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+HOLLISTER
+
+Get out there and kill! They're lambs to the slaughter!
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+HOLLISTER
+
+Go on, go get 'em!
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[Dwarfer's team running rings round guards, who can't stand straight or move
+
+fast]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+HOLLISTER
+
+Come on! Get your hands up!
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[48-5]
+
+[48-19]
+
+[48-36]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+HOLLISTER
+
+Get your hands up, don't let them shoot! Don't let them shoot!
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[48-42]
+
+[48-49]
+
+[48-53]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[Thoroughly depressed, HOLLISTER takes a long draw from a guard's bottle of
+
+juice, and within seconds notices a distinct feeling of movement in his
+
+trousers]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[CAPTAIN HOLLISTER present]
+
+[Enter RIMMER, LISTER]
+
+HOLLISTER
+
+Seven hours. Do you know how *long* that is? I couldn't remove my shorts
+
+until after midnight! When I wanted a leak I had to do a handstand on the
+
+toilet seat. I stopped the lift doors from closing; I wasn't even catching a
+
+lift!
+
+Where'd you get it, the medi-lab?
+
+LISTER
+
+Yes, sir.
+
+HOLLISTER
+
+How? If it was one of those damn Skutters I'm gonna have it crushed.
+
+LISTER
+
+It was, er - [coughs]
+
+It was me, sir. When the doc's back was turned. I went up to the medi-lab
+
+for a sicknote but the doctor thought I was feigning illness. He didn't
+
+accept it was possible to have Athelete's Hand.
+
+HOLLISTER
+
+First thing tomorrow you're on spud-duty for two weeks. Now get out of my
+
+sight, both of ya's...
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[RIMMER, LISTER present]
+
+[RIMMER has a draughts board in front of him on the table; he makes a three-
+
+hop move, removes the captured pieces and glances over toward LISTER]
+
+RIMMER
+
+Ha!
+
+[RIMMER carefully rotates the board 108-degrees, and flexes his arms before
+
+settling down to contemplate his opposing move. LISTER is sprawled out on
+
+his bunk, a pen hovering over the book he is looking at]
+
+LISTER
+
+Sheesh...
+
+RIMMER
+
+Stuck?
+
+LISTER
+
+Yeah... God, this is hard!
+
+RIMMER
+
+What are you doing, a crossword?
+
+LISTER
+
+No, join-the-dots.
+
+RIMMER
+
+What number are you stuck on?
+
+LISTER
+
+Hundred and twenty-four.
+
+RIMMER
+
+Hundred and twenty-four... hundred and twenty-four...
+
+Have you tried a-hundred and twenty-five?
+
+LISTER
+
+I know the number, you gimboid, it's finding it that's the hard bit. I'm
+
+not some brain-dead simpleton.
+
+Ah! There it is.
+
+Oh, look at that! It's a bucket and spade!
+
+[LISTER holds the completed picture up for RIMMER's inspection]
+
+LISTER
+
+Look at that, it's clever that, innit?
+
+[Enter GUARD]
+
+RIMMER
+
+Ah! Supper!
+
+[Exit GUARD]
+
+RIMMER
+
+Are we supposed to tip them? I'm never sure.
+
+RIMMER
+
+I've seen things more appetising on the floor of elephant houses. Only a
+
+total idiot would eat this.
+
+[RIMMER ponders for a moment, then takes a forkful]
+
+RIMMER
+
+They call this meat?? My grandmothers buttocks deep-fried in chip fat
+
+would taste better than this.
+
+LISTER
+
+We're on a punishment menu now. No chips, no ice-cream, just the basics.
+
+RIMMER
+
+Because we're on punishment detail?
+
+LISTER
+
+Yeah. Kill Crazy reckons they give us the cloning experiments that have
+
+gone wrong, with some gravy slopped over to disguise it.
+
+RIMMER
+
+You waited until I was swallowing 'til you said that, didn't you.
+
+LISTER
+
+He swears blind the other day he got something with two noses in it.
+
+RIMMER
+
+Course he didn't. They can't do that, it's illegal.
+
+LISTER
+
+His starter sneezed! Jimbo Steele was a witness.
+
+RIMMER
+
+Kill Crazy's insane, he's got lots of strange ideas. He reckons, every
+
+time they flush a loo on a plane it drops straight out, and that's why they
+
+don't let you go to the lav when the plane's standing on the runway: for
+
+fear of skid starts.
+
+[LISTER thinks about this, and shrugs]
+
+LISTER
+
+He's probably right.
+
+RIMMER
+
+Course he isn't.
+
+LISTER
+
+Well why else wouldn't they let you go, then?
+
+RIMMER
+
+I don't know. Maybe they're helping you break up your journey. If they let
+
+you go to the loo first off, you'd have nothing to do after you'd eaten your
+
+cheese.
+
+LISTER
+
+Nah, Kill Crazy's probably right. That's why houses under the flightpath
+
+are always so cheap.
+
+RIMMER
+
+Cos of all the flushing planes?
+
+LISTER
+
+Yeah, well, think about it: you can't sunbathe, you can't have a barbecue,
+
+and every time you go out you've got to wear a washable hat and leg it to
+
+your car.
+
+RIMMER
+
+It's the noise. That's why houses under the flightpath are so cheap;
+
+because of the noise.
+
+LISTER
+
+The noise?
+
+RIMMER
+
+Yeah.
+
+LISTER
+
+They're half a mile up. You'd never be able to hear people on the loo from
+
+that distance. Not unless they were like my Uncle Dan.
+
+RIMMER
+
+Not eating?
+
+LISTER
+
+Yeah, yeah. In a minute.
+
+[quiet taps are heard]
+
+[Lister opens a roof panel, and a Skutter leans in holding a foil covered
+
+container. Lister takes it, opens it and breathes deeply]
+
+LISTER
+
+Ooohhhh, chicken vindaloo...
+
+Nice one, Bob.
+
+[The Skutter disappears, then pops down again holding a six-pack of lager]
+
+LISTER
+
+What about the poppadums, you didn't forget them, did ya?
+
+[The Skutter passes down a brown paper bag]
+
+LISTER
+
+Ha haaa!
+
+Poppadums...
+
+LISTER
+
+Here's a little something for you...
+
+[He sprays the Skutter liberally with WD40]
+
+LISTER
+
+Same time tomorrow!
+
+[Skutter disappears and Lister closes the roof panel]
+
+LISTER
+
+Cheers.
+
+RIMMER
+
+Is that the Skutter who got you the stiffening solution for the basketball
+
+game?
+
+LISTER
+
+Yeah, he can get anything, can Bob. 'A claw in every pie'.
+
+RIMMER
+
+Tomorrow we're on spud-duty, and those knives are supposed to be as sharp
+
+as a Chemistry teacher's cardigan. Do you reckon he can get us a couple of
+
+good potato peelers?
+
+LISTER
+
+Hang on, I'm on to something here...
+
+Forget the potato peelers, what we want is one of those programmable
+
+viruses from the science block...
+
+RIMMER
+
+Programmable what?
+
+LISTER
+
+Yeah, they used to be on... Z-deck... I wonder if the nano's have
+
+reconstructed *them*? You can program them to do whatever you want: eat
+
+potato skins, you name it.
+
+RIMMER
+
+So we could program them to eat the skins off the potatos, and leave the
+
+rest intact?
+
+LISTER
+
+We wouldn't have to lift a finger!
+
+RIMMER
+
+Two weeks of hell would become 'potato paradise'!
+
+LISTER
+
+I'll get on the blower to Bob's missus, she'll take a message for us.
+
+RIMMER
+
+Bob has a missus?
+
+LISTER
+
+Yeah, Madge. She's amazing; nought to sixty in under ten minutes.
+
+[LISTER begins tapping a complex message on a pipe]
+
+[taps come back, and a long 'dialogue' takes place]
+
+LISTER
+
+Damn.
+
+RIMMER
+
+Can't he help us?
+
+LISTER
+
+No, wrong number.
+
+I got the Chinese laundry.
+
+Do you need anything ironing?
+
+[-- xx - Int./Ext. Scene desc. ---------------------------------Raz--x:xx--]
+
+"Destination: S.S. Manny Celeste
+
+Mission: Locate missing Canary battalion, radio contact lost at 4:53am"
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[Enter KRYTEN, KOCHANSKI, CAT]
+
+KRYTEN
+
+Now remember, two entire battalions went missing from this ship. Vanished
+
+without trace. We must stick together -
+
+[Exit CAT, KOCHANSKI]
+
+KRYTEN
+
+- and remain constantly vigilant. One minute, everything's fine, then you
+
+lose concentration for a split second, and you're all alone and easy
+
+pickings for some hostile lifeform.
+
+Oh, I know you think I'm a bit of a fusspot when it comes to safety
+
+procedures, but it's staying alert that has kept us all - kept us -
+
+Hello?
+
+Oh Creator, I'm on my own...
+
+[Enter CAT]
+
+CAT
+
+Hey, buddy! We're in here!
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[KOCHANSKI present]
+
+[Enter KRYTEN, CAT]
+
+KRYTEN
+
+What is the point of me giving my 'stay alert, everyone' pep-talk if no
+
+one is listening?
+
+CAT
+
+What?
+
+KOCHANSKI
+
+Look at this.
+
+[At the other side of the room are five male members of the Canaries. All
+
+of them stand perfectly still, like a peculiar Madame Tussauds exhibit]
+
+[KOCHANSKI taps her watch and activates HOLLY, who takes residence on a
+
+wall monitor]
+
+KOCHANSKI
+
+What are they, Holl?
+
+HOLLY
+
+They look uncannily like something you should be very, very afraid of.
+
+CAT
+
+What?
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+HOLLY
+
+Mime artists.
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+HOLLY
+
+The ones you get in those trendy town centres, that chase you down the
+
+street, and then freeze when you look at them, and everyone laughs at you.
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+KRYTEN
+
+I've never seen anything like this before. A group of men who display all
+
+the normal lifesigns, but seem totally incapable of movement.
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+HOLLY
+
+Never seen QPR play away, then?
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[KOCHANSKI plucks a small device from the hand of one the men]
+
+KOCHANSKI
+
+'Tempus'; that's Latin for 'time'.
+
+CAT
+
+Latin? I didn't even know the Romans built spaceships.
+
+KRYTEN
+
+Somehow this device appears to have caused Time to freeze. Obviously, they
+
+used it erroneously.
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[KRYTEN presses something on the device, and blue arcs of apparant
+
+electrcity arc outwards from it and play over the five Canaries, almost
+
+instantaneously they flash back into motion]
+
+CANARY
+
+Where did -
+
+[The men freeze solid again. An awkward pause ensues, until:]
+
+CANARY
+
+- you come from? And how did -
+
+- you get hold of that? It's some kind of tem-
+
+-poral stor-
+
+-age unit -
+
+KRYTEN
+
+Extraordinary!
+
+CAT
+
+Hey, this could be a great device for settling arguments!
+
+CANARY
+
+Don't mess -
+
+- with that thing, it can re-
+
+-lly screw -
+
+-ew-ew-ew -
+
+- you up!
+
+KRYTEN
+
+It appears to be able to digitise Time, and then download it and store it
+
+on a hard drive. This 'purer' Time can then be uploaded into objects, or
+
+places.
+
+KOCHANSKI
+
+To freeze people?
+
+KRYTEN
+
+Er, technically they're not frozen, ma'am, merely operating in a different
+
+'Time stream'.
+
+KOCHANSKI
+
+So you mean they're moving, just incredibly slowly?
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+HOLLY
+
+About the same speed as the average Little Chef waitress. That's why they
+
+don't appear to be actually doing anything.
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+KOCHANSKI
+
+So, this device has the ability to make Time come to a complete stop?
+
+What else can it do?
+
+[KRYTEN zaps KOHANSKI and CAT, who both instantly turn into younger versions
+
+of themselves. They appear to be aged about six years old]
+
+KOCHANSKI
+
+What's happenned!? Kryten, why are you so big, and why do I suddenly feel
+
+like a Vimto??[word?]
+
+CAT
+
+Waahhhh! You gotta get me back to normal!
+
+KOCHANSKI
+
+Do something! I can't go back like this!
+
+KRYTEN
+
+Why not? You may only be three feet tall but you're both as cute as
+
+buttons!
+
+[KRYTEN zaps both of back to their normal age, but CAT now sports an
+
+enormous afro, and KOCHANSKI's hair falls lank and straight from a
+
+centre-parting down almost to her waist]
+
+KOCHANSKI
+
+Eeuuur! What's happenned to my hair!?
+
+CAT
+
+And what's happenned to mine!
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+HOLLY
+
+You look like the Turkish entry in the Eurovision song contest.
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+KRYTEN
+
+It seems to have restored your hair to a previous Time period to the rest
+
+of you.
+
+Compensating:
+
+[A third zap, and KOCHANSKI suddenly finds herself wearing skin-tight,
+
+multi-coloured hipsters, a sequinned boob-tube and red stillettos. CAT is
+
+also dressed in similar disco-wear, including a fearsome tanktop and
+
+startling white boots]
+
+KRYTEN
+
+Now its regressed your outfits to a previous time in your lives!
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+HOLLY
+
+And you *still* look like the Turkish entry in the Eurovision song
+
+contest.
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[KRYTEN finally succeeds in restoring the pair to normal]
+
+KOCHANSKI
+
+So, here's the question: can you unfreeze these guys but take them back in
+
+Time so they have no memory of finding this?
+
+KRYTEN
+
+I think so, ma'am. Why?
+
+KOCHANSKI
+
+If we can smuggle this back on Red Dwarf, it can make our prison terms
+
+pass in seconds!
+
+KRYTEN
+
+Leave this to me. I have an excellent place to conceal it.
+
+[-- xx - Int./Ext. Scene desc. ---------------------------------Raz--x:xx--]
+
+[They return to Red Dwarf and check in through security. KRYTEN has managed
+
+to somehow enlarge his metal skull, heightening it enough to hold the
+
+device inside]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[A Skutter, whistling the theme tune to the classic war flick 'The Great
+
+Escape', passes LISTER and RIMMER in a corridor. LISTER stealthily snatches
+
+a small container from its claw as they pass]
+
+LISTER
+
+Nice - one - Bob...
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[Standing before the potato mountain, LISTER sprinkles their pre-programmed
+
+virus liberally over the foot of the pile while RIMMER looks on. Exhausting
+
+his supply, the pair stand back and wait. And wait]
+
+RIMMER
+
+It's not working, is it?
+
+LISTER
+
+Give it a bit of time to get going.
+
+RIMMER
+
+Look... look!
+
+It's working on this one...
+
+LISTER
+
+Yess!
+
+RIMMER
+
+And here's another!
+
+LISTER
+
+Yess!
+
+RIMMER
+
+And another!
+
+LISTER
+
+Yesss!
+
+RIMMER
+
+And *another*!
+
+Fan-smegging-tastic! Listy, we're on our way! They're gonna do the whole
+
+damn room in minutes!
+
+LISTER
+
+Hey, what's happenned to your sleeve, man?
+
+RIMMER
+
+What?
+
+[The right sleeve of RIMMER's coveralls seems to have been ripped away at
+
+the elbow]
+
+LISTER
+
+Your sleeve; I didn't notice that before..?
+
+RIMMER
+
+My God, they're eating my clothes!
+
+[LISTER laughs uproariously as RIMMER slaps at his clothes madly, which are
+
+disintegrating before his eyes by the second. Pulling his cap off in order
+
+to better slap away the virus, half of his hair comes off with it, and even
+
+the cap has more than half vanished before he gets in more than a few slaps
+
+with it. Still enjoying the spectacle, LISTER suddenly notices that his own
+
+sleeve has dissolved, as well as much of his trousers and a part of his
+
+right boot. It doesn't take long before both of them are completely
+
+starkers and quite, quite bald]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+HOLLISTER
+
+Well?
+
+RIMMER
+
+It wasn't me, sir, it was him. He made me do it.
+
+LISTER
+
+You Judas! I thought we'd agreed to refuse to talk?
+
+RIMMER
+
+Just let me blame you first, then I'll refuse to talk.
+
+HOLLISTER
+
+If I ever - *ever* - see you in this office again, then you're in the
+
+Hole, is that what you want?
+
+RIMMER, LISTER
+
+No, sir.
+
+HOLLISTER
+
+Well then, get out.
+
+[Gestures towards the door]
+
+RIMMER
+
+Thank you, sir. Thank you.
+
+[Misunderstanding the CAPTAIN's gesture, RIMMER shakes his outstretched hand
+
+sincerely. The pair of them grab papers from the CAPTAIN's desks in order
+
+to cover themselves, then suddenly stare at the CAPTAIN with worried
+
+expressions. One of HOLLISTER's sleeves has disappeared... The CAPTAIN
+
+sees their faces and rests his head in his hand resignedly]
+
+HOLLISTER
+
+You haven't been down to the medi-bay to get this virus off, have you...
+
+RIMMER
+
+I probably shouldn't have shaken your hand, sir. That was probably a
+
+mistake.
+
+LISTER
+
+Big mistake, sir.
+
+RIMMER
+
+I, um - we'll... We'll be going, sir.
+
+LISTER
+
+Right now.
+
+HOLLISTER
+
+That's it! Two months! In the Hole!
+
+LISTER
+
+Sir? What about my Athelete's Hand?
+
+HOLLISTER
+
+Now!
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[The Canaries are standing in line before a food dispenser. Each prisoner
+
+presses a hand to a scanner and then taps a meal code into the system in
+
+order to receive their rations]
+
+KRYTEN
+
+Straight after lunch, we zap the ship with a two year download of Time,
+
+and the records will show that we've served our sentences, and are free to
+
+be released!
+
+KOCHANSKI
+
+This machine's amazing! D'you think it can do boob jobs, too? Obviously,
+
+I'm just thinking about the future...
+
+[A fracas is occurring just ahead of KRYTEN and KOCHANSKI, up at the
+
+dispensing hatch. CAT, in entering his hand-print, has apparantly knocked
+
+against the man in front of him. The burly prisoner pushes CAT up against
+
+the machinery and looks none too pleased]
+
+BAXTER
+
+You spilled my soup!
+
+[The man passes his full tray to another prisoner]
+
+CAT
+
+Sorry, Baxter! Non-bud! It was an accident!
+
+[Spinning CAT around, BAXTER shoves him head first through the dispensing
+
+hatch, before addressing the voice-recognition unit]
+
+BAXTER
+
+Hot Bovril!
+
+CAT
+
+Aaaagghhh!
+
+[Dragging out the bedraggled moggy, BAXTER grabs CAT's hand, bends over his
+
+fingers until the middle digit is clearly extended, and uses CAT's finger
+
+to re-enter the meal code into the dispenser. A fresh tray appears in the
+
+hatch, which BAXTER steals, before taking back his own tray, growling at
+
+CAT, and stomping away]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[KRYTEN, KOCHANSKI and CAT sit together at a table in the refectory. Across
+
+the room, BAXTER is seated with several of his cronies. The big man is
+
+ripping into a chicken leg from one of the trays]
+
+KRYTEN
+
+Look at him... the big lug. I'd hate to clean the bath out after *him*.
+
+He'd need a sander to get rid of the tidemark, and a leaf-vac to hoover the
+
+hair!
+
+CAT
+
+Fix him! Fix him with the Time wand!
+
+KRYTEN
+
+Watch this!
+
+[KRYTEN zaps BAXTER's dinner tray, turning the man's cooked chicken into
+
+something alive and clucking. Startled, BAXTER sweeps the chicken off the
+
+table, turning to glare at his pals who are laughing loudly. He elbows the
+
+man beside him in the face, then jumps to his feet, looking for a culprit.
+
+Oblivious, CAT cackles heartily, until he turns around and sees BAXTER
+
+glaring at him. The burly man makes a dive at CAT, but KRYTEN hurriedly
+
+bangs instructions into the newly-christened 'Time Wand', and zaps BAXTER,
+
+freezing him in mid-air. KRYTEN them freezes BAXTER's two remaining
+
+conscious friends, and the three of them make good their escape]
+
+[-- xx - Int./Ext. Scene desc. ---------------------------------Raz--x:xx--]
+
+[Enter LISTER, RIMMER]
+
+BIRDMAN [OOS]
+
+'Ello!
+
+LISTER
+
+Ehh? There's someone in here with us!
+
+[Enter BIRDMAN]
+
+[BIRDMAN is a wiry, grey-haired Welshman, who holds a small bird lovingly
+
+in his hand]
+
+BIRDMAN
+
+Yeah, it's that bloke sittin' next to you.
+
+LISTER
+
+Who are you? What's *your* name?
+
+BIRDMAN
+
+They call me 'Birdman'.
+
+LISTER
+
+Oh aye? Why's that?
+
+RIMMER
+
+Because he really likes instant custard; why do you *think*?
+
+BIRDMAN
+
+This is Pete; 'E's nine years old... which, in sparrow years, is, er...
+
+nine years old. So that makes him, er...
+
+RIMMER
+
+Nine..?
+
+BIRDMAN
+
+Nine, that's right! You met him before, 'ave you?
+
+RIMMER
+
+Two months of this, God!
+
+[A circle of burning metal forms on the ground]
+
+LISTER
+
+What's this?
+
+[The circular section of floor drops away and a Skutter pops up through the
+
+hole, whistling the theme to The Great Escape]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[Several crewmembers stand stock-still. A pingpong game was obviously in
+
+progress, too. Two crewmen are hunched over the table, and the ball hangs
+
+motionless and unsupported in the air just in front of one of the players]
+
+[Enter LISTER, RIMMER, BIRDMAN]
+
+[BIRDMAN has found a cage for PETE, and carries it with him]
+
+RIMMER
+
+What happenned to everyone?
+
+LISTER
+
+It's like they're all frozen on the spot.
+
+RIMMER
+
+Yvonne McGruder went like this when I tried to kiss her.
+
+LISTER
+
+Hey, hey, this'll drive them crazy!
+
+[LISTER plucks the pingpong ball from mid-air, tosses it up in the air and
+
+catches it then pockets it]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[-- xx - Int./Ext. Scene desc. --------------------------------------x:xx--]
+
+[KOCHANSKI, KRYTEN, CAT present]
+
+[Enter LISTER, RIMMER, BIRDMAN]
+
+KOCHANSKI
+
+Hey!
+
+LISTER
+
+Guys!
+
+KOCHANSKI
+
+Heyy.
+
+KRYTEN
+
+Oh, sirs!
+
+CAT
+
+Buddies!
+
+RIMMER
+
+This, is 'Birdman'.
+
+BIRDMAN
+
+And this is Pete.
+
+KOCHANSKI
+
+We've found this machine that can digitise Time, and we can release jets
+
+of it, and we reckon it can make our sentence pass in a *nanosecond*!
+
+KRYTEN
+
+Hats off, sirs...
+
+[RIMMER and LISTER awkwardly remove their caps, and KRYTEN zaps them both
+
+with the Time Wand, restoring their haircuts to their previous state]
+
+BIRDMAN
+
+There's somethin' wrong with Pete...
+
+LISTER
+
+What?
+
+BIRDMAN
+
+'E's gone all stiff!
+
+RIMMER
+
+He must have drunk the guards' half-time juice.
+
+LISTER
+
+Not that kind of stiff; he's dead!
+
+BIRDMAN
+
+The excitement of bein' free 'as killed 'im!
+
+LISTER
+
+He really loved that bird, it was only thing that kept him going.
+
+KRYTEN
+
+I can't guarantee anything, sir, but I think the Time Wand could bring him
+
+back to life; make him young and strong again.
+
+Watch:
+
+[KRYTEN taps instructions into the Time Wand, then zaps Pete's cage. There's
+
+is a huge explosion - the bird disappears, and Birdman is sent sprawling,
+
+losing his glasses in the process. As Birdman scrabbles around on the
+
+floor, and the Dwarfers stand over the smoking remains of the cage, there
+
+is a resounding boom as a gargantuan, scaly foot slams down onto the deck]
+
+LISTER
+
+Holy...
+
+RIMMER
+
+Smeg!
+
+[Roaring menacingly, a massive Tyranosaurus Rex towers above the amazed
+
+humans, who begin backpeddling almost unconsciously]
+
+LISTER
+
+Where the *hell* did Barney's ugly brother come from??
+
+KRYTEN
+
+From Pete, sir. Birds are descended from dinosaurs; from the Theropod
+
+family. I inadvertently reversed evolution several million years!
+
+CAT
+
+There's an old Cat saying, which has particular relevance here; it goes
+
+something like this: "we are all gonna die!"
+
+[Still without his glasses, Birdman suddenly finds a large, bird's foot-like
+
+object scant inches from his face. He reaches out and fumbles at Pete's
+
+smooth central claw]
+
+BIRDMAN
+
+Pete? Is that you, Pete?
+
+KOCHANSKI
+
+Birdman!
+
+[Finding his glasses at last, Birdman realises there are some serious
+
+problems of scale going on. He looks up, and up, and up. Pete stares back,
+
+pauses, then sneezes messily in Birdman's direction]
+
+RIMMER
+
+Gezundtheit!
+
+BIRDMAN
+
+You want some seed..?
+
+[Pete roars, and the Dwarfers wince as the T-Rex leans down, jaws wide]
+
+BIRDMAN
+
+That's a 'no' then, is it?
+
+KRYTEN
+
+What now, sir?
+
+RIMMER
+
+Follow the Rimmer-shaped blur!
+
+"TO BE CONTINUED..."
+
+[------------------------- END OF "PETE, part 1" -------------------xx:xx--]
+
+[CAST REFERENCE]
+
+RIMMER LISTER CAT
+
+Chris Barrie Craig Charles Danny John-Jules
+
+KRYTEN KOCHANSKI HOLLY
+
+Robert Llewellyn Chloe Annett Norman Lovett
+
+CAPTAIN [HOLLISTER] [GOVERNOR] ACKERMAN [CANARY] MEX
+
+Mac McDonald Graham McTavish Andrew Alston
+
+YOUNG KOCHANSKI YOUNG CAT BAXTER
+
+Holly Earl Perri Michael Ricky Grover
+
+BIRDMAN WARDEN KNOT
+
+Ian Masters Shend
+
+[Transcribed and narrated by Raz from the original episode by Doug Naylor;
+
+no copyright infringement or toe-stepping intended. Comments, criticisms
+
+and corrections welcomed at "raz@matrixcity.org" Thanks.]

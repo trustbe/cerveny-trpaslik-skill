@@ -1,0 +1,23 @@
+Quiz
+
+Vyberte si kvíz:
+
+Quiz1 (20 otázek)
+
+Quiz2 (20 otázek)
+
+Quiz3 (20 otázek)
+
+Quiz4 (20 otázek)
+
+Quiz5 (20 otázek)
+
+Quiz6 (20 otázek)
+
+Počet otázek zobrazených na stránku:
+
+20
+
+Jméno:
+
+Dotazy posílejte na quiz (zavináč) cervenytrpaslik.cz
