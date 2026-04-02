@@ -67,10 +67,15 @@ To je ~72 KB textu, coz zvladne i model se 128K kontextem.
 
 ## Co to umi
 
-### Hlasky (350+ z databaze)
+Skill ma dva zakladni rezimy — **vyhledavani** (stare veci ze serialu) a **tvorba** (nove veci ve stylu serialu). Plus znalostni rezim pro otazky o lore.
 
-Skill ma databazi 350+ citatu ze vsech 52 epizod. Kazda hlaska ma postavu,
-presny text a kontext (epizoda, situace). Zpusoby pouziti:
+---
+
+### 1. Stare hlasky — vyhledavani v databazi
+
+Databaze 350+ presnych citatu ze vsech 52 epizod. Kazda hlaska ma postavu,
+presny text, cislo epizody a kontext (kdo rika komu, v jake situaci).
+Nic se nevymysli — vsechno je z originalnich ceskych scenaru.
 
 | Prikaz | Co udela |
 |--------|---------|
@@ -83,9 +88,33 @@ presny text a kontext (epizoda, situace). Zpusoby pouziti:
 | *"Hlaska Lister vs Rimmer"* | Vtipna vymena mezi postavami |
 | *"Hlaska dne"* | Jedna vyjimecna — na hlavni stranku webu |
 | *"Kdo to rekl?"* | Kviz — hadas postavu podle citatu |
-| *"Vymysli novou hlasku pro Kocoura"* | NOVA hlaska ve stylu postavy |
 
-### Tvorba
+---
+
+### 2. Nove hlasky — tvorba ve stylu postav
+
+AI vytvori NOVOU hlasku, ktera v serialu neexistuje, ale zni jako by tam patrit mohla.
+Pouziva databazi 350+ originalnich citatu jako vzor pro styl, humor a hlas kazde postavy.
+Muzete kombinovat postavu + tema + naladu.
+
+| Prikaz | Co udela |
+|--------|---------|
+| *"Vymysli novou hlasku pro Kocoura"* | Nova hlaska ve stylu postavy |
+| *"Nova hlaska od Rimmera o lasce"* | Postava + tema |
+| *"Co by rekl Holly o umele inteligenci?"* | Postava + moderni tema |
+| *"Kryton nadava Rimmerovi — ale zdvorile"* | Postava + styl |
+| *"5 novych hlasek o jidle"* | Vic hlasek najednou na tema |
+| *"Nova nadavka od Listera pro Rimmera"* | Nova nadavka ve stylu postavy |
+| *"Rimmer pise motivacni citaty"* | Postava v neobvyklem kontextu |
+| *"Co by rekl Kocour na socialnich sitich?"* | Postava vs. moderni svet |
+
+**Rozdil oproti starym hlaskam:** Stare hlasky jsou PRESNE citaty ze scenaru serialu.
+Nove hlasky jsou AI-generovane ve stylu postav — nikdy nebyly v serialu, ale
+zni autenticky, protoze AI zna hlas, humor a slovnik kazde postavy z 52 epizod.
+
+---
+
+### 3. Tvorba (delsi obsah)
 
 | Mod | Popis | Prikaz |
 |-----|-------|--------|
@@ -94,7 +123,7 @@ presny text a kontext (epizoda, situace). Zpusoby pouziti:
 | In-character | Odpovidani jako postava | *"Odpovez jako Rimmer na..."* |
 | Fan fiction | Pribeh v proze | *"Napis povidku o..."* |
 
-### Webovy obsah (styl cervenytrpaslik.cz)
+### 4. Webovy obsah (styl cervenytrpaslik.cz)
 
 | Mod | Prikaz |
 |-----|--------|
@@ -104,7 +133,7 @@ presny text a kontext (epizoda, situace). Zpusoby pouziti:
 | Kucharka | *"Napis recept ve stylu RD"* |
 | Quiz | *"Vymysli kvizovy otazky"* |
 
-### Znalosti
+### 5. Znalosti a lore
 
 | Mod | Prikaz |
 |-----|--------|
