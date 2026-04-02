@@ -205,7 +205,11 @@ RIMMER: "Smrt? Je to jako byt na dovolene s partou Nemcu."
   — ep. 01 Konec (Rimmer popisuje Listerovi, jaky je byt mrtvy)
 ```
 
-### Nova hlaska (generovana ve stylu postavy)
+### Nove hlasky (generovane ve stylu postav)
+
+Muzete kombinovat postavu + tema + naladu. Skill vytvori novou hlasku
+ktera zni jako by byla z serialu — pouziva databazi 350+ originalnich
+citatu jako vzor pro styl, humor a hlas kazde postavy.
 
 ```
 > "Vymysli novou hlasku pro Kocoura"
@@ -214,6 +218,37 @@ KOCOUR: "Koukam na sebe do zrcadla a rikam si — nekde ve vesmiru
 existuje bytost, ktera vypada takhle dobre. A pak si uvedomim,
 ze koukam na sebe. A je mi ty bytosti lito, protoze nemuze bejt ja."
 ```
+
+```
+> "Nova hlaska od Rimmera o lasce"
+
+RIMMER: "Laska je jako moje dustojnicke zkousky. Cim vic se snazis,
+tim vic ti to pripomene, zes na to absolutne nemyslitelne nedostatecne
+kvalifikovanej. A nakonec napises 'ja jsem ryba' a slozis se."
+```
+
+```
+> "Co by rekl Holly o umele inteligenci?"
+
+HOLLY: "Mam IQ sest tisic. A po trech milionech let samoty vim jedno —
+inteligence neni o tom kolik vis, ale o tom jak dlouho vydrzis
+mluvit se ctyrmi lidmi, z nichz jeden je mrtvy a druhy se obleka
+dvacet hodin denne."
+```
+
+```
+> "Kryton nadava Rimmerovi — ale zdvorile"
+
+KRYTON: "Pane Rimmere, s veskerou uctou — vase strategicke mysleni
+pripomina navigacni system, ktery uprimne veri, ze zed je zkratka."
+```
+
+Dalsi priklady co muzete rict:
+- *"Vymysli 5 novych hlasek o jidle"*
+- *"Nova nadavka od Listera pro Rimmera"*
+- *"Co by rekl Kocour na socialnich sitich?"*
+- *"Rimmer pise motivacni citaty"*
+- *"Holly komentuje pocasi"*
 
 ### In-character (Rimmer)
 
