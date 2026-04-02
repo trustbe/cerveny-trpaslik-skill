@@ -1,83 +1,191 @@
-# Červený Trpaslík — Claude Code Skill
+# Cerveny Trpaslik — Claude Code Skill
 
-Claude Code skill pro pokračování odkazu českého Red Dwarf fan klubu [cervenytrpaslik.cz](http://www.cervenytrpaslik.cz/).
+> *"Vsichni jsou mrtvi, Dave."*
 
-Kompletní knowledge base + kreativní engine pro psaní nových epizod, dialogů, fan fiction a webového obsahu ve stylu českého fan klubu.
+[Claude Code](https://claude.ai/claude-code) skill pro pokracovani odkazu ceskeho Red Dwarf fan klubu [cervenytrpaslik.cz](http://www.cervenytrpaslik.cz/). Kompletni knowledge base + kreativni engine — 52 scenaru, 1354 NSFAQ, 14 864 vzkazu, 13 referencnich souboru.
 
-## Co to umí
-
-- **Nové epizody** — kompletní scénáře ve formátu seriálu (cold open + 3 akty)
-- **Scénky a dialogy** — v hlasech českého dabingu
-- **In-character odpovědi** — jako Lister, Rimmer, Kocour, Kryton, Holly...
-- **Webový obsah** — postřehy, hnidopichy, NSFAQ, kuchařka, kvízy ve stylu cervenytrpaslik.cz
-- **Fan fiction** — příběhy v próze
-- **Rozbory epizod** — hloubková analýza
-- **Lore odpovědi** — encyklopedie univerza
-- **Free talk** — konverzace jako RD expert
-
-## Obsah
-
-### SKILL.md
-Hlavní soubor skillu s instrukcemi, mapou referencí, 8 módy a pravidly stylu.
-
-### references/ (13 souborů, 232 KB)
-| Soubor | Obsah |
-|--------|-------|
-| `characters.md` | Kompletní profily postav, catchphrases, jak mluví |
-| `humor-patterns.md` | DNA humoru — typy gagů, running gagy |
-| `story-structure.md` | Jak se píše epizoda |
-| `world-bible.md` | Lodě, tech, rasy, direktivy, lore |
-| `czech-voice.md` | Český dabing, nadávky, CZ vs EN |
-| `episode-guide.md` | Průvodce 52 epizodami |
-| `fanclub-voice.md` | Hlas autorů webu cervenytrpaslik.cz |
-| `community-content.md` | DNA komunitních formátů |
-| `content-formats.md` | Šablony pro nový obsah |
-| `site-dna.md` | Meta-analýza webu |
-| `nsfaq-best-of.md` | Top NSFAQ entries |
-| `nadavky-katalog.md` | Kompletní katalog nadávek |
-| `trivia-vite-ze.md` | "Víte, že...?" trivia |
-
-### raw/ (1200+ souborů)
-Surová data stažená z cervenytrpaslik.cz:
-- **52 českých scénářů** (série I-VIII)
-- **51 anglických scénářů**
-- **32 sekcí webu**
-- **155 detailů epizod**
-- **39 profilů postav**
-- **1354 NSFAQ entries**
-- **14 864 vzkazů** (744 stránek)
-
-### tests/
-Ukázkové výstupy — scénka, webový obsah, in-character monolog.
-
-## Instalace do Claude Code
+## Quick Start
 
 ```bash
-# Klonuj repo
 git clone https://github.com/trustbe/cerveny-trpaslik-skill.git
-
-# Zkopíruj SKILL.md a references do Claude Code skills
-mkdir -p ~/.claude/skills/cerveny-trpaslik
-cp cerveny-trpaslik-skill/SKILL.md ~/.claude/skills/cerveny-trpaslik/
-cp -r cerveny-trpaslik-skill/references ~/.claude/skills/cerveny-trpaslik/
+cd cerveny-trpaslik-skill
+./install.sh
 ```
 
-Skill se automaticky aktivuje když zmíníš Červený trpaslík, Red Dwarf, smeghead, Lister, Rimmer, Cat, Kryten, Holly, Starbug, Kosmík, nebo chceš psát nové epizody/obsah v Red Dwarf univerzu.
+Nebo rucne:
+
+```bash
+mkdir -p ~/.claude/skills/cerveny-trpaslik
+cp SKILL.md ~/.claude/skills/cerveny-trpaslik/
+cp -r references ~/.claude/skills/cerveny-trpaslik/
+```
+
+Restartuj Claude Code a skill je aktivni.
+
+## Co to umi
+
+| Mod | Popis | Prikaz |
+|-----|-------|--------|
+| Nova epizoda | Kompletni scenar (cold open + 3 akty) | *"Napis novou epizodu kde..."* |
+| Scenka | Kratka scena, 1-5 stran | *"Napis scenku kde Lister a Rimmer..."* |
+| In-character | Odpovidani jako postava | *"Odpovez jako Rimmer na..."* |
+| Webovy obsah | Postreh, hnidopich, NSFAQ, kucharka, quiz | *"Napis novy NSFAQ entry"* |
+| Fan fiction | Pribeh v proze | *"Napis povidku o..."* |
+| Rozbor | Hlubkova analyza epizody | *"Rozeber epizodu Navrat do reality"* |
+| Lore | Encyklopedicka odpoved | *"Jak funguje holomura?"* |
+| Free talk | Konverzace jako RD expert | *"Ktera serie je nejlepsi?"* |
+
+Skill se aktivuje automaticky kdyz zminis: Cerveny trpaslik, Red Dwarf, smeghead, Lister, Rimmer, Cat, Kryten, Holly, Starbug, Kosmik...
+
+## Ukazky vystupu
+
+### Scenka
+
+```
+INT. SPACI KAJUTA — DEN
+
+*LISTER lezi na horni palube a hraje si s jojo. RIMMER u stolu studuje.*
+
+RIMMER: Listere, mohl bys prosim prestat s tim jojo?
+
+LISTER: Proc?
+
+RIMMER: Protoze ten zvuk mi pripomina kapani mozkomisniho moku z usi
+cloveka, ktery prave absolvoval rozhovor s tebou.
+
+LISTER: To je ponizeni. Podam na tebe stiznost.
+
+RIMMER: Ty podas stiznost na ME? Ja mam na tebe podano dve ste
+ctyricet sedm stiznosti a ty jsi jeste nezareagoval na jedinou!
+
+LISTER: No bodejt. Nepodepsanej papir hodim do kose, podepsanej
+do zachoda.
+
+*Dvere se otevrou. Vejde KOCOUR. Ma na sobe novy zlaty oblek
+s leopardim limcem.*
+
+KOCOUR: Hele, kluci. Jak vypadam?
+
+RIMMER: Jako by se vyloha blystiveho prodejce v Elvisove Gracelandu
+rozhodla, ze pujde na rande s diskotekovym globem.
+
+KOCOUR: Diky! To je presne ten look, o kterej jsem usiloval.
+```
+
+### NSFAQ ve stylu webu
+
+```
+1355. Smeghead_CZ:
+Jak to, ze Kocour mel v jedne epizode zrcatko, ale v dalsi se cesal
+pred obrazovkou pocitace?
+
+Odpoved: Kocourova sit zrcadel je rozsahlejsi nez Rimmeruv seznam
+stiznosti na Listera, coz je samo o sobe monumentalni vykon.
+V epizode Paralelni vesmir si muzes vsimnout, ze Kocour kontroluje
+svuj vzhled v odrazove plose mikrovlnky. Ve Vymene tel se cesa
+pred hlavni obrazovkou. A v Poslednim dni pouziva kapesni zrcatko.
+
+Takze odpoved je: Kocour ma zrcatka VSUDE. Na choddbach, v kajutach,
+v Kosmiku. Je to jako Rimmerovy revizni plany — kompletne pokryvaji
+celou lod, ale na rozdil od Rimmerovych planu opravdu k necemu slouzi.
+```
+
+### In-character (Rimmer)
+
+```
+Dobre. Panove. Vazeni pritomni. A Listere.
+
+Sesli jsme se zde dnes, abych vam predstavil, proc jsem — a to rikam
+s veskerou skromnosti, ktere jsem schopen, coz je, uprimne receno,
+ZNACNA — jednoznacne nejlepsi kandidat na pozici kapitana.
+
+Kdo z vas ma kompletni sadu reviznich planu cele lodi? Nikdo?
+To jsem si myslel. JA je mam. Color-coded. Laminovane.
+Se zaloznimi kopiemi ulozenymi na trech ruznych palubach.
+
+Lister nema ani cistou ponozku, natoz strategicky plan.
+```
+
+## Struktura projektu
+
+```
+cerveny-trpaslik-skill/
+|-- SKILL.md                    # Hlavni skill soubor (7 KB)
+|-- install.sh                  # Instalacni skript
+|-- references/                 # Referencni soubory (232 KB)
+|   |-- characters.md           #   Profily postav, catchphrases (27 KB)
+|   |-- humor-patterns.md       #   DNA humoru, typy gagu (15 KB)
+|   |-- story-structure.md      #   Jak se pise epizoda (11 KB)
+|   |-- world-bible.md          #   Vesmir, lode, tech, rasy (15 KB)
+|   |-- czech-voice.md          #   Cesky dabing, CZ vs EN (13 KB)
+|   |-- episode-guide.md        #   Pruvodce 52 epizodami (40 KB)
+|   |-- fanclub-voice.md        #   Hlas webu cervenytrpaslik.cz (9 KB)
+|   |-- community-content.md    #   DNA komunitnich formatu (10 KB)
+|   |-- content-formats.md      #   Sablony pro novy obsah (7 KB)
+|   |-- site-dna.md             #   Meta-analyza webu (7 KB)
+|   |-- nsfaq-best-of.md        #   Top 90 NSFAQ entries (35 KB)
+|   |-- nadavky-katalog.md      #   Kompletni katalog nadavek (17 KB)
+|   |-- trivia-vite-ze.md       #   "Vite, ze...?" trivia (5 KB)
+|-- raw/                        # Surova data z cervenytrpaslik.cz
+|   |-- scenare_cz/             #   52 ceskych scenaru
+|   |-- scenare_en/             #   51 anglickych scenaru
+|   |-- sections/               #   32 sekci webu
+|   |-- epizody/                #   155 detailu epizod
+|   |-- posadka/                #   39 profilu postav
+|   |-- nsfaq/                  #   1354 NSFAQ entries (56 KB)
+|   |-- vzkazy/                 #   14 864 vzkazu (744 stranek)
+|   |-- hnidopich/              #   9 hnidopich stranek
+|   |-- herci/                  #   14 profilu hercu
+|   |-- fantazie/               #   4 fan fiction
+|   |-- kucharka/               #   14 receptu
+|-- tests/                      #   Ukazkove vystupy
+|-- scraper.py                  # Scraper hlavnich sekci
+|-- scrape_vzkazy.py            # Scraper vzkazu (744 stranek)
+```
+
+## Jak to funguje
+
+Skill pouziva 13 referencnich souboru organizovanych do mapy — podle toho co chces delat, cte relevantni reference:
+
+| Ukol | Reference |
+|------|-----------|
+| Nova epizoda | story-structure → characters → humor-patterns → czech-voice → world-bible |
+| Dialog | characters → humor-patterns → czech-voice |
+| In-character | characters → czech-voice |
+| Web obsah | fanclub-voice → content-formats → community-content |
+| Lore otazka | world-bible → episode-guide |
+
+Kazdy vystup prochazi kvalitativnim testem:
+- Poznal by fanousek ze to napsal nekdo kdo serial FAKT zna?
+- Jsou dialogy rozlisitelne — poznas kdo mluvi i bez jmenovky?
+- Je tam humor?
+- Sedi to do lore?
+- Zni to cesky prirozene?
 
 ## Scraper
 
-`scraper.py` a `scrape_vzkazy.py` — Python scrapers pro stahování dat z cervenytrpaslik.cz. Vyžadují `requests` a `beautifulsoup4`.
+Scrapers pro stazeni dat z cervenytrpaslik.cz. Pouzivaji 2s delay mezi requesty.
 
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
 pip install requests beautifulsoup4
+
+# Hlavni scraper — sekce, scenare, epizody, NSFAQ, postavy
 python3 scraper.py
+
+# Vzkazy — 744 stranek, trva ~25 minut
 python3 scrape_vzkazy.py
 ```
 
-## Poděkování
+## Zdroje
 
-Celý skill je postaven na obsahu webu [cervenytrpaslik.cz](http://www.cervenytrpaslik.cz/) — legendárního českého Red Dwarf fan klubu, který běží od začátku 2000s. Díky autorům za roky práce na budování české Red Dwarf komunity.
+Skill je postaven na obsahu webu [cervenytrpaslik.cz](http://www.cervenytrpaslik.cz/) — legendarniho ceskeho Red Dwarf fan klubu, ktery bezi od zacatku 2000s. Diky autorum za roky prace na budovani ceske Red Dwarf komunity.
+
+Cerveny trpaslik (Red Dwarf) je serial BBC vytvoreny Robem Grantem a Dougem Naylorem. Vsechna prava k serialu nalezi jejich drzitelum.
+
+## License
+
+MIT — viz [LICENSE](LICENSE).
 
 ---
 
