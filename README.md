@@ -2,9 +2,17 @@
 
 > *"Vsichni jsou mrtvi, Dave."*
 
-[Claude Code](https://claude.ai/claude-code) skill pro pokracovani odkazu ceskeho Red Dwarf fan klubu [cervenytrpaslik.cz](http://www.cervenytrpaslik.cz/). Kompletni knowledge base + kreativni engine — 52 scenaru, 1354 NSFAQ, 14 864 vzkazu, 13 referencnich souboru.
+Skill pro [Claude Code](https://claude.ai/claude-code) (Anthropic CLI pro Claude) — dava mu kompletni znalost Cerveneho trpaslika a schopnost psat nove epizody, hlasky, obsah ve stylu ceskeho fan klubu [cervenytrpaslik.cz](http://www.cervenytrpaslik.cz/).
 
-## Quick Start
+## Co je Claude Code skill?
+
+[Claude Code](https://claude.ai/claude-code) je CLI nastroj od Anthropicu — pises primo v terminalu a Claude ti pomaha s kodem, textem, cimkoli. **Skill** je balicek znalosti, ktery Claude Code nacte automaticky kdyz detekuje relevantni tema. Jakmile nainstalujete tento skill a zminite "Cerveny trpaslik", "Rimmer", "smeghead" apod., Claude automaticky nacte knowledge base a zacne odpovedat jako expert na Red Dwarf.
+
+**Potrebujete:**
+- [Claude Code](https://claude.ai/claude-code) (CLI, desktop app, nebo IDE extension)
+- Ucet u Anthropic (Pro/Max nebo API)
+
+## Instalace
 
 ```bash
 git clone https://github.com/trustbe/cerveny-trpaslik-skill.git
@@ -20,7 +28,22 @@ cp SKILL.md ~/.claude/skills/cerveny-trpaslik/
 cp -r references ~/.claude/skills/cerveny-trpaslik/
 ```
 
-Restartuj Claude Code a skill je aktivni.
+Restartujte Claude Code a skill je aktivni.
+
+## Jak to pouzivat
+
+Proste pisite v Claude Code cesky a zminite cokoli z Red Dwarf. Skill naskoci automaticky. Priklady:
+
+```
+> Dej hlasku od Rimmera
+> Napis scenku kde Lister a Kocour...
+> Kdo to rekl? "Toastuju, tedy jsem."
+> Vymysli novou nadavku ve stylu Krytona
+> Jak funguje holomura?
+> Odpovez jako Rimmer na otazku proc je nejlepsi kapitan
+```
+
+Neni zadny specialni prikaz ani syntax — proste se ptate a Claude odpovida se znalosti 52 epizod, 350+ hlasek, vsech postav a vibu ceskeho fan klubu.
 
 ## Co to umi
 
