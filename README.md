@@ -33,6 +33,8 @@ Restartuj Claude Code a skill je aktivni.
 | Fan fiction | Pribeh v proze | *"Napis povidku o..."* |
 | Rozbor | Hlubkova analyza epizody | *"Rozeber epizodu Navrat do reality"* |
 | Lore | Encyklopedicka odpoved | *"Jak funguje holomura?"* |
+| Hlaska (stara) | Vyhledani citatu ze serialu | *"Dej hlasku od Rimmera o zkouskach"* |
+| Hlaska (nova) | Nova hlaska ve stylu postavy | *"Vymysli novou hlasku pro Kocoura"* |
 | Free talk | Konverzace jako RD expert | *"Ktera serie je nejlepsi?"* |
 
 Skill se aktivuje automaticky kdyz zminis: Cerveny trpaslik, Red Dwarf, smeghead, Lister, Rimmer, Cat, Kryten, Holly, Starbug, Kosmik...
@@ -90,6 +92,30 @@ v Kosmiku. Je to jako Rimmerovy revizni plany — kompletne pokryvaji
 celou lod, ale na rozdil od Rimmerovych planu opravdu k necemu slouzi.
 ```
 
+### Stara hlaska (vyhledavani z databaze 350+ citatu)
+
+```
+> "Dej hlasku od Rimmera"
+
+RIMMER: "Smrt? Je to jako byt na dovolene s partou Nemcu."
+(ep. 01 Konec — Rimmer popisuje Listerovi, jaky je byt mrtvy)
+
+RIMMER: "Neustale propada u zkousek! Jedenactkrat podle me neni
+'neustale'! Kdyz jite roast beef jedenactkrat za zivot, sotva se
+rekne: 'Ten clovek ji neustale roast beef.'"
+(ep. 04 Cekani na Boha — Rimmer se brani hodnoceni)
+```
+
+### Nova hlaska (generovana ve stylu postavy)
+
+```
+> "Vymysli novou hlasku pro Kocoura"
+
+KOCOUR: "Koukam na sebe do zrcadla a rikam si — nekde ve vesmiru
+existuje bytost, ktera vypada takhle dobre. A pak si uvedomim,
+ze koukam na sebe. A je mi ty bytosti lito, protoze nemuze bejt ja."
+```
+
 ### In-character (Rimmer)
 
 ```
@@ -126,6 +152,7 @@ cerveny-trpaslik-skill/
 |   |-- nsfaq-best-of.md        #   Top 90 NSFAQ entries (35 KB)
 |   |-- nadavky-katalog.md      #   Kompletni katalog nadavek (17 KB)
 |   |-- trivia-vite-ze.md       #   "Vite, ze...?" trivia (5 KB)
+|   |-- hlasky-databaze.md      #   350+ hlasek ze vsech 52 epizod
 |-- raw/                        # Surova data z cervenytrpaslik.cz
 |   |-- scenare_cz/             #   52 ceskych scenaru
 |   |-- scenare_en/             #   51 anglickych scenaru
@@ -154,6 +181,8 @@ Skill pouziva 13 referencnich souboru organizovanych do mapy — podle toho co c
 | In-character | characters → czech-voice |
 | Web obsah | fanclub-voice → content-formats → community-content |
 | Lore otazka | world-bible → episode-guide |
+| Stara hlaska | hlasky-databaze → characters |
+| Nova hlaska | hlasky-databaze → humor-patterns → characters |
 
 Kazdy vystup prochazi kvalitativnim testem:
 - Poznal by fanousek ze to napsal nekdo kdo serial FAKT zna?

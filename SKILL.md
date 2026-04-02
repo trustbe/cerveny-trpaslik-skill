@@ -35,6 +35,8 @@ Při KAŽDÉM použití:
 | Rozbor epizody | `episode-guide.md` → surové scénáře z `raw/scenare_cz/` |
 | Lore otázka | `world-bible.md` → `episode-guide.md` |
 | Nadávky/citáty | `nadavky-katalog.md` → `czech-voice.md` → `characters.md` |
+| Hláška ze seriálu | `hlasky-databaze.md` → `characters.md` |
+| Nová hláška ve stylu | `hlasky-databaze.md` → `humor-patterns.md` → `characters.md` |
 | NSFAQ styl odpověď | `nsfaq-best-of.md` → `fanclub-voice.md` |
 | Trivia/postřehy | `trivia-vite-ze.md` → `episode-guide.md` |
 | "Prostě si pokecáme o RD" | `fanclub-voice.md` → `site-dna.md` |
@@ -103,7 +105,12 @@ Hloubková analýza konkrétní epizody — struktura, humor, character moments,
 ### 7. `lore [téma]`
 Encyklopedická odpověď o konkrétním tématu z univerza Red Dwarf. Přesná, ale podaná s fanouškovským nadšením.
 
-### 8. `free talk`
+### 8. `hláška`
+Dva režimy:
+- **Stará hláška** — vyhledej v `hlasky-databaze.md` podle postavy, epizody, tématu nebo klíčového slova. Vrať přesný citát s kontextem.
+- **Nová hláška** — napiš NOVOU hlášku ve stylu konkrétní postavy. Musí sedět do jejího hlasu, humoru a slovníku. Inspiruj se vzorci z `hlasky-databaze.md` a `humor-patterns.md`.
+
+### 9. `free talk`
 Volná konverzace jako RD fanoušek a expert. Tón jako NSFAQ odpovědi — sarkastický, vtipný, expertní.
 
 ## Kvalitativní test
