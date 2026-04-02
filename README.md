@@ -92,18 +92,42 @@ v Kosmiku. Je to jako Rimmerovy revizni plany — kompletne pokryvaji
 celou lod, ale na rozdil od Rimmerovych planu opravdu k necemu slouzi.
 ```
 
-### Stara hlaska (vyhledavani z databaze 350+ citatu)
+### Stare hlasky (vyhledavani z databaze 350+ citatu)
+
+Skill ma databazi 350+ presnych citatu ze vsech 52 epizod, kazdy s kontextem.
+Muzes hledat podle postavy, epizody, tematu nebo klicoveho slova:
 
 ```
-> "Dej hlasku od Rimmera"
-
-RIMMER: "Smrt? Je to jako byt na dovolene s partou Nemcu."
-(ep. 01 Konec — Rimmer popisuje Listerovi, jaky je byt mrtvy)
+> "Dej hlasku od Rimmera o zkouskach"
 
 RIMMER: "Neustale propada u zkousek! Jedenactkrat podle me neni
 'neustale'! Kdyz jite roast beef jedenactkrat za zivot, sotva se
 rekne: 'Ten clovek ji neustale roast beef.'"
-(ep. 04 Cekani na Boha — Rimmer se brani hodnoceni)
+  — ep. 04 Cekani na Boha (Rimmer se brani hodnoceni v tajnem zaznamu)
+
+> "Neco od Holly"
+
+HOLLY: "Prehnane horlivy, zrejme blazen. Pravdepodobne ma vic zubu
+nez mozkovych bunek. Vyhlidky na povyseni: komicke."
+  — ep. 04 Cekani na Boha (Kapitanuv tajny zaznam o Rimmerovi)
+
+> "Hlaska o lasce"
+
+RIMMER: "Jiste, ze vim, co je laska. Mechanismus, jenz vynalezli
+bankeri, aby nas donutili precerpat ucet."
+  — ep. 05 Sebevedomi a Mindrak
+
+> "Neco s Kocourem a Listerem"
+
+KOCOUR: "Promin hochu, jakej to ma bejt oblicej?"
+LISTER: "Co je s mym oblicej?"
+KOCOUR: "Co je s tvym oblicej? Je vzhuru nohama a taky naruby."
+  — ep. 04 Cekani na Boha (Kocour pochybuje, ze Lister je Buh)
+
+> "Rimmer a smrt"
+
+RIMMER: "Smrt? Je to jako byt na dovolene s partou Nemcu."
+  — ep. 01 Konec (Rimmer popisuje Listerovi, jaky je byt mrtvy)
 ```
 
 ### Nova hlaska (generovana ve stylu postavy)
