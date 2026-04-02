@@ -45,6 +45,26 @@ Proste pisite v Claude Code cesky a zminite cokoli z Red Dwarf. Skill naskoci au
 
 Neni zadny specialni prikaz ani syntax — proste se ptate a Claude odpovida se znalosti 52 epizod, 350+ hlasek, vsech postav a vibu ceskeho fan klubu.
 
+## Pouziti s jinymi AI modely
+
+Skill je optimalizovany pro Claude Code, ale reference soubory jsou **obycejne markdown soubory** — muzete je pouzit s cimkoli:
+
+**ChatGPT / GPT-4:** Nahrajte `SKILL.md` + relevantni soubory z `references/` jako Custom Instructions nebo do konverzace. Nejdulezitejsi: `characters.md`, `hlasky-databaze.md`, `humor-patterns.md`.
+
+**Gemini / Google AI Studio:** System Instructions — vlozte `SKILL.md` a pripojte reference jako kontext.
+
+**Cursor / Copilot / jiné IDE:** Zkopirujte `SKILL.md` do `.cursorrules` nebo ekvivalentu. Reference soubory dejte do projektu aby je AI videlo.
+
+**Libovolny model s dlouhym kontextem:** Proste poslete `SKILL.md` + reference jako system prompt. Cim vic referencnich souboru pridate, tim lepsi vysledky.
+
+**Tip:** Pokud model nema dost velky kontext pro vsechny reference, pouzijte alespon:
+1. `SKILL.md` (7 KB) — instrukce a pravidla
+2. `characters.md` (27 KB) — postavy a hlasy
+3. `hlasky-databaze.md` (25 KB) — 350+ citatu
+4. `czech-voice.md` (13 KB) — cesky jazykovy feeling
+
+To je ~72 KB textu, coz zvladne i model se 128K kontextem.
+
 ## Co to umi
 
 ### Hlasky (350+ z databaze)
