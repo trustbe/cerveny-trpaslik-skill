@@ -143,14 +143,124 @@ zni autenticky, protoze AI zna hlas, humor a slovnik kazde postavy z 52 epizod.
 
 Skill se aktivuje automaticky kdyz zminis: Cerveny trpaslik, Red Dwarf, smeghead, Lister, Rimmer, Cat, Kryten, Holly, Starbug, Kosmik...
 
-## Ukazky vystupu
+## Ukazky — co napisu, co dostanu
+
+### Stara hlaska (1 tema = vice citatu)
+
+```
+> Hlaska o lasce
+```
+```
+RIMMER: "Jiste, ze vim, co je laska. Mechanismus, jenz vynalezli
+bankeri, aby nas donutili precerpat ucet."
+  — ep. 05 Sebevedomi a Mindrak
+
+RIMMER: "Vis kolikrat v zivote jsem se ja s nekym miloval?"
+LISTER: "Ne, to nechci vedet."
+RIMMER: "Jednou." LISTER: "Boha jeho!" RIMMER: "Jednou jedinkrat."
+  — ep. 12 Paralelni vesmir (Rimmer opily odhaluje sve tajemstvi)
+
+KOCHANSKA: "Nikdy jsem se na nej nedivala, jako by byl kozi syr
+s kousky ananasu! Mozna jednou, dvakrat jako na kozi syr,
+ale nikdy, *nikdy* s kousky ananasu!"
+  — ep. 39 Uroboros (Kochanska popira sve city k Listerovi)
+
+LISTER: "Ja jsem posledni muz na svete."
+KOCHANSKA: "No, co se da delat?"
+  — ep. 43 Epidem
+```
+
+### Stara hlaska (podle postavy)
+
+```
+> Dej hlasku od Holly
+```
+```
+HOLLY: "Prehnane horlivy, zrejme blazen. Pravdepodobne ma vic zubu
+nez mozkovych bunek. Vyhlidky na povyseni: komicke."
+  — ep. 04 Cekani na Boha (kapitanuv tajny zaznam o Rimmerovi)
+
+HOLLY: "Ja jsem desata generace holografickych pocitacu s umelou
+inteligenci. Ne tvoje mama."
+  — ep. 02 Ozveny budoucnosti (Holly odpovida podrazdeneho Rimmerovi)
+
+HOLLY: "Jean Paul Sartre tvrdil, ze peklo je byt navzdy zamcenej
+v mistnosti s prateli." LISTER: "Holly, vsichni jeho kamaradi
+byly Frantici."
+  — ep. 03 Rovnovaha sil
+```
+
+### Random hlaska
+
+```
+> Dej hlasku
+```
+```
+RIMMER: "Zhorsil se mi zrak. Tos namaloval ty? To je brak!"
+LISTER: "To je zrcadlo."
+  — ep. 03 Rovnovaha sil
+```
+
+### Kviz
+
+```
+> Kdo to rekl?
+```
+```
+"Toastuju, tedy jsem."
+
+a) Rimmer  b) Holly  c) Toastovac  d) Kryton
+```
+
+### Nova hlaska od Rimmera o lasce
+
+```
+> Nova hlaska od Rimmera o lasce
+```
+```
+RIMMER: "Miloval jsem jednu zenu. Dvanact minut. A to pocitam
+i tu pizzu. Kdybych nepocital pizzu, tak jsem miloval tri minuty.
+A dve z toho jsem hledal vypinac."
+
+RIMMER: "Laska je jako dustojnicke zkousky. Cim vic se snazis,
+tim vic ti to pripomene, zes na to absolutne nemyslitelne
+nedostatecne kvalifikovanej. A nakonec napises 'ja jsem ryba'
+a slozis se."
+
+RIMMER: "Vis co je na hologramech tragicke? Nemuzes se nikoho
+dotknout. Vis co je jeste tragictejsi? Kdyz jsem byl zivy,
+taky se me nikdo nechtel dotknout."
+```
+
+### Nove hlasky od vsech postav na tema
+
+```
+> Nove hlasky o jidle
+```
+```
+LISTER: "Nerikam, ze Rimmerovo vareni je spatny. Rikam, ze naposled,
+co varil, tak robici odmitli umejt hrnec a jeden z nich podal
+vypoved."
+
+KOCOUR: "Ja nejim nic, co nevypada tak dobre jako ja. Coz eliminuje
+prakticky vsechno krome susi. A i to susi musi byt cerstveny."
+
+KRYTON: "Pane Listere, vas vindaloo dosahuje na Scovilleho stupnici
+hodnot, ktere obvykle meri jadernou fyzika."
+
+HOLLY: "Dneska je na menu kureci vindaloo, hovezi vindaloo a veganska
+varianta — vindaloo bez kurete a hoveziny. Coz je vlastne omacka."
+```
 
 ### Scenka
 
 ```
+> Napis scenku kde Lister a Rimmer...
+```
+```
 INT. SPACI KAJUTA — DEN
 
-*LISTER lezi na horni palube a hraje si s jojo. RIMMER u stolu studuje.*
+*LISTER lezi na horni palube. RIMMER u stolu studuje.*
 
 RIMMER: Listere, mohl bys prosim prestat s tim jojo?
 
@@ -166,121 +276,13 @@ ctyricet sedm stiznosti a ty jsi jeste nezareagoval na jedinou!
 
 LISTER: No bodejt. Nepodepsanej papir hodim do kose, podepsanej
 do zachoda.
-
-*Dvere se otevrou. Vejde KOCOUR. Ma na sobe novy zlaty oblek
-s leopardim limcem.*
-
-KOCOUR: Hele, kluci. Jak vypadam?
-
-RIMMER: Jako by se vyloha blystiveho prodejce v Elvisove Gracelandu
-rozhodla, ze pujde na rande s diskotekovym globem.
-
-KOCOUR: Diky! To je presne ten look, o kterej jsem usiloval.
 ```
 
-### NSFAQ ve stylu webu
+### In-character
 
 ```
-1355. Smeghead_CZ:
-Jak to, ze Kocour mel v jedne epizode zrcatko, ale v dalsi se cesal
-pred obrazovkou pocitace?
-
-Odpoved: Kocourova sit zrcadel je rozsahlejsi nez Rimmeruv seznam
-stiznosti na Listera, coz je samo o sobe monumentalni vykon.
-V epizode Paralelni vesmir si muzes vsimnout, ze Kocour kontroluje
-svuj vzhled v odrazove plose mikrovlnky. Ve Vymene tel se cesa
-pred hlavni obrazovkou. A v Poslednim dni pouziva kapesni zrcatko.
-
-Takze odpoved je: Kocour ma zrcatka VSUDE. Na choddbach, v kajutach,
-v Kosmiku. Je to jako Rimmerovy revizni plany — kompletne pokryvaji
-celou lod, ale na rozdil od Rimmerovych planu opravdu k necemu slouzi.
+> Odpovez jako Rimmer proc bys mel byt kapitan
 ```
-
-### Stare hlasky (vyhledavani z databaze 350+ citatu)
-
-Skill ma databazi 350+ presnych citatu ze vsech 52 epizod, kazdy s kontextem.
-Muzes hledat podle postavy, epizody, tematu nebo klicoveho slova:
-
-```
-> "Dej hlasku od Rimmera o zkouskach"
-
-RIMMER: "Neustale propada u zkousek! Jedenactkrat podle me neni
-'neustale'! Kdyz jite roast beef jedenactkrat za zivot, sotva se
-rekne: 'Ten clovek ji neustale roast beef.'"
-  — ep. 04 Cekani na Boha (Rimmer se brani hodnoceni v tajnem zaznamu)
-
-> "Neco od Holly"
-
-HOLLY: "Prehnane horlivy, zrejme blazen. Pravdepodobne ma vic zubu
-nez mozkovych bunek. Vyhlidky na povyseni: komicke."
-  — ep. 04 Cekani na Boha (Kapitanuv tajny zaznam o Rimmerovi)
-
-> "Hlaska o lasce"
-
-RIMMER: "Jiste, ze vim, co je laska. Mechanismus, jenz vynalezli
-bankeri, aby nas donutili precerpat ucet."
-  — ep. 05 Sebevedomi a Mindrak
-
-> "Neco s Kocourem a Listerem"
-
-KOCOUR: "Promin hochu, jakej to ma bejt oblicej?"
-LISTER: "Co je s mym oblicej?"
-KOCOUR: "Co je s tvym oblicej? Je vzhuru nohama a taky naruby."
-  — ep. 04 Cekani na Boha (Kocour pochybuje, ze Lister je Buh)
-
-> "Rimmer a smrt"
-
-RIMMER: "Smrt? Je to jako byt na dovolene s partou Nemcu."
-  — ep. 01 Konec (Rimmer popisuje Listerovi, jaky je byt mrtvy)
-```
-
-### Nove hlasky (generovane ve stylu postav)
-
-Muzete kombinovat postavu + tema + naladu. Skill vytvori novou hlasku
-ktera zni jako by byla z serialu — pouziva databazi 350+ originalnich
-citatu jako vzor pro styl, humor a hlas kazde postavy.
-
-```
-> "Vymysli novou hlasku pro Kocoura"
-
-KOCOUR: "Koukam na sebe do zrcadla a rikam si — nekde ve vesmiru
-existuje bytost, ktera vypada takhle dobre. A pak si uvedomim,
-ze koukam na sebe. A je mi ty bytosti lito, protoze nemuze bejt ja."
-```
-
-```
-> "Nova hlaska od Rimmera o lasce"
-
-RIMMER: "Laska je jako moje dustojnicke zkousky. Cim vic se snazis,
-tim vic ti to pripomene, zes na to absolutne nemyslitelne nedostatecne
-kvalifikovanej. A nakonec napises 'ja jsem ryba' a slozis se."
-```
-
-```
-> "Co by rekl Holly o umele inteligenci?"
-
-HOLLY: "Mam IQ sest tisic. A po trech milionech let samoty vim jedno —
-inteligence neni o tom kolik vis, ale o tom jak dlouho vydrzis
-mluvit se ctyrmi lidmi, z nichz jeden je mrtvy a druhy se obleka
-dvacet hodin denne."
-```
-
-```
-> "Kryton nadava Rimmerovi — ale zdvorile"
-
-KRYTON: "Pane Rimmere, s veskerou uctou — vase strategicke mysleni
-pripomina navigacni system, ktery uprimne veri, ze zed je zkratka."
-```
-
-Dalsi priklady co muzete rict:
-- *"Vymysli 5 novych hlasek o jidle"*
-- *"Nova nadavka od Listera pro Rimmera"*
-- *"Co by rekl Kocour na socialnich sitich?"*
-- *"Rimmer pise motivacni citaty"*
-- *"Holly komentuje pocasi"*
-
-### In-character (Rimmer)
-
 ```
 Dobre. Panove. Vazeni pritomni. A Listere.
 
