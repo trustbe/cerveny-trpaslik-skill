@@ -377,6 +377,17 @@ Skill je postaven na obsahu webu [cervenytrpaslik.cz](http://www.cervenytrpaslik
 
 Cerveny trpaslik (Red Dwarf) je serial BBC vytvoreny Robem Grantem a Dougem Naylorem. Vsechna prava k serialu nalezi jejich drzitelum.
 
+## Roadmap
+
+Otevřené nápady pro budoucí vylepšení:
+
+- **Série IX-XIII (2012-2020)** — seriál pokračoval, ale cervenytrpaslik.cz je nemá. Doplnit scénáře a hlášky z novějších řad.
+- **Víc hlášek** — aktuálně 350+, dalo by se vytáhnout 500+ hlubším průchodem scénářů
+- **Interaktivní web** — jednoduchá HTML stránka s tlačítkem "random hláška" (bez AI, jen z databáze)
+- **Obrázky** — web má fotky a screenshoty, ty jsme nestahovali
+
+Pull requesty vítány!
+
 ## License
 
 MIT — viz [LICENSE](LICENSE).
