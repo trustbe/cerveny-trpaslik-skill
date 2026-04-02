@@ -24,18 +24,50 @@ Restartuj Claude Code a skill je aktivni.
 
 ## Co to umi
 
+### Hlasky (350+ z databaze)
+
+Skill ma databazi 350+ citatu ze vsech 52 epizod. Kazda hlaska ma postavu,
+presny text a kontext (epizoda, situace). Zpusoby pouziti:
+
+| Prikaz | Co udela |
+|--------|---------|
+| *"Dej hlasku"* | Nahodna hlaska — prekvapi te |
+| *"Hlaska od Rimmera"* | Nejlepsi citaty dane postavy |
+| *"Neco ze serie III"* | Hlasky z konkretni serie |
+| *"Hlaska o lasce"* | Hledani podle tematu (laska, smrt, jidlo, zkousky...) |
+| *"Neco sarkastickyho"* | Podle nalady (sarkasmus, wholesome, existencialni...) |
+| *"Nejlepsi nadavka od Krytona"* | Nejkreativnejsi urazky |
+| *"Hlaska Lister vs Rimmer"* | Vtipna vymena mezi postavami |
+| *"Hlaska dne"* | Jedna vyjimecna — na hlavni stranku webu |
+| *"Kdo to rekl?"* | Kviz — hadas postavu podle citatu |
+| *"Vymysli novou hlasku pro Kocoura"* | NOVA hlaska ve stylu postavy |
+
+### Tvorba
+
 | Mod | Popis | Prikaz |
 |-----|-------|--------|
 | Nova epizoda | Kompletni scenar (cold open + 3 akty) | *"Napis novou epizodu kde..."* |
 | Scenka | Kratka scena, 1-5 stran | *"Napis scenku kde Lister a Rimmer..."* |
 | In-character | Odpovidani jako postava | *"Odpovez jako Rimmer na..."* |
-| Webovy obsah | Postreh, hnidopich, NSFAQ, kucharka, quiz | *"Napis novy NSFAQ entry"* |
 | Fan fiction | Pribeh v proze | *"Napis povidku o..."* |
-| Rozbor | Hlubkova analyza epizody | *"Rozeber epizodu Navrat do reality"* |
-| Lore | Encyklopedicka odpoved | *"Jak funguje holomura?"* |
-| Hlaska (stara) | Vyhledani citatu ze serialu | *"Dej hlasku od Rimmera o zkouskach"* |
-| Hlaska (nova) | Nova hlaska ve stylu postavy | *"Vymysli novou hlasku pro Kocoura"* |
-| Free talk | Konverzace jako RD expert | *"Ktera serie je nejlepsi?"* |
+
+### Webovy obsah (styl cervenytrpaslik.cz)
+
+| Mod | Prikaz |
+|-----|--------|
+| Postreh | *"Napis novy postreh o Rimmerovi"* |
+| Hnidopich | *"Najdi chybu v epizode Polymorf"* |
+| NSFAQ | *"Napis novy NSFAQ entry"* |
+| Kucharka | *"Napis recept ve stylu RD"* |
+| Quiz | *"Vymysli kvizovy otazky"* |
+
+### Znalosti
+
+| Mod | Prikaz |
+|-----|--------|
+| Rozbor epizody | *"Rozeber epizodu Navrat do reality"* |
+| Lore | *"Jak funguje holomura?"* / *"Co jsou GELFove?"* |
+| Free talk | *"Ktera serie je nejlepsi?"* / *"Proc je RD genialni?"* |
 
 Skill se aktivuje automaticky kdyz zminis: Cerveny trpaslik, Red Dwarf, smeghead, Lister, Rimmer, Cat, Kryten, Holly, Starbug, Kosmik...
 
