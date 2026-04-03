@@ -1,69 +1,52 @@
-# Červený Trpaslík — AI Knowledge Base & Skill
+# K177 — Švitorka AI
 
-> *"Všichni jsou mrtví, Dave."*
+> *"Chrlím hlášky, tedy jsem."*
 
-Kompletní AI znalostní báze Červeného trpaslíka — 52 epizod, 350+ hlášek, všechny postavy. Umí vyhledat staré hlášky, vymyslet nové ve stylu postav, psát scénáře, scénky a obsah v duchu českého dabingu. Funguje jako Claude Code skill, system prompt pro jakýkoli LLM, nebo jako základ pro MCP server / chatbot / Twitter bot.
+Celý Červený trpaslík v jednom AI. Dali byste si hlášku?
 
-## Co je Claude Code skill?
+Zná každou epizodu, každou postavu, každou nadávku. Najde starou hlášku, vymyslí novou. Nedá pokoj. Jako správný toastovač.
 
-[Claude Code](https://claude.ai/claude-code) je CLI nástroj od Anthropicu — píšeš přímo v terminálu a Claude ti pomáhá s kódem, textem, čímkoli. **Skill** je balíček znalostí, který Claude Code načte automaticky když detekuje relevantní téma. Jakmile nainstalujete tento skill a zmíníte "Červený trpaslík", "Rimmer", "smeghead" apod., Claude automaticky načte knowledge base a začne odpovídat jako expert na Red Dwarf.
+Výrobce: Křápol a.s. — Taiwan | Typ přístroje: Mluvící toastovač
 
-**Potřebujete:**
-- [Claude Code](https://claude.ai/claude-code) (CLI, desktop app, nebo IDE extension)
-- Účet u Anthropic (Pro/Max nebo API)
+## Jak to funguje
 
-## Instalace
+Referenční soubory jsou **obyčejné markdown soubory** — fungují s jakýmkoli AI modelem. Pošlete je jako kontext a AI začne chápat Červeného trpaslíka.
 
+### Claude Code (automatický skill)
 ```bash
 git clone https://github.com/trustbe/cerveny-trpaslik-skill.git
 cd cerveny-trpaslik-skill
 ./install.sh
 ```
+Skill se aktivuje automaticky když zmíníte Červený trpaslík, Rimmer, smeghead...
 
-Nebo ručně:
+### ChatGPT / GPT-4
+Nahrajte `SKILL.md` + soubory z `references/` jako Custom Instructions nebo do konverzace.
 
-```bash
-mkdir -p ~/.claude/skills/cerveny-trpaslik
-cp SKILL.md ~/.claude/skills/cerveny-trpaslik/
-cp -r references ~/.claude/skills/cerveny-trpaslik/
-```
+### Gemini / Google AI Studio
+System Instructions — vložte `SKILL.md` a připojte reference jako kontext.
 
-Restartujte Claude Code a skill je aktivní.
+### Cursor / Copilot / jiné IDE
+Zkopírujte `SKILL.md` do `.cursorrules` nebo ekvivalentu.
+
+### Jakýkoli jiný LLM
+Pošlete `SKILL.md` + reference jako system prompt. Klíčové soubory:
+- `SKILL.md` — instrukce a pravidla
+- `references/characters.md` — postavy a hlasy
+- `references/hlasky-databaze.md` — databáze citátů
+- `references/humor-patterns.md` — DNA humoru
 
 ## Jak to používat
 
-Prostě pište v Claude Code česky a zmíňte cokoli z Red Dwarf. Skill naskočí automaticky. Příklady:
+Prostě se ptáte. Žádná speciální syntax. Příklady:
 
 ```
 > Dej hlášku od Rimmera
-> Napiš scénku kde Lister a Kocour...
 > Kdo to řekl? "Toastuju, tedy jsem."
 > Vymysli novou nadávku ve stylu Krytona
 > Jak funguje holomůra?
 > Odpověz jako Rimmer na otázku proč je nejlepší kapitán
 ```
-
-Není žádný speciální příkaz ani syntax — prostě se ptáte a Claude odpovídá se znalostí 52 epizod, 350+ hlášek, všech postav a vibu českého fan klubu.
-
-## Použití s jinými AI modely
-
-Skill je optimalizovaný pro Claude Code, ale referenční soubory jsou **obyčejné markdown soubory** — můžete je použít s čímkoli:
-
-**ChatGPT / GPT-4:** Nahrajte `SKILL.md` + relevantní soubory z `references/` jako Custom Instructions nebo do konverzace. Nejdůležitější: `characters.md`, `hlasky-databaze.md`, `humor-patterns.md`.
-
-**Gemini / Google AI Studio:** System Instructions — vložte `SKILL.md` a připojte reference jako kontext.
-
-**Cursor / Copilot / jiné IDE:** Zkopírujte `SKILL.md` do `.cursorrules` nebo ekvivalentu. Referenční soubory dejte do projektu aby je AI vidělo.
-
-**Libovolný model s dlouhým kontextem:** Prostě pošlete `SKILL.md` + reference jako system prompt. Čím víc referenčních souborů přidáte, tím lepší výsledky.
-
-**Tip:** Pokud model nemá dost velký kontext pro všechny reference, použijte alespoň:
-1. `SKILL.md` (7 KB) — instrukce a pravidla
-2. `characters.md` (27 KB) — postavy a hlasy
-3. `hlasky-databaze.md` (25 KB) — 350+ citátů
-4. `czech-voice.md` (13 KB) — český jazykový feeling
-
-To je ~72 KB textu, což zvládne i model se 128K kontextem.
 
 ## Co to umí
 
