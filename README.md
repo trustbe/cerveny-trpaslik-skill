@@ -134,23 +134,23 @@ Skill se aktivuje automaticky když zmíníte: Červený trpaslík, Red Dwarf, s
 > Hláška o lásce
 ```
 ```
-RIMMER: "Jiste, ze vim, co je laska. Mechanismus, jenz vynalezli
-bankeri, aby nas donutili precerpat ucet."
+RIMMER: "Jistě, že vím, co je láska. Mechanismus, jenž vynalezli
+bankéři, aby nás donutili přečerpat účet."
   — ep. 05 Sebevědomí a Mindrák
 
-RIMMER: "Vis kolikrat v zivote jsem se ja s nekym miloval?"
-LISTER: "Ne, to nechci vedet."
-RIMMER: "Jednou." LISTER: "Boha jeho!" RIMMER: "Jednou jedinkrat."
+RIMMER: "Víš kolikrát v životě jsem se já s někým miloval?"
+LISTER: "Ne, to nechci vědět."
+RIMMER: "Jednou." LISTER: "Boha jeho!" RIMMER: "Jednou jedinkrát."
   — ep. 12 Paralelní vesmír (Rimmer opilý odhaluje své tajemství)
 
-KOCHANSKA: "Nikdy jsem se na nej nedivala, jako by byl kozi syr
-s kousky ananasu! Mozna jednou, dvakrat jako na kozi syr,
+KOCHANSKÁ: "Nikdy jsem se na něj nedívala, jako by byl kozí sýr
+s kousky ananasu! Možná jednou, dvakrát jako na kozí sýr,
 ale nikdy, *nikdy* s kousky ananasu!"
   — ep. 39 Uroboros (Kochanská popírá své city k Listerovi)
 
-LISTER: "Ja jsem posledni muz na svete."
-KOCHANSKA: "No, co se da delat?"
-  — ep. 43 Epidem
+LISTER: "Já jsem poslední muž na světě."
+KOCHANSKÁ: "No, co se dá dělat?"
+  — ep. 43 Epidém
 ```
 
 ### Stará hláška (podle postavy)
@@ -159,17 +159,17 @@ KOCHANSKA: "No, co se da delat?"
 > Dej hlášku od Holly
 ```
 ```
-HOLLY: "Prehnane horlivy, zrejme blazen. Pravdepodobne ma vic zubu
-nez mozkovych bunek. Vyhlidky na povyseni: komicke."
+HOLLY: "Přehnaně horlivý, zřejmě blázen. Pravděpodobně má víc zubů
+než mozkových buněk. Vyhlídky na povýšení: komické."
   — ep. 04 Čekání na Boha (kapitánův tajný záznam o Rimmerovi)
 
-HOLLY: "Ja jsem desata generace holografickych pocitacu s umelou
-inteligenci. Ne tvoje mama."
+HOLLY: "Já jsem desátá generace holografických počítačů s umělou
+inteligencí. Ne tvoje máma."
   — ep. 02 Ozvěny budoucnosti (Holly odpovídá podrážděnému Rimmerovi)
 
-HOLLY: "Jean Paul Sartre tvrdil, ze peklo je byt navzdy zamcenej
-v mistnosti s prateli." LISTER: "Holly, vsichni jeho kamaradi
-byly Frantici."
+HOLLY: "Jean Paul Sartre tvrdil, že peklo je být navždy zamčenej
+v místnosti s přáteli." LISTER: "Holly, všichni jeho kamarádi
+byly Frantíci."
   — ep. 03 Rovnováha sil
 ```
 
@@ -179,7 +179,7 @@ byly Frantici."
 > Dej hlášku
 ```
 ```
-RIMMER: "Zhorsil se mi zrak. Tos namaloval ty? To je brak!"
+RIMMER: "Zhoršil se mi zrak. Tos namaloval ty? To je brak!"
 LISTER: "To je zrcadlo."
   — ep. 03 Rovnováha sil
 ```
@@ -201,18 +201,18 @@ a) Rimmer  b) Holly  c) Toastovač  d) Kryton
 > Nová hláška od Rimmera o lásce
 ```
 ```
-RIMMER: "Miloval jsem jednu zenu. Dvanact minut. A to pocitam
-i tu pizzu. Kdybych nepocital pizzu, tak jsem miloval tri minuty.
-A dve z toho jsem hledal vypinac."
+RIMMER: "Miloval jsem jednu ženu. Dvanáct minut. A to počítám
+i tu pizzu. Kdybych nepočítal pizzu, tak jsem miloval tři minuty.
+A dvě z toho jsem hledal vypínač."
 
-RIMMER: "Laska je jako dustojnicke zkousky. Cim vic se snazis,
-tim vic ti to pripomene, zes na to absolutne nemyslitelne
-nedostatecne kvalifikovanej. A nakonec napises 'ja jsem ryba'
-a slozis se."
+RIMMER: "Láska je jako důstojnické zkoušky. Čím víc se snažíš,
+tím víc ti to připomene, žes na to absolutně nemyslitelně
+nedostatečně kvalifikovanej. A nakonec napíšeš 'já jsem ryba'
+a složíš se."
 
-RIMMER: "Vis co je na hologramech tragicke? Nemuzes se nikoho
-dotknout. Vis co je jeste tragictejsi? Kdyz jsem byl zivy,
-taky se me nikdo nechtel dotknout."
+RIMMER: "Víš co je na hologramech tragické? Nemůžeš se nikoho
+dotknout. Víš co je ještě tragičtější? Když jsem byl živý,
+taky se mě nikdo nechtěl dotknout."
 ```
 
 ### Nové hlášky od všech postav na téma
@@ -221,18 +221,18 @@ taky se me nikdo nechtel dotknout."
 > Nové hlášky o jídle
 ```
 ```
-LISTER: "Nerikam, ze Rimmerovo vareni je spatny. Rikam, ze naposled,
-co varil, tak robici odmitli umejt hrnec a jeden z nich podal
-vypoved."
+LISTER: "Neříkám, že Rimmerovo vaření je špatný. Říkám, že naposled,
+co vařil, tak robíci odmítli umejt hrnec a jeden z nich podal
+výpověď."
 
-KOCOUR: "Ja nejim nic, co nevypada tak dobre jako ja. Coz eliminuje
-prakticky vsechno krome susi. A i to susi musi byt cerstveny."
+KOCOUR: "Já nejím nic, co nevypadá tak dobře jako já. Což eliminuje
+prakticky všechno kromě suši. A i to suši musí být čerstvený."
 
-KRYTON: "Pane Listere, vas vindaloo dosahuje na Scovilleho stupnici
-hodnot, ktere obvykle meri jadernou fyzika."
+KRYTON: "Pane Listere, vaše vindaloo dosahuje na Scovilleho stupnici
+hodnot, které obvykle měří jaderná fyzika."
 
-HOLLY: "Dneska je na menu kureci vindaloo, hovezi vindaloo a veganska
-varianta — vindaloo bez kurete a hoveziny. Coz je vlastne omacka."
+HOLLY: "Dneska je na menu kuřecí vindaloo, hovězí vindaloo a veganská
+varianta — vindaloo bez kuřete a hověziny. Což je vlastně omáčka."
 ```
 
 ### Scénka
