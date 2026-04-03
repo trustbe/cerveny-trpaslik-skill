@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Švitorka AI — V5 Hologram H</title>
+<link href="https://fonts.googleapis.com/css2?family=Michroma&family=VT323&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+body {
+  min-height: 100vh;
+  background: #1a1422;
+  color: #e8e4df;
+  font-family: 'Michroma', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Subtle purple gradient */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: radial-gradient(ellipse at 50% 30%, #25183a 0%, #1a1422 60%, #12101a 100%);
+  pointer-events: none;
+}
+
+/* Big H watermark */
+.big-h {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Michroma', sans-serif;
+  font-size: clamp(300px, 50vw, 600px);
+  font-weight: 400;
+  color: #1e1828;
+  pointer-events: none;
+  user-select: none;
+  line-height: 1;
+}
+
+.page {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 800px;
+  padding: 40px 24px;
+}
+
+/* Hologram H badge */
+.h-badge {
+  width: 64px;
+  height: 64px;
+  border: 3px solid #c4342d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+  font-weight: 400;
+  color: #c4342d;
+  margin-bottom: 32px;
+  box-shadow: 0 0 20px #c4342d33, inset 0 0 12px #c4342d11;
+  animation: holo-pulse 3s ease-in-out infinite;
+}
+
+@keyframes holo-pulse {
+  0%, 100% { box-shadow: 0 0 20px #c4342d33, inset 0 0 12px #c4342d11; }
+  50% { box-shadow: 0 0 30px #c4342d55, inset 0 0 16px #c4342d22; }
+}
+
+.logo {
+  font-size: 11px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: #9a7aaa;
+  margin-bottom: 6px;
+}
+
+.tagline {
+  font-family: 'VT323', monospace;
+  font-size: 16px;
+  color: #5a4a6a;
+  margin-bottom: 52px;
+}
+
+.who {
+  font-size: 12px;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+  color: #c4342d;
+  margin-bottom: 24px;
+}
+
+.hlaska {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-size: clamp(24px, 4vw, 50px);
+  line-height: 1.35;
+  text-align: center;
+}
+
+.hlaska::before { content: '\201E'; color: #c4342d66; }
+.hlaska::after { content: '\201C'; color: #c4342d66; }
+
+.odkud {
+  margin-top: 24px;
+  font-family: 'VT323', monospace;
+  font-size: 18px;
+  color: #5a4a6a;
+}
+.odkud span { color: #d4a04a; }
+
+.btn {
+  margin-top: 48px;
+  background: 0;
+  border: 1px solid #9a7aaa;
+  color: #9a7aaa;
+  font-family: 'Michroma', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding: 14px 36px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.btn:hover {
+  background: #c4342d;
+  border-color: #c4342d;
+  color: #fff;
+  box-shadow: 0 0 20px #c4342d44;
+}
+
+/* Character icons row */
+.chars {
+  display: flex;
+  gap: 20px;
+  margin-top: 52px;
+}
+
+.char-icon {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #2a2434;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'VT323', monospace;
+  font-size: 18px;
+  color: #4a3a5a;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+.char-icon:hover { border-color: #c4342d; color: #c4342d; }
+.char-icon.active { border-color: #c4342d; color: #c4342d; }
+
+.specs {
+  position: fixed;
+  bottom: 16px;
+  font-family: 'VT323', monospace;
+  font-size: 14px;
+  color: #2a2434;
+  text-transform: uppercase;
+  z-index: 1;
+}
+</style>
+</head>
+<body>
+
+<div class="big-h">H</div>
+
+<div class="page">
+  <div class="h-badge">H</div>
+  <div class="logo">Švitorka AI</div>
+  <div class="tagline">Chrlím hlášky, tedy jsem.</div>
+
+  <div class="who">Rimmer</div>
+  <div class="hlaska">Jistě, že vím, co je láska. Mechanismus, jenž vynalezli bankéři, aby nás donutili přečerpat účet.</div>
+  <div class="odkud">ep. 05 — <span>Sebevědomí a Mindrák</span></div>
+  <button class="btn" onclick="location.reload()">Dali byste si hlášku?</button>
+
+  <!-- Character selector icons -->
+  <div class="chars">
+    <div class="char-icon active" title="Rimmer">H</div>
+    <div class="char-icon" title="Lister">L</div>
+    <div class="char-icon" title="Kocour">C</div>
+    <div class="char-icon" title="Kryton">K</div>
+    <div class="char-icon" title="Holly">?</div>
+  </div>
+</div>
+
+<div class="specs">Křápol a.s. — Taiwan // K177 // Mluvící toastovač</div>
+</body>
+</html>

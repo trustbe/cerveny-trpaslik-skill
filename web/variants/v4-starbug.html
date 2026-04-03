@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Švitorka AI — V4 Starbug</title>
+<link href="https://fonts.googleapis.com/css2?family=Michroma&family=VT323&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+body {
+  min-height: 100vh;
+  background: #141820;
+  color: #e8e4df;
+  font-family: 'Michroma', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Deep space gradient */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: radial-gradient(ellipse at 30% 40%, #1a2030 0%, #141820 50%, #0c1018 100%);
+  pointer-events: none;
+}
+
+/* Stars */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(1px 1px at 12% 25%, #fff4, transparent),
+    radial-gradient(1px 1px at 35% 72%, #fff3, transparent),
+    radial-gradient(1px 1px at 58% 15%, #fff2, transparent),
+    radial-gradient(1px 1px at 72% 55%, #fff3, transparent),
+    radial-gradient(1px 1px at 88% 82%, #fff2, transparent),
+    radial-gradient(1px 1px at 22% 48%, #fff3, transparent),
+    radial-gradient(2px 2px at 45% 35%, #fff2, transparent),
+    radial-gradient(1px 1px at 65% 88%, #fff3, transparent),
+    radial-gradient(1px 1px at 8% 72%, #fff2, transparent),
+    radial-gradient(1px 1px at 92% 18%, #fff3, transparent);
+  pointer-events: none;
+}
+
+.page {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 800px;
+  padding: 40px 24px;
+}
+
+/* Starbug SVG */
+.starbug-wrap {
+  margin-bottom: 48px;
+  opacity: 0.85;
+}
+
+.logo-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.logo {
+  font-size: 12px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: #5a9a5a;
+}
+
+.k177 {
+  font-family: 'VT323', monospace;
+  font-size: 16px;
+  color: #4a5a6a;
+}
+
+.tagline {
+  font-family: 'VT323', monospace;
+  font-size: 16px;
+  color: #4a5a6a;
+  margin-bottom: 48px;
+  font-style: italic;
+}
+
+.who {
+  font-size: 12px;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+  color: #5a9a5a;
+  margin-bottom: 24px;
+}
+
+.hlaska {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-size: clamp(24px, 4vw, 48px);
+  line-height: 1.35;
+  text-align: center;
+}
+
+.hlaska::before { content: '\201E'; color: #5a9a5a88; }
+.hlaska::after { content: '\201C'; color: #5a9a5a88; }
+
+.odkud {
+  margin-top: 24px;
+  font-family: 'VT323', monospace;
+  font-size: 18px;
+  color: #5a6a7a;
+}
+.odkud span { color: #d4a04a; }
+
+.btn {
+  margin-top: 44px;
+  background: 0;
+  border: 1px solid #5a9a5a;
+  color: #5a9a5a;
+  font-family: 'Michroma', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding: 14px 36px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.btn:hover { background: #5a9a5a; color: #141820; }
+
+.specs {
+  position: fixed;
+  bottom: 16px;
+  font-family: 'VT323', monospace;
+  font-size: 14px;
+  color: #2a3a4a;
+  text-transform: uppercase;
+  z-index: 1;
+}
+</style>
+</head>
+<body>
+
+<div class="page">
+  <!-- Starbug/Kosmík SVG -->
+  <div class="starbug-wrap">
+    <svg width="200" height="140" viewBox="0 0 200 140" fill="none">
+      <!-- Body -->
+      <ellipse cx="100" cy="65" rx="55" ry="35" fill="#4a7a4a" opacity="0.8"/>
+      <!-- Cockpit dome -->
+      <ellipse cx="100" cy="48" rx="30" ry="20" fill="#6aaa6a" opacity="0.6"/>
+      <!-- Cockpit window -->
+      <ellipse cx="100" cy="48" rx="18" ry="12" fill="#8ad08a" opacity="0.3"/>
+      <!-- Left leg -->
+      <line x1="55" y1="85" x2="30" y2="125" stroke="#5a8a5a" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="30" cy="128" r="6" fill="#4a7a4a" opacity="0.7"/>
+      <!-- Right leg -->
+      <line x1="145" y1="85" x2="170" y2="125" stroke="#5a8a5a" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="170" cy="128" r="6" fill="#4a7a4a" opacity="0.7"/>
+      <!-- Middle leg -->
+      <line x1="100" y1="95" x2="100" y2="130" stroke="#5a8a5a" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="100" cy="133" r="5" fill="#4a7a4a" opacity="0.7"/>
+      <!-- Engine glow -->
+      <ellipse cx="100" cy="95" rx="20" ry="6" fill="#ffaa33" opacity="0.2"/>
+      <!-- Antenna -->
+      <line x1="100" y1="28" x2="100" y2="10" stroke="#5a8a5a" stroke-width="2"/>
+      <circle cx="100" cy="8" r="3" fill="#ff5533" opacity="0.6"/>
+      <!-- Side details -->
+      <rect x="52" y="58" width="8" height="14" rx="2" fill="#3a5a3a"/>
+      <rect x="140" y="58" width="8" height="14" rx="2" fill="#3a5a3a"/>
+    </svg>
+  </div>
+
+  <div class="logo-row">
+    <span class="logo">Švitorka AI</span>
+    <span class="k177">// K177</span>
+  </div>
+  <div class="tagline">Chrlím hlášky, tedy jsem.</div>
+
+  <div class="who">Rimmer</div>
+  <div class="hlaska">Jistě, že vím, co je láska. Mechanismus, jenž vynalezli bankéři, aby nás donutili přečerpat účet.</div>
+  <div class="odkud">ep. 05 — <span>Sebevědomí a Mindrák</span></div>
+  <button class="btn" onclick="location.reload()">Dali byste si hlášku?</button>
+</div>
+
+<div class="specs">Křápol a.s. — Taiwan &nbsp;|&nbsp; Mluvící toastovač</div>
+</body>
+</html>

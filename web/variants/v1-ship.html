@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Švitorka AI — V1 Ship Silhouette</title>
+<link href="https://fonts.googleapis.com/css2?family=Michroma&family=VT323&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+body {
+  min-height: 100vh;
+  background: #08080b;
+  color: #e8e4df;
+  font-family: 'Michroma', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Stars background */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(1px 1px at 10% 20%, #fff3, transparent),
+    radial-gradient(1px 1px at 30% 70%, #fff2, transparent),
+    radial-gradient(1px 1px at 50% 10%, #fff4, transparent),
+    radial-gradient(1px 1px at 70% 40%, #fff2, transparent),
+    radial-gradient(1px 1px at 90% 80%, #fff3, transparent),
+    radial-gradient(1px 1px at 15% 55%, #fff2, transparent),
+    radial-gradient(1px 1px at 85% 15%, #fff3, transparent),
+    radial-gradient(1px 1px at 45% 90%, #fff2, transparent),
+    radial-gradient(1px 1px at 60% 60%, #fff1, transparent),
+    radial-gradient(1px 1px at 25% 35%, #fff2, transparent),
+    radial-gradient(2px 2px at 5% 85%, #fff2, transparent),
+    radial-gradient(2px 2px at 95% 5%, #fff1, transparent),
+    radial-gradient(1px 1px at 40% 45%, #fff2, transparent),
+    radial-gradient(1px 1px at 75% 25%, #fff3, transparent),
+    radial-gradient(1px 1px at 55% 75%, #fff2, transparent);
+  pointer-events: none;
+}
+
+/* Ship SVG */
+.ship {
+  position: absolute;
+  bottom: -30px;
+  right: -60px;
+  opacity: 0.06;
+  transform: rotate(-5deg);
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 800px;
+  padding: 40px 24px;
+}
+
+.logo {
+  font-size: 11px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: #c4342d;
+  margin-bottom: 60px;
+}
+
+.who {
+  font-size: 12px;
+  letter-spacing: 0.5em;
+  text-transform: uppercase;
+  color: #c4342d;
+  margin-bottom: 24px;
+}
+
+.hlaska {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-size: clamp(26px, 4.5vw, 52px);
+  line-height: 1.35;
+  text-align: center;
+}
+
+.hlaska::before { content: '\201E'; color: #c4342d55; }
+.hlaska::after { content: '\201C'; color: #c4342d55; }
+
+.odkud {
+  margin-top: 24px;
+  font-family: 'VT323', monospace;
+  font-size: 18px;
+  color: #6a6560;
+}
+
+.odkud span { color: #d4a04a; }
+
+.btn {
+  margin-top: 48px;
+  background: 0;
+  border: 1px solid #c4342d;
+  color: #c4342d;
+  font-family: 'Michroma', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  padding: 14px 36px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.btn:hover { background: #c4342d; color: #fff; }
+
+.specs {
+  position: fixed;
+  bottom: 16px;
+  font-family: 'VT323', monospace;
+  font-size: 14px;
+  color: #333;
+  text-transform: uppercase;
+}
+</style>
+</head>
+<body>
+
+<!-- Red Dwarf ship silhouette -->
+<svg class="ship" width="600" height="400" viewBox="0 0 600 400" fill="none">
+  <ellipse cx="300" cy="200" rx="250" ry="60" fill="#e8e4df"/>
+  <rect x="50" y="170" width="500" height="60" rx="30" fill="#e8e4df"/>
+  <rect x="200" y="130" width="200" height="40" rx="8" fill="#e8e4df"/>
+  <rect x="250" y="100" width="100" height="35" rx="6" fill="#e8e4df"/>
+  <circle cx="150" cy="200" r="25" fill="#e8e4df"/>
+  <circle cx="300" cy="200" r="20" fill="#e8e4df"/>
+  <circle cx="450" cy="200" r="25" fill="#e8e4df"/>
+  <rect x="520" y="180" width="60" height="12" rx="6" fill="#e8e4df"/>
+  <rect x="530" y="195" width="50" height="10" rx="5" fill="#e8e4df"/>
+  <rect x="540" y="208" width="40" height="8" rx="4" fill="#e8e4df"/>
+</svg>
+
+<div class="content">
+  <div class="logo">Švitorka AI</div>
+  <div class="who">Rimmer</div>
+  <div class="hlaska">Jistě, že vím, co je láska. Mechanismus, jenž vynalezli bankéři, aby nás donutili přečerpat účet.</div>
+  <div class="odkud">ep. 05 — <span>Sebevědomí a Mindrák</span></div>
+  <button class="btn" onclick="location.reload()">Dali byste si hlášku?</button>
+</div>
+
+<div class="specs">Křápol a.s. — Taiwan &nbsp;|&nbsp; Mluvící toastovač K177</div>
+</body>
+</html>

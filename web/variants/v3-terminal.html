@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Švitorka AI — V3 Holly Terminal</title>
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+body {
+  min-height: 100vh;
+  background: #0a1a0a;
+  color: #33ff33;
+  font-family: 'VT323', monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* Scanlines */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: repeating-linear-gradient(0deg, transparent, transparent 3px, #0002 3px, #0002 4px);
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* CRT glow */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: radial-gradient(ellipse at center, transparent 60%, #000a 100%);
+  pointer-events: none;
+  z-index: 11;
+}
+
+.terminal {
+  position: relative;
+  z-index: 5;
+  max-width: 700px;
+  padding: 40px 24px;
+  width: 100%;
+}
+
+.prompt { color: #33ff3388; font-size: 18px; }
+.prompt::before { content: '> '; color: #33ff33; }
+
+.header {
+  font-size: 24px;
+  margin: 16px 0;
+  color: #33ff33;
+  text-shadow: 0 0 10px #33ff3366;
+}
+
+/* Holly face SVG */
+.holly-wrap {
+  text-align: center;
+  margin: 32px 0;
+}
+
+.divider {
+  color: #33ff3344;
+  font-size: 18px;
+  margin: 24px 0;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.who {
+  font-size: 22px;
+  color: #ff5533;
+  text-shadow: 0 0 8px #ff553344;
+  margin-bottom: 8px;
+}
+
+.hlaska {
+  font-size: clamp(24px, 4vw, 36px);
+  line-height: 1.5;
+  color: #33ff33;
+  text-shadow: 0 0 6px #33ff3333;
+}
+
+.odkud {
+  margin-top: 16px;
+  font-size: 18px;
+  color: #33ff3366;
+}
+.odkud span { color: #ffaa33; }
+
+.btn {
+  margin-top: 32px;
+  background: 0;
+  border: 1px solid #33ff3366;
+  color: #33ff33;
+  font-family: 'VT323', monospace;
+  font-size: 20px;
+  padding: 12px 28px;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-transform: uppercase;
+}
+.btn:hover {
+  background: #33ff3322;
+  border-color: #33ff33;
+  text-shadow: 0 0 8px #33ff33;
+}
+
+.cursor-blink::after {
+  content: '\2588';
+  animation: blink 1s step-end infinite;
+}
+@keyframes blink {
+  0%, 50% { opacity: 1; } 50.01%, 100% { opacity: 0; }
+}
+
+.specs {
+  position: fixed;
+  bottom: 12px;
+  font-size: 16px;
+  color: #33ff3333;
+  z-index: 5;
+}
+</style>
+</head>
+<body>
+
+<div class="terminal">
+  <div class="prompt">HOLLY SYSTEM v6.0 — IQ 6000</div>
+  <div class="header">ŠVITORKA AI <span style="color:#33ff3366">// K177</span></div>
+
+  <!-- Holly face — simple monitor -->
+  <div class="holly-wrap">
+    <svg width="160" height="120" viewBox="0 0 160 120" fill="none">
+      <!-- Monitor frame -->
+      <rect x="10" y="5" width="140" height="95" rx="6" stroke="#33ff33" stroke-width="2" fill="#0a1a0a"/>
+      <!-- Screen inner -->
+      <rect x="18" y="13" width="124" height="79" rx="3" fill="#0d200d"/>
+      <!-- Face -->
+      <circle cx="60" cy="45" r="6" fill="#33ff33" opacity="0.7"/>
+      <circle cx="100" cy="45" r="6" fill="#33ff33" opacity="0.7"/>
+      <path d="M55 65 Q80 80 105 65" stroke="#33ff33" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.6"/>
+      <!-- Stand -->
+      <rect x="65" y="100" width="30" height="8" rx="2" fill="#33ff33" opacity="0.3"/>
+      <rect x="55" y="108" width="50" height="5" rx="2" fill="#33ff33" opacity="0.2"/>
+    </svg>
+  </div>
+
+  <div class="divider">════════════════════════════════════════════════</div>
+
+  <div class="who">[RIMMER]</div>
+  <div class="hlaska">Jistě, že vím, co je láska. Mechanismus, jenž vynalezli bankéři, aby nás donutili přečerpat účet.<span class="cursor-blink"></span></div>
+  <div class="odkud">// ep. 05 — <span>Sebevědomí a Mindrák</span></div>
+
+  <div class="divider">════════════════════════════════════════════════</div>
+
+  <button class="btn" onclick="location.reload()"> Dali byste si hlášku?</button>
+</div>
+
+<div class="specs">Křápol a.s. — Taiwan // Mluvící toastovač // K177</div>
+</body>
+</html>

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Švitorka AI — V2 Toaster</title>
+<link href="https://fonts.googleapis.com/css2?family=Michroma&family=VT323&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+body {
+  min-height: 100vh;
+  background: #f5f0e8;
+  color: #1a1818;
+  font-family: 'Michroma', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* Warm paper texture */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background:
+    repeating-linear-gradient(0deg, transparent, transparent 100px, #e8e0d030 100px, #e8e0d030 101px),
+    repeating-linear-gradient(90deg, transparent, transparent 100px, #e8e0d020 100px, #e8e0d020 101px);
+  pointer-events: none;
+}
+
+.page {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 700px;
+  padding: 40px 24px;
+}
+
+/* Toaster SVG centered above */
+.toaster-wrap {
+  margin-bottom: 48px;
+}
+
+.logo {
+  font-size: 10px;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+  color: #c4342d;
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  font-family: 'VT323', monospace;
+  font-size: 16px;
+  color: #8a8078;
+  margin-bottom: 48px;
+}
+
+.who {
+  font-size: 11px;
+  letter-spacing: 0.5em;
+  text-transform: uppercase;
+  color: #c4342d;
+  margin-bottom: 20px;
+}
+
+.hlaska {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-size: clamp(24px, 4vw, 44px);
+  line-height: 1.4;
+  text-align: center;
+  color: #1a1818;
+}
+
+.hlaska::before { content: '\201E'; color: #c4342d; }
+.hlaska::after { content: '\201C'; color: #c4342d; }
+
+.odkud {
+  margin-top: 20px;
+  font-family: 'VT323', monospace;
+  font-size: 18px;
+  color: #8a8078;
+}
+.odkud span { color: #b47a2a; }
+
+.btn {
+  margin-top: 44px;
+  background: #c4342d;
+  border: none;
+  color: #fff;
+  font-family: 'Michroma', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding: 14px 36px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.btn:hover { background: #a82a24; }
+
+.specs {
+  position: fixed;
+  bottom: 16px;
+  font-family: 'VT323', monospace;
+  font-size: 14px;
+  color: #b8b0a8;
+  text-transform: uppercase;
+}
+</style>
+</head>
+<body>
+
+<div class="page">
+  <!-- Toaster SVG -->
+  <div class="toaster-wrap">
+    <svg width="120" height="100" viewBox="0 0 120 100" fill="none">
+      <!-- Body -->
+      <rect x="15" y="30" width="90" height="55" rx="8" fill="#888" stroke="#666" stroke-width="2"/>
+      <!-- Chrome top -->
+      <rect x="20" y="28" width="80" height="8" rx="4" fill="#aaa"/>
+      <!-- Slots -->
+      <rect x="30" y="20" width="24" height="14" rx="3" fill="#555"/>
+      <rect x="66" y="20" width="24" height="14" rx="3" fill="#555"/>
+      <!-- Toast popping out -->
+      <rect x="33" y="6" width="18" height="18" rx="2" fill="#d4a04a" stroke="#b8862a" stroke-width="1"/>
+      <rect x="69" y="10" width="18" height="14" rx="2" fill="#d4a04a" stroke="#b8862a" stroke-width="1"/>
+      <!-- Lever -->
+      <rect x="100" y="45" width="12" height="6" rx="3" fill="#777"/>
+      <!-- Base -->
+      <rect x="20" y="83" width="80" height="6" rx="3" fill="#666"/>
+      <!-- Eyes (cute face) -->
+      <circle cx="45" cy="55" r="4" fill="#333"/>
+      <circle cx="75" cy="55" r="4" fill="#333"/>
+      <!-- Smile -->
+      <path d="M50 67 Q60 75 70 67" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round"/>
+      <!-- K177 label -->
+      <text x="60" y="80" text-anchor="middle" font-family="monospace" font-size="7" fill="#555">K177</text>
+    </svg>
+  </div>
+
+  <div class="logo">Švitorka AI</div>
+  <div class="subtitle">Chrlím hlášky, tedy jsem.</div>
+
+  <div class="who">Rimmer</div>
+  <div class="hlaska">Jistě, že vím, co je láska. Mechanismus, jenž vynalezli bankéři, aby nás donutili přečerpat účet.</div>
+  <div class="odkud">ep. 05 — <span>Sebevědomí a Mindrák</span></div>
+  <button class="btn" onclick="location.reload()">Dali byste si hlášku?</button>
+</div>
+
+<div class="specs">Křápol a.s. — Taiwan &nbsp;|&nbsp; Mluvící toastovač</div>
+</body>
+</html>
