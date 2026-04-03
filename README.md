@@ -2,7 +2,7 @@
 
 > *"Všichni jsou mrtví, Dave."*
 
-Skill pro [Claude Code](https://claude.ai/claude-code) (Anthropic CLI pro Claude) — dává mu kompletní znalost Červeného trpaslíka a schopnost psát nové epizody, hlášky, obsah ve stylu českého fan klubu [cervenytrpaslik.cz](http://www.cervenytrpaslik.cz/).
+Kompletní AI skill pro [Claude Code](https://claude.ai/claude-code) — 52 epizod, 350+ hlášek, všechny postavy. Umí vyhledat staré hlášky, vymyslet nové ve stylu postav, psát scénáře, scénky a obsah v duchu českého dabingu.
 
 ## Co je Claude Code skill?
 
