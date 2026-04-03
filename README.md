@@ -1,16 +1,16 @@
-# Cerveny Trpaslik — Claude Code Skill
+# Červený Trpaslík — Claude Code Skill
 
-> *"Vsichni jsou mrtvi, Dave."*
+> *"Všichni jsou mrtví, Dave."*
 
-Skill pro [Claude Code](https://claude.ai/claude-code) (Anthropic CLI pro Claude) — dava mu kompletni znalost Cerveneho trpaslika a schopnost psat nove epizody, hlasky, obsah ve stylu ceskeho fan klubu [cervenytrpaslik.cz](http://www.cervenytrpaslik.cz/).
+Skill pro [Claude Code](https://claude.ai/claude-code) (Anthropic CLI pro Claude) — dává mu kompletní znalost Červeného trpaslíka a schopnost psát nové epizody, hlášky, obsah ve stylu českého fan klubu [cervenytrpaslik.cz](http://www.cervenytrpaslik.cz/).
 
 ## Co je Claude Code skill?
 
-[Claude Code](https://claude.ai/claude-code) je CLI nastroj od Anthropicu — pises primo v terminalu a Claude ti pomaha s kodem, textem, cimkoli. **Skill** je balicek znalosti, ktery Claude Code nacte automaticky kdyz detekuje relevantni tema. Jakmile nainstalujete tento skill a zminite "Cerveny trpaslik", "Rimmer", "smeghead" apod., Claude automaticky nacte knowledge base a zacne odpovedat jako expert na Red Dwarf.
+[Claude Code](https://claude.ai/claude-code) je CLI nástroj od Anthropicu — píšeš přímo v terminálu a Claude ti pomáhá s kódem, textem, čímkoli. **Skill** je balíček znalostí, který Claude Code načte automaticky když detekuje relevantní téma. Jakmile nainstalujete tento skill a zmíníte "Červený trpaslík", "Rimmer", "smeghead" apod., Claude automaticky načte knowledge base a začne odpovídat jako expert na Red Dwarf.
 
-**Potrebujete:**
+**Potřebujete:**
 - [Claude Code](https://claude.ai/claude-code) (CLI, desktop app, nebo IDE extension)
-- Ucet u Anthropic (Pro/Max nebo API)
+- Účet u Anthropic (Pro/Max nebo API)
 
 ## Instalace
 
@@ -20,7 +20,7 @@ cd cerveny-trpaslik-skill
 ./install.sh
 ```
 
-Nebo rucne:
+Nebo ručně:
 
 ```bash
 mkdir -p ~/.claude/skills/cerveny-trpaslik
@@ -28,194 +28,194 @@ cp SKILL.md ~/.claude/skills/cerveny-trpaslik/
 cp -r references ~/.claude/skills/cerveny-trpaslik/
 ```
 
-Restartujte Claude Code a skill je aktivni.
+Restartujte Claude Code a skill je aktivní.
 
-## Jak to pouzivat
+## Jak to používat
 
-Proste pisite v Claude Code cesky a zminite cokoli z Red Dwarf. Skill naskoci automaticky. Priklady:
+Prostě pište v Claude Code česky a zmíňte cokoli z Red Dwarf. Skill naskočí automaticky. Příklady:
 
 ```
-> Dej hlasku od Rimmera
-> Napis scenku kde Lister a Kocour...
-> Kdo to rekl? "Toastuju, tedy jsem."
-> Vymysli novou nadavku ve stylu Krytona
-> Jak funguje holomura?
-> Odpovez jako Rimmer na otazku proc je nejlepsi kapitan
+> Dej hlášku od Rimmera
+> Napiš scénku kde Lister a Kocour...
+> Kdo to řekl? "Toastuju, tedy jsem."
+> Vymysli novou nadávku ve stylu Krytona
+> Jak funguje holomůra?
+> Odpověz jako Rimmer na otázku proč je nejlepší kapitán
 ```
 
-Neni zadny specialni prikaz ani syntax — proste se ptate a Claude odpovida se znalosti 52 epizod, 350+ hlasek, vsech postav a vibu ceskeho fan klubu.
+Není žádný speciální příkaz ani syntax — prostě se ptáte a Claude odpovídá se znalostí 52 epizod, 350+ hlášek, všech postav a vibu českého fan klubu.
 
-## Pouziti s jinymi AI modely
+## Použití s jinými AI modely
 
-Skill je optimalizovany pro Claude Code, ale reference soubory jsou **obycejne markdown soubory** — muzete je pouzit s cimkoli:
+Skill je optimalizovaný pro Claude Code, ale referenční soubory jsou **obyčejné markdown soubory** — můžete je použít s čímkoli:
 
-**ChatGPT / GPT-4:** Nahrajte `SKILL.md` + relevantni soubory z `references/` jako Custom Instructions nebo do konverzace. Nejdulezitejsi: `characters.md`, `hlasky-databaze.md`, `humor-patterns.md`.
+**ChatGPT / GPT-4:** Nahrajte `SKILL.md` + relevantní soubory z `references/` jako Custom Instructions nebo do konverzace. Nejdůležitější: `characters.md`, `hlasky-databaze.md`, `humor-patterns.md`.
 
-**Gemini / Google AI Studio:** System Instructions — vlozte `SKILL.md` a pripojte reference jako kontext.
+**Gemini / Google AI Studio:** System Instructions — vložte `SKILL.md` a připojte reference jako kontext.
 
-**Cursor / Copilot / jiné IDE:** Zkopirujte `SKILL.md` do `.cursorrules` nebo ekvivalentu. Reference soubory dejte do projektu aby je AI videlo.
+**Cursor / Copilot / jiné IDE:** Zkopírujte `SKILL.md` do `.cursorrules` nebo ekvivalentu. Referenční soubory dejte do projektu aby je AI vidělo.
 
-**Libovolny model s dlouhym kontextem:** Proste poslete `SKILL.md` + reference jako system prompt. Cim vic referencnich souboru pridate, tim lepsi vysledky.
+**Libovolný model s dlouhým kontextem:** Prostě pošlete `SKILL.md` + reference jako system prompt. Čím víc referenčních souborů přidáte, tím lepší výsledky.
 
-**Tip:** Pokud model nema dost velky kontext pro vsechny reference, pouzijte alespon:
+**Tip:** Pokud model nemá dost velký kontext pro všechny reference, použijte alespoň:
 1. `SKILL.md` (7 KB) — instrukce a pravidla
 2. `characters.md` (27 KB) — postavy a hlasy
-3. `hlasky-databaze.md` (25 KB) — 350+ citatu
-4. `czech-voice.md` (13 KB) — cesky jazykovy feeling
+3. `hlasky-databaze.md` (25 KB) — 350+ citátů
+4. `czech-voice.md` (13 KB) — český jazykový feeling
 
-To je ~72 KB textu, coz zvladne i model se 128K kontextem.
+To je ~72 KB textu, což zvládne i model se 128K kontextem.
 
-## Co to umi
+## Co to umí
 
-Skill ma dva zakladni rezimy — **vyhledavani** (stare veci ze serialu) a **tvorba** (nove veci ve stylu serialu). Plus znalostni rezim pro otazky o lore.
+Skill má dva základní režimy — **vyhledávání** (staré věci ze seriálu) a **tvorba** (nové věci ve stylu seriálu). Plus znalostní režim pro otázky o lore.
 
 ---
 
-### 1. Stare hlasky — vyhledavani v databazi
+### 1. Staré hlášky — vyhledávání v databázi
 
-Databaze 350+ presnych citatu ze vsech 52 epizod. Kazda hlaska ma postavu,
-presny text, cislo epizody a kontext (kdo rika komu, v jake situaci).
-Nic se nevymysli — vsechno je z originalnich ceskych scenaru.
+Databáze 350+ přesných citátů ze všech 52 epizod. Každá hláška má postavu,
+přesný text, číslo epizody a kontext (kdo říká komu, v jaké situaci).
+Nic se nevymýšlí — všechno je z originálních českých scénářů.
 
-| Prikaz | Co udela |
+| Příkaz | Co udělá |
 |--------|---------|
-| *"Dej hlasku"* | Nahodna hlaska — prekvapi te |
-| *"Hlaska od Rimmera"* | Nejlepsi citaty dane postavy |
-| *"Neco ze serie III"* | Hlasky z konkretni serie |
-| *"Hlaska o lasce"* | Hledani podle tematu (laska, smrt, jidlo, zkousky...) |
-| *"Neco sarkastickyho"* | Podle nalady (sarkasmus, wholesome, existencialni...) |
-| *"Nejlepsi nadavka od Krytona"* | Nejkreativnejsi urazky |
-| *"Hlaska Lister vs Rimmer"* | Vtipna vymena mezi postavami |
-| *"Hlaska dne"* | Jedna vyjimecna — na hlavni stranku webu |
-| *"Kdo to rekl?"* | Kviz — hadas postavu podle citatu |
+| *"Dej hlášku"* | Náhodná hláška — překvapí tě |
+| *"Hláška od Rimmera"* | Nejlepší citáty dané postavy |
+| *"Něco ze série III"* | Hlášky z konkrétní série |
+| *"Hláška o lásce"* | Hledání podle tématu (láska, smrt, jídlo, zkoušky...) |
+| *"Něco sarkastickýho"* | Podle nálady (sarkasmus, wholesome, existenciální...) |
+| *"Nejlepší nadávka od Krytona"* | Nejkreativnější urážky |
+| *"Hláška Lister vs Rimmer"* | Vtipná výměna mezi postavami |
+| *"Hláška dne"* | Jedna výjimečná — na hlavní stránku webu |
+| *"Kdo to řekl?"* | Kvíz — hádáš postavu podle citátu |
 
 ---
 
-### 2. Nove hlasky — tvorba ve stylu postav
+### 2. Nové hlášky — tvorba ve stylu postav
 
-AI vytvori NOVOU hlasku, ktera v serialu neexistuje, ale zni jako by tam patrit mohla.
-Pouziva databazi 350+ originalnich citatu jako vzor pro styl, humor a hlas kazde postavy.
-Muzete kombinovat postavu + tema + naladu.
+AI vytvoří NOVOU hlášku, která v seriálu neexistuje, ale zní jako by tam patřit mohla.
+Používá databázi 350+ originálních citátů jako vzor pro styl, humor a hlas každé postavy.
+Můžete kombinovat postavu + téma + náladu.
 
-| Prikaz | Co udela |
+| Příkaz | Co udělá |
 |--------|---------|
-| *"Vymysli novou hlasku pro Kocoura"* | Nova hlaska ve stylu postavy |
-| *"Nova hlaska od Rimmera o lasce"* | Postava + tema |
-| *"Co by rekl Holly o umele inteligenci?"* | Postava + moderni tema |
-| *"Kryton nadava Rimmerovi — ale zdvorile"* | Postava + styl |
-| *"5 novych hlasek o jidle"* | Vic hlasek najednou na tema |
-| *"Nova nadavka od Listera pro Rimmera"* | Nova nadavka ve stylu postavy |
-| *"Rimmer pise motivacni citaty"* | Postava v neobvyklem kontextu |
-| *"Co by rekl Kocour na socialnich sitich?"* | Postava vs. moderni svet |
+| *"Vymysli novou hlášku pro Kocoura"* | Nová hláška ve stylu postavy |
+| *"Nová hláška od Rimmera o lásce"* | Postava + téma |
+| *"Co by řekl Holly o umělé inteligenci?"* | Postava + moderní téma |
+| *"Kryton nadává Rimmerovi — ale zdvořile"* | Postava + styl |
+| *"5 nových hlášek o jídle"* | Víc hlášek najednou na téma |
+| *"Nová nadávka od Listera pro Rimmera"* | Nová nadávka ve stylu postavy |
+| *"Rimmer píše motivační citáty"* | Postava v neobvyklém kontextu |
+| *"Co by řekl Kocour na sociálních sítích?"* | Postava vs. moderní svět |
 
-**Rozdil oproti starym hlaskam:** Stare hlasky jsou PRESNE citaty ze scenaru serialu.
-Nove hlasky jsou AI-generovane ve stylu postav — nikdy nebyly v serialu, ale
-zni autenticky, protoze AI zna hlas, humor a slovnik kazde postavy z 52 epizod.
+**Rozdíl oproti starým hláškám:** Staré hlášky jsou PŘESNÉ citáty ze scénářů seriálu.
+Nové hlášky jsou AI-generované ve stylu postav — nikdy nebyly v seriálu, ale
+zní autenticky, protože AI zná hlas, humor a slovník každé postavy z 52 epizod.
 
 ---
 
-### 3. Tvorba (delsi obsah)
+### 3. Tvorba (delší obsah)
 
-| Mod | Popis | Prikaz |
+| Mód | Popis | Příkaz |
 |-----|-------|--------|
-| Nova epizoda | Kompletni scenar (cold open + 3 akty) | *"Napis novou epizodu kde..."* |
-| Scenka | Kratka scena, 1-5 stran | *"Napis scenku kde Lister a Rimmer..."* |
-| In-character | Odpovidani jako postava | *"Odpovez jako Rimmer na..."* |
-| Fan fiction | Pribeh v proze | *"Napis povidku o..."* |
+| Nová epizoda | Kompletní scénář (cold open + 3 akty) | *"Napiš novou epizodu kde..."* |
+| Scénka | Krátká scéna, 1-5 stran | *"Napiš scénku kde Lister a Rimmer..."* |
+| In-character | Odpovídání jako postava | *"Odpověz jako Rimmer na..."* |
+| Fan fiction | Příběh v próze | *"Napiš povídku o..."* |
 
-### 4. Webovy obsah (styl cervenytrpaslik.cz)
+### 4. Webový obsah (styl cervenytrpaslik.cz)
 
-| Mod | Prikaz |
+| Mód | Příkaz |
 |-----|--------|
-| Postreh | *"Napis novy postreh o Rimmerovi"* |
-| Hnidopich | *"Najdi chybu v epizode Polymorf"* |
-| NSFAQ | *"Napis novy NSFAQ entry"* |
-| Kucharka | *"Napis recept ve stylu RD"* |
-| Quiz | *"Vymysli kvizovy otazky"* |
+| Postřeh | *"Napiš nový postřeh o Rimmerovi"* |
+| Hnidopich | *"Najdi chybu v epizodě Polymorf"* |
+| NSFAQ | *"Napiš nový NSFAQ entry"* |
+| Kuchařka | *"Napiš recept ve stylu RD"* |
+| Kvíz | *"Vymysli kvízové otázky"* |
 
 ### 5. Znalosti a lore
 
-| Mod | Prikaz |
+| Mód | Příkaz |
 |-----|--------|
-| Rozbor epizody | *"Rozeber epizodu Navrat do reality"* |
-| Lore | *"Jak funguje holomura?"* / *"Co jsou GELFove?"* |
-| Free talk | *"Ktera serie je nejlepsi?"* / *"Proc je RD genialni?"* |
+| Rozbor epizody | *"Rozebeř epizodu Návrat do reality"* |
+| Lore | *"Jak funguje holomůra?"* / *"Co jsou GELFové?"* |
+| Free talk | *"Která série je nejlepší?"* / *"Proč je RD geniální?"* |
 
-Skill se aktivuje automaticky kdyz zminis: Cerveny trpaslik, Red Dwarf, smeghead, Lister, Rimmer, Cat, Kryten, Holly, Starbug, Kosmik...
+Skill se aktivuje automaticky když zmíníte: Červený trpaslík, Red Dwarf, smeghead, Lister, Rimmer, Cat, Kryten, Holly, Starbug, Kosmík...
 
-## Ukazky — co napisu, co dostanu
+## Ukázky — co napíšu, co dostanu
 
-### Stara hlaska (1 tema = vice citatu)
+### Stará hláška (1 téma = víc citátů)
 
 ```
-> Hlaska o lasce
+> Hláška o lásce
 ```
 ```
 RIMMER: "Jiste, ze vim, co je laska. Mechanismus, jenz vynalezli
 bankeri, aby nas donutili precerpat ucet."
-  — ep. 05 Sebevedomi a Mindrak
+  — ep. 05 Sebevědomí a Mindrák
 
 RIMMER: "Vis kolikrat v zivote jsem se ja s nekym miloval?"
 LISTER: "Ne, to nechci vedet."
 RIMMER: "Jednou." LISTER: "Boha jeho!" RIMMER: "Jednou jedinkrat."
-  — ep. 12 Paralelni vesmir (Rimmer opily odhaluje sve tajemstvi)
+  — ep. 12 Paralelní vesmír (Rimmer opilý odhaluje své tajemství)
 
 KOCHANSKA: "Nikdy jsem se na nej nedivala, jako by byl kozi syr
 s kousky ananasu! Mozna jednou, dvakrat jako na kozi syr,
 ale nikdy, *nikdy* s kousky ananasu!"
-  — ep. 39 Uroboros (Kochanska popira sve city k Listerovi)
+  — ep. 39 Uroboros (Kochanská popírá své city k Listerovi)
 
 LISTER: "Ja jsem posledni muz na svete."
 KOCHANSKA: "No, co se da delat?"
   — ep. 43 Epidem
 ```
 
-### Stara hlaska (podle postavy)
+### Stará hláška (podle postavy)
 
 ```
-> Dej hlasku od Holly
+> Dej hlášku od Holly
 ```
 ```
 HOLLY: "Prehnane horlivy, zrejme blazen. Pravdepodobne ma vic zubu
 nez mozkovych bunek. Vyhlidky na povyseni: komicke."
-  — ep. 04 Cekani na Boha (kapitanuv tajny zaznam o Rimmerovi)
+  — ep. 04 Čekání na Boha (kapitánův tajný záznam o Rimmerovi)
 
 HOLLY: "Ja jsem desata generace holografickych pocitacu s umelou
 inteligenci. Ne tvoje mama."
-  — ep. 02 Ozveny budoucnosti (Holly odpovida podrazdeneho Rimmerovi)
+  — ep. 02 Ozvěny budoucnosti (Holly odpovídá podrážděnému Rimmerovi)
 
 HOLLY: "Jean Paul Sartre tvrdil, ze peklo je byt navzdy zamcenej
 v mistnosti s prateli." LISTER: "Holly, vsichni jeho kamaradi
 byly Frantici."
-  — ep. 03 Rovnovaha sil
+  — ep. 03 Rovnováha sil
 ```
 
-### Random hlaska
+### Random hláška
 
 ```
-> Dej hlasku
+> Dej hlášku
 ```
 ```
 RIMMER: "Zhorsil se mi zrak. Tos namaloval ty? To je brak!"
 LISTER: "To je zrcadlo."
-  — ep. 03 Rovnovaha sil
+  — ep. 03 Rovnováha sil
 ```
 
-### Kviz
+### Kvíz
 
 ```
-> Kdo to rekl?
+> Kdo to řekl?
 ```
 ```
 "Toastuju, tedy jsem."
 
-a) Rimmer  b) Holly  c) Toastovac  d) Kryton
+a) Rimmer  b) Holly  c) Toastovač  d) Kryton
 ```
 
-### Nova hlaska od Rimmera o lasce
+### Nová hláška od Rimmera o lásce
 
 ```
-> Nova hlaska od Rimmera o lasce
+> Nová hláška od Rimmera o lásce
 ```
 ```
 RIMMER: "Miloval jsem jednu zenu. Dvanact minut. A to pocitam
@@ -232,10 +232,10 @@ dotknout. Vis co je jeste tragictejsi? Kdyz jsem byl zivy,
 taky se me nikdo nechtel dotknout."
 ```
 
-### Nove hlasky od vsech postav na tema
+### Nové hlášky od všech postav na téma
 
 ```
-> Nove hlasky o jidle
+> Nové hlášky o jídle
 ```
 ```
 LISTER: "Nerikam, ze Rimmerovo vareni je spatny. Rikam, ze naposled,
@@ -252,143 +252,160 @@ HOLLY: "Dneska je na menu kureci vindaloo, hovezi vindaloo a veganska
 varianta — vindaloo bez kurete a hoveziny. Coz je vlastne omacka."
 ```
 
-### Scenka
+### Scénka
 
 ```
-> Napis scenku kde Lister a Rimmer...
+> Napiš scénku kde Lister a Rimmer...
 ```
 ```
-INT. SPACI KAJUTA — DEN
+INT. SPACÍ KAJUTA — DEN
 
-*LISTER lezi na horni palube. RIMMER u stolu studuje.*
+*LISTER leží na horní palubě. RIMMER u stolu studuje.*
 
-RIMMER: Listere, mohl bys prosim prestat s tim jojo?
+RIMMER: Listere, mohl bys prosím přestat s tím jojo?
 
-LISTER: Proc?
+LISTER: Proč?
 
-RIMMER: Protoze ten zvuk mi pripomina kapani mozkomisniho moku z usi
-cloveka, ktery prave absolvoval rozhovor s tebou.
+RIMMER: Protože ten zvuk mi připomíná kapání mozkomíšního moku z uší
+člověka, který právě absolvoval rozhovor s tebou.
 
-LISTER: To je ponizeni. Podam na tebe stiznost.
+LISTER: To je ponížení. Podám na tebe stížnost.
 
-RIMMER: Ty podas stiznost na ME? Ja mam na tebe podano dve ste
-ctyricet sedm stiznosti a ty jsi jeste nezareagoval na jedinou!
+RIMMER: Ty podáš stížnost na MĚ? Já mám na tebe podáno dvě stě
+čtyřicet sedm stížností a ty jsi ještě nezareagoval na jedinou!
 
-LISTER: No bodejt. Nepodepsanej papir hodim do kose, podepsanej
-do zachoda.
+LISTER: No bodejť. Nepodepsanej papír hodím do koše, podepsanej
+do záchoda.
 ```
 
 ### In-character
 
 ```
-> Odpovez jako Rimmer proc bys mel byt kapitan
+> Odpověz jako Rimmer proč bys měl být kapitán
 ```
 ```
-Dobre. Panove. Vazeni pritomni. A Listere.
+Dobře. Pánové. Vážení přítomní. A Listere.
 
-Sesli jsme se zde dnes, abych vam predstavil, proc jsem — a to rikam
-s veskerou skromnosti, ktere jsem schopen, coz je, uprimne receno,
-ZNACNA — jednoznacne nejlepsi kandidat na pozici kapitana.
+Sešli jsme se zde dnes, abych vám představil, proč jsem — a to říkám
+s veškerou skromností, které jsem schopen, což je, upřímně řečeno,
+ZNAČNÁ — jednoznačně nejlepší kandidát na pozici kapitána.
 
-Kdo z vas ma kompletni sadu reviznich planu cele lodi? Nikdo?
-To jsem si myslel. JA je mam. Color-coded. Laminovane.
-Se zaloznimi kopiemi ulozenymi na trech ruznych palubach.
+Kdo z vás má kompletní sadu revizních plánů celé lodi? Nikdo?
+To jsem si myslel. JÁ je mám. Color-coded. Laminované.
+Se záložními kopiemi uloženými na třech různých palubách.
 
-Lister nema ani cistou ponozku, natoz strategicky plan.
+Lister nemá ani čistou ponožku, natož strategický plán.
 ```
 
 ## Struktura projektu
 
 ```
 cerveny-trpaslik-skill/
-|-- SKILL.md                    # Hlavni skill soubor (7 KB)
-|-- install.sh                  # Instalacni skript
-|-- references/                 # Referencni soubory (232 KB)
-|   |-- characters.md           #   Profily postav, catchphrases (27 KB)
-|   |-- humor-patterns.md       #   DNA humoru, typy gagu (15 KB)
-|   |-- story-structure.md      #   Jak se pise epizoda (11 KB)
-|   |-- world-bible.md          #   Vesmir, lode, tech, rasy (15 KB)
-|   |-- czech-voice.md          #   Cesky dabing, CZ vs EN (13 KB)
-|   |-- episode-guide.md        #   Pruvodce 52 epizodami (40 KB)
-|   |-- fanclub-voice.md        #   Hlas webu cervenytrpaslik.cz (9 KB)
-|   |-- community-content.md    #   DNA komunitnich formatu (10 KB)
-|   |-- content-formats.md      #   Sablony pro novy obsah (7 KB)
-|   |-- site-dna.md             #   Meta-analyza webu (7 KB)
-|   |-- nsfaq-best-of.md        #   Top 90 NSFAQ entries (35 KB)
-|   |-- nadavky-katalog.md      #   Kompletni katalog nadavek (17 KB)
-|   |-- trivia-vite-ze.md       #   "Vite, ze...?" trivia (5 KB)
-|   |-- hlasky-databaze.md      #   350+ hlasek ze vsech 52 epizod
-|-- raw/                        # Surova data z cervenytrpaslik.cz
-|   |-- scenare_cz/             #   52 ceskych scenaru
-|   |-- scenare_en/             #   51 anglickych scenaru
-|   |-- sections/               #   32 sekci webu
-|   |-- epizody/                #   155 detailu epizod
-|   |-- posadka/                #   39 profilu postav
-|   |-- nsfaq/                  #   1354 NSFAQ entries (56 KB)
-|   |-- vzkazy/                 #   14 864 vzkazu (744 stranek)
-|   |-- hnidopich/              #   9 hnidopich stranek
-|   |-- herci/                  #   14 profilu hercu
-|   |-- fantazie/               #   4 fan fiction
-|   |-- kucharka/               #   14 receptu
-|-- tests/                      #   Ukazkove vystupy
-|-- scraper.py                  # Scraper hlavnich sekci
-|-- scrape_vzkazy.py            # Scraper vzkazu (744 stranek)
+├── SKILL.md                    # Hlavní skill soubor (7 KB)
+├── install.sh                  # Instalační skript
+├── references/                 # Referenční soubory (232 KB)
+│   ├── characters.md           #   Profily postav, catchphrases (27 KB)
+│   ├── humor-patterns.md       #   DNA humoru, typy gagů (15 KB)
+│   ├── story-structure.md      #   Jak se píše epizoda (11 KB)
+│   ├── world-bible.md          #   Vesmír, lodě, tech, rasy (15 KB)
+│   ├── czech-voice.md          #   Český dabing, CZ vs EN (13 KB)
+│   ├── episode-guide.md        #   Průvodce 52 epizodami (40 KB)
+│   ├── fanclub-voice.md        #   Hlas webu cervenytrpaslik.cz (9 KB)
+│   ├── community-content.md    #   DNA komunitních formátů (10 KB)
+│   ├── content-formats.md      #   Šablony pro nový obsah (7 KB)
+│   ├── site-dna.md             #   Meta-analýza webu (7 KB)
+│   ├── nsfaq-best-of.md        #   Top 90 NSFAQ entries (35 KB)
+│   ├── nadavky-katalog.md      #   Kompletní katalog nadávek (17 KB)
+│   ├── trivia-vite-ze.md       #   "Víte, že...?" trivia (5 KB)
+│   └── hlasky-databaze.md      #   350+ hlášek ze všech 52 epizod
+├── raw/                        # Surová data z cervenytrpaslik.cz
+│   ├── scenare_cz/             #   52 českých scénářů
+│   ├── scenare_en/             #   51 anglických scénářů
+│   ├── sections/               #   32 sekcí webu
+│   ├── epizody/                #   155 detailů epizod
+│   ├── posadka/                #   39 profilů postav
+│   ├── nsfaq/                  #   1354 NSFAQ entries (56 KB)
+│   ├── vzkazy/                 #   14 864 vzkazů (744 stránek)
+│   ├── hnidopich/              #   9 hnidopich stránek
+│   ├── herci/                  #   14 profilů herců
+│   ├── fantazie/               #   4 fan fiction
+│   └── kucharka/               #   14 receptů
+├── tests/                      # Ukázkové výstupy
+├── scraper.py                  # Scraper hlavních sekcí
+└── scrape_vzkazy.py            # Scraper vzkazů (744 stránek)
 ```
 
 ## Jak to funguje
 
-Skill pouziva 13 referencnich souboru organizovanych do mapy — podle toho co chces delat, cte relevantni reference:
+Skill používá 14 referenčních souborů organizovaných do mapy — podle toho co chcete dělat, čte relevantní reference:
 
-| Ukol | Reference |
+| Úkol | Reference |
 |------|-----------|
-| Nova epizoda | story-structure → characters → humor-patterns → czech-voice → world-bible |
+| Nová epizoda | story-structure → characters → humor-patterns → czech-voice → world-bible |
 | Dialog | characters → humor-patterns → czech-voice |
 | In-character | characters → czech-voice |
-| Web obsah | fanclub-voice → content-formats → community-content |
-| Lore otazka | world-bible → episode-guide |
-| Stara hlaska | hlasky-databaze → characters |
-| Nova hlaska | hlasky-databaze → humor-patterns → characters |
+| Webový obsah | fanclub-voice → content-formats → community-content |
+| Lore otázka | world-bible → episode-guide |
+| Stará hláška | hlasky-databaze → characters |
+| Nová hláška | hlasky-databaze → humor-patterns → characters |
 
-Kazdy vystup prochazi kvalitativnim testem:
-- Poznal by fanousek ze to napsal nekdo kdo serial FAKT zna?
-- Jsou dialogy rozlisitelne — poznas kdo mluvi i bez jmenovky?
+Každý výstup prochází kvalitativním testem:
+- Poznal by fanoušek že to napsal někdo kdo seriál FAKT zná?
+- Jsou dialogy rozlišitelné — poznáš kdo mluví i bez jmenovky?
 - Je tam humor?
-- Sedi to do lore?
-- Zni to cesky prirozene?
+- Sedí to do lore?
+- Zní to česky přirozeně?
 
 ## Scraper
 
-Scrapers pro stazeni dat z cervenytrpaslik.cz. Pouzivaji 2s delay mezi requesty.
+Scrapers pro stažení dat z cervenytrpaslik.cz. Používají 2s delay mezi requesty.
 
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
 pip install requests beautifulsoup4
 
-# Hlavni scraper — sekce, scenare, epizody, NSFAQ, postavy
+# Hlavní scraper — sekce, scénáře, epizody, NSFAQ, postavy
 python3 scraper.py
 
-# Vzkazy — 744 stranek, trva ~25 minut
+# Vzkazy — 744 stránek, trvá ~25 minut
 python3 scrape_vzkazy.py
 ```
 
 ## Zdroje
 
-Skill je postaven na obsahu webu [cervenytrpaslik.cz](http://www.cervenytrpaslik.cz/) — legendarniho ceskeho Red Dwarf fan klubu, ktery bezi od zacatku 2000s. Diky autorum za roky prace na budovani ceske Red Dwarf komunity.
+Skill je postaven na obsahu webu [cervenytrpaslik.cz](http://www.cervenytrpaslik.cz/) — legendárního českého Red Dwarf fan klubu, který běží od začátku 2000s. Díky autorům za roky práce na budování české Red Dwarf komunity.
 
-Cerveny trpaslik (Red Dwarf) je serial BBC vytvoreny Robem Grantem a Dougem Naylorem. Vsechna prava k serialu nalezi jejich drzitelum.
+Červený trpaslík (Red Dwarf) je seriál BBC vytvořený Robem Grantem a Dougem Naylorem. Všechna práva k seriálu náleží jejich držitelům.
 
-## Roadmap
+## Roadmap — kam to posunout dál
 
-Otevřené nápady pro budoucí vylepšení:
+Projekt je kompletní jako Claude Code skill, ale má potenciál vyrůst v celý ekosystém pro český Red Dwarf fandom. Nápady:
 
-- **Série IX-XIII (2012-2020)** — seriál pokračoval, ale cervenytrpaslik.cz je nemá. Doplnit scénáře a hlášky z novějších řad.
+### Sociální sítě
+- **Twitter/X bot @TrpaslikHlasky** — random hláška ze seriálu každý den, nová AI hláška ve stylu postav jednou týdně. Automatické postování z databáze 350+ citátů.
+- **Instagram/Threads** — hlášky jako grafické karty s portréty postav
+
+### Web
+- **Hláška dne** — jednoduchá statická stránka (HTML/CSS/JS), random hláška z databáze, tlačítko "další", sdílení na sociální sítě. Hostovat na GitHub Pages zdarma.
+- **Interaktivní kvíz** — "Která postava jsi?", "Poznáš epizodu podle hlášky?", "Kdo to řekl?" — webová verze kvízu z databáze
+
+### Komunita
+- **Discord bot** — `/hlaska`, `/nadavka`, `/kviz` přímo v chatu. Komunita fanoušků s kanály pro jednotlivé série.
+- **Trpaslík Revival** — podcast/stream formát: rozbory epizod, nové AI scénky, kvízy s diváky. Host = AI Rimmer odpovídá na otázky in-character.
+
+### Obsah
+- **Série IX-XIII (2012-2020)** — seriál pokračoval, ale cervenytrpaslik.cz je nemá. Doplnit scénáře, hlášky a epizodní průvodce z novějších řad.
 - **Víc hlášek** — aktuálně 350+, dalo by se vytáhnout 500+ hlubším průchodem scénářů
-- **Interaktivní web** — jednoduchá HTML stránka s tlačítkem "random hláška" (bez AI, jen z databáze)
-- **Obrázky** — web má fotky a screenshoty, ty jsme nestahovali
+- **Obrázky a screenshoty** — doplnit vizuální obsah k hláškovému kontextu
 
-Pull requesty vítány!
+### Produkty
+- **Mobilní app** — hláška dne jako widget/notifikace, offline databáze citátů
+- **Merch generátor** — AI generuje nápisy na trička ve stylu Red Dwarf nadávek (*"intergalaktický hnisavý vřed"*, *"těhotný smradlavý lenochod"*)
+- **Tapety/wallpapers** — hlášky jako grafické tapety na telefon/desktop
 
-## License
+Pull requesty vítány! Pokud chcete pomoct s čímkoli z roadmapy, otevřete issue.
+
+## Licence
 
 MIT — viz [LICENSE](LICENSE).
 
