@@ -1,8 +1,8 @@
-# Červený Trpaslík — Claude Code Skill
+# Červený Trpaslík — AI Knowledge Base & Skill
 
 > *"Všichni jsou mrtví, Dave."*
 
-Kompletní AI skill pro [Claude Code](https://claude.ai/claude-code) — 52 epizod, 350+ hlášek, všechny postavy. Umí vyhledat staré hlášky, vymyslet nové ve stylu postav, psát scénáře, scénky a obsah v duchu českého dabingu.
+Kompletní AI znalostní báze Červeného trpaslíka — 52 epizod, 350+ hlášek, všechny postavy. Umí vyhledat staré hlášky, vymyslet nové ve stylu postav, psát scénáře, scénky a obsah v duchu českého dabingu. Funguje jako Claude Code skill, system prompt pro jakýkoli LLM, nebo jako základ pro MCP server / chatbot / Twitter bot.
 
 ## Co je Claude Code skill?
 
@@ -379,7 +379,10 @@ Skill je postaven na obsahu webu [cervenytrpaslik.cz](http://www.cervenytrpaslik
 
 ## Roadmap — kam to posunout dál
 
-Projekt je kompletní jako Claude Code skill, ale má potenciál vyrůst v celý ekosystém pro český Red Dwarf fandom. Nápady:
+Projekt je kompletní jako knowledge base, ale má potenciál vyrůst v celý ekosystém. Nápady:
+
+### MCP Server
+- **Červený Trpaslík MCP** — zpřístupnit databázi jako [MCP server](https://modelcontextprotocol.io/) s tools: `hlaska(tema, postava)`, `nadavka(postava)`, `kviz()`, `lore(tema)`, `nova_hlaska(postava, tema)`. Pak funguje v jakémkoli MCP klientovi — Claude Code, Claude Desktop, Cursor, Copilot, cokoli.
 
 ### Sociální sítě
 - **Twitter/X bot @TrpaslikHlasky** — random hláška ze seriálu každý den, nová AI hláška ve stylu postav jednou týdně. Automatické postování z databáze 350+ citátů.
