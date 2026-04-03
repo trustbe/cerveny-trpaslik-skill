@@ -6,19 +6,20 @@
 <title>Švitorka AI — Chrlím hlášky, tedy jsem.</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Michroma&family=VT323&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
 <style>
   *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
 
   :root {
     --red: #c4342d;
-    --red-hover: #e04038;
-    --bg: #1a1a1e;
-    --surface: #222226;
+    --red-glow: #e8453e;
+    --bg: #0c0c0f;
+    --surface: #161619;
     --text: #e8e4df;
-    --text-mid: #9a9590;
-    --text-dim: #5a5652;
+    --text-mid: #8a8580;
+    --text-dim: #4a4642;
     --amber: #d4a04a;
+    --green: #4a9a6a;
   }
 
   html { height: 100%; }
@@ -27,40 +28,53 @@
     min-height: 100vh;
     background: var(--bg);
     color: var(--text);
-    font-family: 'Space Grotesk', system-ui, sans-serif;
+    font-family: 'Michroma', sans-serif;
     display: flex;
     flex-direction: column;
   }
 
-  /* Top bar */
+  /* === TOP BAR — ship computer style === */
   .top-bar {
     padding: 14px 32px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 0.18em;
+    font-family: 'VT323', monospace;
+    font-size: 16px;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--text-dim);
-    border-bottom: 1px solid #2a2a2e;
+    border-bottom: 1px solid #1e1e22;
+    background: var(--surface);
   }
 
   .top-bar .brand {
     color: var(--red);
+    font-family: 'Michroma', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.25em;
+  }
+
+  .top-bar .k177 {
+    color: var(--text-mid);
+    font-family: 'VT323', monospace;
+    font-size: 16px;
   }
 
   .top-bar .status {
     display: flex;
     align-items: center;
     gap: 8px;
+    font-family: 'VT323', monospace;
+    color: var(--green);
   }
 
   .dot {
-    width: 6px;
-    height: 6px;
+    width: 7px;
+    height: 7px;
     border-radius: 50%;
-    background: #4a9;
+    background: var(--green);
+    box-shadow: 0 0 6px var(--green);
     animation: blink 2.5s ease-in-out infinite;
   }
 
@@ -69,7 +83,7 @@
     50% { opacity: 0.2; }
   }
 
-  /* Main */
+  /* === MAIN === */
   .main {
     flex: 1;
     display: flex;
@@ -81,22 +95,22 @@
     overflow: hidden;
   }
 
-  /* K177 background watermark */
+  /* K177 watermark */
   .watermark {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: clamp(140px, 28vw, 360px);
-    font-weight: 700;
-    color: #222226;
-    letter-spacing: -0.03em;
+    font-family: 'Michroma', sans-serif;
+    font-size: clamp(140px, 28vw, 380px);
+    font-weight: 400;
+    color: #131316;
+    letter-spacing: 0.05em;
     pointer-events: none;
     user-select: none;
     line-height: 1;
   }
 
-  /* Content sits above watermark */
   .content {
     position: relative;
     z-index: 1;
@@ -106,99 +120,126 @@
     max-width: 860px;
   }
 
-  /* Character name */
+  /* === CHARACTER NAME — Microgramma style === */
   .who {
-    font-size: 13px;
-    font-weight: 700;
-    letter-spacing: 0.35em;
+    font-family: 'Michroma', sans-serif;
+    font-size: clamp(11px, 1.3vw, 14px);
+    letter-spacing: 0.4em;
     text-transform: uppercase;
     color: var(--red);
-    margin-bottom: 28px;
+    margin-bottom: 32px;
+    position: relative;
   }
 
-  /* The quote itself */
+  /* Red line accents around character name */
+  .who::before,
+  .who::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 40px;
+    height: 1px;
+    background: var(--red);
+    opacity: 0.4;
+  }
+
+  .who::before { right: calc(100% + 16px); }
+  .who::after { left: calc(100% + 16px); }
+
+  /* === THE QUOTE === */
   .hlaska {
     font-family: 'Playfair Display', Georgia, serif;
     font-weight: 700;
-    font-size: clamp(26px, 4.5vw, 56px);
-    line-height: 1.3;
+    font-size: clamp(24px, 4.2vw, 52px);
+    line-height: 1.35;
     text-align: center;
     color: var(--text);
   }
 
-  /* Czech-style quotes „ " */
   .hlaska::before {
     content: '\201E';
     color: var(--red);
-    margin-right: 2px;
+    opacity: 0.7;
   }
 
   .hlaska::after {
     content: '\201C';
     color: var(--red);
-    margin-left: 2px;
+    opacity: 0.7;
   }
 
-  /* Episode info */
+  /* === EPISODE — terminal font === */
   .odkud {
     margin-top: 28px;
-    font-size: 13px;
+    font-family: 'VT323', monospace;
+    font-size: 20px;
     color: var(--text-mid);
     letter-spacing: 0.05em;
   }
 
   .odkud .epizoda {
     color: var(--amber);
-    font-weight: 600;
   }
 
-  /* Button */
+  /* === BUTTON — ship control style === */
   .btn {
     margin-top: 52px;
     background: transparent;
-    border: 2px solid var(--red);
+    border: 1px solid var(--red);
     color: var(--red);
-    font-family: 'Space Grotesk', system-ui, sans-serif;
-    font-size: 13px;
-    font-weight: 700;
-    letter-spacing: 0.2em;
+    font-family: 'Michroma', sans-serif;
+    font-size: 10px;
+    letter-spacing: 0.25em;
     text-transform: uppercase;
-    padding: 14px 40px;
+    padding: 16px 44px;
     cursor: pointer;
-    transition: background 0.2s, color 0.2s;
+    transition: all 0.25s ease;
+    position: relative;
+  }
+
+  .btn::before {
+    content: '';
+    position: absolute;
+    inset: -1px;
+    border: 1px solid var(--red);
+    opacity: 0;
+    transform: scale(1.05);
+    transition: all 0.25s ease;
   }
 
   .btn:hover {
     background: var(--red);
     color: #fff;
+    box-shadow: 0 0 20px oklch(0.5 0.2 25 / 0.3);
+  }
+
+  .btn:hover::before {
+    opacity: 0.3;
+    transform: scale(1.08);
   }
 
   .btn:active {
-    background: var(--red-hover);
-    border-color: var(--red-hover);
+    transform: scale(0.97);
   }
 
-  /* Bottom bar */
+  /* === BOTTOM BAR === */
   .bottom {
     padding: 14px 32px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 10px;
-    font-weight: 600;
-    letter-spacing: 0.12em;
+    font-family: 'VT323', monospace;
+    font-size: 15px;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
     color: var(--text-dim);
-    border-top: 1px solid #2a2a2e;
+    border-top: 1px solid #1e1e22;
+    background: var(--surface);
   }
 
   .bottom .specs {
     display: flex;
-    gap: 20px;
-  }
-
-  .bottom .specs span {
-    color: var(--text-mid);
+    gap: 24px;
   }
 
   .bottom a {
@@ -211,9 +252,14 @@
     color: var(--red);
   }
 
-  /* Fade in */
+  .bottom .tagline {
+    color: var(--text-mid);
+    font-style: italic;
+  }
+
+  /* === ANIMATIONS === */
   @keyframes rise {
-    from { opacity: 0; transform: translateY(16px); }
+    from { opacity: 0; transform: translateY(14px); }
     to { opacity: 1; transform: translateY(0); }
   }
 
@@ -222,16 +268,22 @@
   .odkud   { animation: rise 0.5s ease-out 0.2s both; }
   .btn     { animation: rise 0.5s ease-out 0.3s both; }
 
-  /* Mobile */
+  /* === MOBILE === */
   @media (max-width: 640px) {
-    .top-bar { padding: 12px 20px; font-size: 9px; }
-    .main { padding: 40px 24px; }
-    .watermark { font-size: 120px; }
+    .top-bar {
+      padding: 10px 16px;
+      flex-direction: column;
+      gap: 4px;
+      text-align: center;
+    }
+    .main { padding: 40px 20px; }
+    .watermark { font-size: 100px; }
+    .who::before, .who::after { display: none; }
     .bottom {
       flex-direction: column;
       gap: 6px;
       text-align: center;
-      padding: 12px 20px;
+      padding: 12px 16px;
     }
     .bottom .specs { flex-direction: column; gap: 2px; }
   }
@@ -240,8 +292,12 @@
 <body>
 
 <div class="top-bar">
-  <div><span class="brand">Švitorka AI</span> &mdash; Systém umělé inteligence K177</div>
-  <div class="status"><span class="dot"></span> Online</div>
+  <div>
+    <span class="brand">Švitorka AI</span>
+    &nbsp;&mdash;&nbsp;
+    <span class="k177">Systém umělé inteligence K177</span>
+  </div>
+  <div class="status"><span class="dot"></span> ONLINE</div>
 </div>
 
 <div class="main">
@@ -257,12 +313,12 @@
 <div class="bottom">
   <div class="specs">
     <span>Výrobce: Křápol a.s. &mdash; Taiwan</span>
-    <span>Typ přístroje: Mluvící toastovač</span>
+    <span>Typ: Mluvící toastovač</span>
   </div>
   <div>
     <a href="https://github.com/trustbe/cerveny-trpaslik-skill">GitHub</a>
     &nbsp;&mdash;&nbsp;
-    Chrlím hlášky, tedy jsem.
+    <span class="tagline">Chrlím hlášky, tedy jsem.</span>
   </div>
 </div>
 
