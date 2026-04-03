@@ -1,617 +1,587 @@
-# Databaze hlasek z Cerveneho trpaslika
+# Databáze hlášek z Červeného trpaslíka
 
-Nejlepsi hlasky, nadavky a vtipne vymeny ze vsech 52 epizod (serie I-VIII).
-Citaty extrahovane z ceskych scenaru. Kazda hlaska ma uvedenou postavu a kontext.
-
----
-
-## Serie I-III (ep. 1-18)
+Nejlepší hlášky, nadávky a vtipné výměny ze všech 52 epizod (série I-VIII).
+Citáty extrahované z českých scénářů s plnou diakritikou. Každá hláška má uvedenou postavu a kontext.
 
 ---
 
-### Ep. 01 -- Konec
-
-- **RIMMER:** "Listere, uz jsi nekdy dostal po te sve kebuli svareckou?" *(oteviraci scena, Rimmer chce Listera umlcet)*
-- **LISTER:** "Prisel jsi tam a napsals 'ja jsem ryba' -- ctyristakrat, trochu sis zakrepci a slozils ses." *(pripomina Rimmerovi jeho dustojnickou zkousku)*
-- **RIMMER:** "Listere, abys vedel, napsal jsem pojednani o propustnych obvodech, ktere bylo prilis odvazne, nepredstavitelne a rafinovane, aby ho zkousejici pochopili." **LISTER:** "Jo, napsals, ze ses ryba." *(Rimmer se snazi obhajit svuj pruser u zkousky)*
-- **TODHUNTER:** "Posadku tvori 169 lidi. Ty, Rimmere, velis jedinemu cloveku. Proc se nemuzete dohodnout?" *(Todhunter nechape Rimmerovy stiznosti na Listera)*
-- **LISTER:** "Rad bych s nim vychazel, jenze to neni snadny, protoze on je takovej magor!" **TODHUNTER:** "Ale Rimmere. Ty jsi fakt magor!" *(Todhunter dava Listerovi za pravdu)*
-- **RIMMER:** "Smrt? Je to jako byt na dovolene s partou Nemcu." *(Rimmer popisuje Listerovi, jaky je byt mrtvy)*
-- **LISTER:** "Rimmere, ja vim, ze o mrtvejch jenom dobre, ale bohuzel, ty ses furt stejnej magor!" **RIMMER:** "Listere, mas vubec predstavu, jakej je trest za nazvani zesnuleho nadrizeneho magorem!?!?" *(Lister a Rimmer po oziveni hologramu)*
-- **RIMMER:** "Jsem mrtvy, celeho me tvori jen svetlo a jsem sam ve vesmiru s chlapem, ktery ma mozek jako vycpany leguan. Co je na tom tak krasneho?" *(Rimmer bilancuje svou situaci)*
-- **HOLLY:** "Uvitaci recepce pro George MacIntyrea prave zacina v jidelne. Ted, kdyz je mrtvy, doufa, ze se vsichni zucastni. Proc mam tohle hlasit, kdyz mam IQ 6000, to nevim." *(Holly si stezuje na ponizujici praci)*
+## Série I-III (ep. 1-18)
+Extrahováno přímo ze scénářů s plnou českou diakritikou.
 
 ---
 
-### Ep. 02 -- Ozveny budoucnosti
+### Ep. 01 — Konec
 
-- **RIMMER:** "Brytro, Listere. Jak se zije v hippiovskem nebi, ty tehotny lenochode smradlavy? Jakypak je na dnesek plan? Flakani po ranu, potom leharko odpoledne a pak si dachnout pred hlavni vecerni zevlovackou?" *(Rimmer po rannim behu)*
-- **HOLLY:** "Do 24 hodin dosahneme rychlosti svetla. A ja musim ridit lod velkou jako mesto rychlosti, s niz se lidstvo jeste nikdy predtim nesetkalo. Nejsem kombinace mluvicich hodin a Versaceho modnich poskoku." *(Holly odmitnout Rimmerovi upravit uces)*
-- **RIMMER:** "Jak muj otec rikavaj: 'Cerstvej kratkej sestrich a nablyskane holinky a zvladnes vsechno na svete.' Coz prohlasil par minut pred tou nestastnou sebevrazdou." *(Rimmer o otcove zivotni moudrosti)*
-- **RIMMER:** "To oni tvrdi, ale kdyz se prijdou o praci uchazet dva lide a jeden bude mrtvy, ktereho si vyberes?" **LISTER:** "Toho, kdo ma lepsi kvalifikaci." **RIMMER:** "Pitomost! Kdys naposled videl mrtveho hlasatele?" *(Rimmer o diskriminaci mrtvych)*
-- **HOLLY:** "Ja jsem desata generace holografickych pocitacu s umelou inteligenci. Ne tvoje mama." *(Holly odpovida podradeznemu Rimmerovi)*
-- **RIMMER:** "Obrn se a priprav na nejhorsi, ted jsem te videl umrit." **LISTER:** "Cozee?!" **RIMMER:** "Varoval jsem te, abys se obrnil." **LISTER:** "Nedals mi moc casu." **RIMMER:** "Mels dost obrnovaciho casu!" *(Rimmer oznamuje Listerovi jeho smrt v ozvene budoucnosti)*
-
----
-
-### Ep. 03 -- Rovnovaha sil
-
-- **RIMMER:** "Tohle je zabava! Copak ses na hlavu?" **LISTER:** "Ty neco prectes, ja reknu souhlasi. To ma bejt zabava?" *(inventura zasob)*
-- **RIMMER:** "Dluzim ti jen ctyri a tri ctvrtiny." **LISTER:** "Dluzis mi pet!" **RIMMER:** "Jenze ti davami pokutu ctvrt cigarety za znevazujici ton pri slove 'souhlasi' u homogenizovanych pudinku." *(Rimmer vyplaci Listerovi cigaretovy sold)*
-- **LISTER:** "Dyt si musel sam organizovat i svoje vlastni oslavy narozenin." *(Lister o Rimmerove popularite)*
-- **LISTER:** "Kohokoliv! Chena, Petersona... Dokonce i s Goringem by byla vetsi psina nez s Rimmerem. Ja vim, ze to byl silenej transvestita, ale aspon bysme si mohli zatrsat!" *(Lister o tom, koho by radeji videl jako hologram)*
-- **HOLLY:** "Jean Paul Sartre tvrdil, ze peklo je byt navzdy zamcenej v mistnosti s prateli." **LISTER:** "Holly, vsichni jeho kamaradi byly Frantici." *(Holly cituje filozofii, Lister reaguje)*
-- **RIMMER:** "Zhorsil se mi zrak. Tos namaloval ty? To je brak!" **LISTER:** "To je zrcadlo." *(Rimmer si splece zrcadlo s obrazem)*
-- **RIMMER:** "Proc neposlouchas skutecnou klasiku, jako Mozarta, Mendelssohna, nebo Motorhead?" *(Rimmer o hudebnim vkusu)*
-- **RIMMER:** "Diskutujeme o tom, Listere. Co je tohle, kdyz ne diskuze? Dieselova lokomotiva?" *(Rimmer na Listerovu poznamku, ze neni ochoten diskutovat)*
+- **RIMMER:** "Listere, už jsi někdy dostal po té své kebuli svářečkou?" *(hrozí Listerovi, který si zpívá)*
+- **LISTER:** "Přišel jsi tam a napsal jsi „já jsem ryba" - čtyřistakrát, trochu jsi si zakřepčil a složil ses." *(připomíná Rimmerovi jeho důstojnickou zkoušku)*
+- **RIMMER:** "Listere, abys věděl, napsal jsem pojednání o propustných obvodech, které bylo příliš odvážné, nepředstavitelné a rafinované, aby ho zkoušející pochopili." *(obhajuje svůj propadák u zkoušky)*
+- **TODHUNTER:** "Posádku tvoří 169 lidí. Ty, Rimmere, velíš jedinému člověku. Proč se nemůžete dohodnout?" *(napomíná Rimmera za 247 stížností na Listera)*
+- **TODHUNTER:** "Ale Rimmere. Ty jsi fakt magor!" *(poplácá Rimmera po rameni)*
+- **RIMMER:** "Smrt? Je to jako být na dovolené s partou Němců." *(odpovídá na Listerův dotaz, jaké to je být mrtvý)*
+- **RIMMER:** "Jsem mrtvý, celého mě tvoří jen světlo a jsem sám ve vesmíru s chlapem, který má mozek jako vycpaný leguán. Co je na tom tak krásného?" *(lamentuje nad svým hologramovým osudem)*
+- **HOLLY:** "Proč mám tohle hlásit, když mám IQ 6000, to nevím. Je to tak ponižující. Místo toho bych moh` vytvořit novou teorii kvantové mechaniky." *(stěžuje si na podřadné úkoly)*
+- **LISTER:** "Je to jenom metřík, můžem se brodit." *(o tom, že Fidži je metr pod mořem)*
+- **RIMMER:** "Béé, plesk, béé, plesk." *(předvádí, jak by vypadaly ovce zkřížené s delfíny)*
 
 ---
 
-### Ep. 04 -- Cekani na Boha
+### Ep. 02 — Ozvěny budoucnosti
 
-- **RIMMER:** "Dame mu pet vterin, aby vstal z mrtvych, a kdyz to nestihne, budeme predpokladat, ze tu velim ja." *(Rimmer si prisvojuje pravomoci mrtveho kapitana)*
-- **HOLLY:** "Prehnane horlivy, zrejme blazen. Pravdepodobne ma vic zubu nez mozkovych bunek. Vyhlidky na povyseni: komicke." *(Kapitanuv tajny zaznam o Rimmerovi)*
-- **RIMMER:** "Neustale propada u zkousek! Jedenactkrat podle me neni 'neustale'! Kdyz jite roast beef jedenactkrat za zivot, sotva se rekne: 'Ten clovek ji neustale roast beef.'" *(Rimmer se brani hodnoceni)*
-- **TOASTOVAC:** "Toastuju, tedy jsem." *(toastovac s umelou inteligenci filozofuje)*
-- **LISTER:** "Rimmere, tam venku nic neni. Ani vesmirny prisery, ani klingonsky valecny lodi nebo blondaty kocky s drdolem na hlave, co rikaj: 'Ukaz mi jeste ten pozemsky zvyk libani!'" *(Lister o prazdnem vesmiru)*
-- **RIMMER:** "Tss, v Boha? Ovse, ze ne. To je absurdni napad! Ja verim v mimozemstany." *(Rimmer o vire)*
-- **LISTER:** "Chces rict, ze valcili kvuli tomu, jestli budou capky v bistru cerveny nebo modry?" **HOLLY:** "Ano." **LISTER:** "Nedejas si srandu? Mely bejt zeleny." *(Lister se dozvi o kocicich svatych valkach)*
-- **KOCOUR:** "Promin hochu, jakej to ma bejt oblicej?" **LISTER:** "Co je s mym oblicej?" **KOCOUR:** "Co je s tvym oblicej? Je vzhuru nohama a taky naruby, abys vedel." *(Kocour pochybuje, ze Lister je Buh)*
-
----
-
-### Ep. 05 -- Sebevedomi a Mindrak
-
-- **RIMMER:** "Jednou se mi zdalo o psu, coz neznamena, ze s nim chci spat." *(Rimmer o Listerove teorii, ze se ti zda o tom, kdo ti neni lhostejny)*
-- **RIMMER:** "Jiste, ze vim, co je laska. Mechanismus, jenz vynalezli bankeri, aby nas donutili precerpat ucet." *(Rimmerova definice lasky)*
-- **RIMMER:** "Ne, Listere, od zvirat se lisime tim, ze nepouzivame jazyk k cisteni genitalii." *(Rimmer o rozdilu mezi lidmi a zviraty)*
-- **LISTER:** "Ale bez, tys se dal k tem paprdrum ze 'Spolecnosti pro celibat' jedine proto, ze si neumi sam nabalit zenskou." *(Lister o Rimmerove celibatu)*
-- **RIMMER:** "Napadaji me jenom dve: samovzniceni starosty Varsavy v roce 1546 a ve 12. stoleti incident v Burgundsku, kdy prsel sledi." *(Rimmer o divnejsich vecech, nez ze by Kochanska mohla rict "ano")*
-- **SEBEVEDOMI:** "Aha, uz vim, co to znamena, to 'H' na cele! Hidiot, nemam pravdu?" *(Sebevedomi urazka Rimmera)*
-- **KOCOUR:** "Joooo, to jsi ty! Ale opicaku, ty ses marod, marod, bezmocnej a v bezvedomi. Kdybys nebyl muj pritel, stopil bych ti boty." *(Kocour nalezne omdleleho Listera)*
+- **RIMMER:** "Brýtro, Listere. Jak se žije v hippiovském nebi, ty těhotný lenochode smradlavý? Jakýpak je na dnešek plán? Flákání po ránu, potom lehárko odpoledne a pak si dáchnout před hlavní večerní zevlovačkou?" *(ranní pozdrav Listerovi)*
+- **RIMMER:** "Jak můj otec říkával: „Čerstvý krátký sestřih a nablýskané holinky a zvládneš všechno na světě." Což prohlásil pár minut před tou nešťastnou sebevraždou." *(vzpomíná na otce)*
+- **HOLLY:** "Nejsem kombinace mluvících hodin a Versaceho módních poskoků." *(odmítá Rimmerovy požadavky)*
+- **RIMMER:** "Člověk je takový, jak vypadá, a já vypadám jako pravá, nefalšovaná děvka!!!" *(uvidí svůj účes v zrcadle)*
+- **RIMMER:** "Pitomost! Kdys naposled viděl mrtvého hlasatele?" *(o diskriminaci mrtvých na trhu práce)*
+- **KOCOUR:** "Pes? A co to je?" *(nikdy neviděl psa)*
+- **HOLLY:** "Já jsem desátá generace holografických počítačů s umělou inteligencí. Ne tvoje máma." *(odpovídá podrážděně Rimmerovi)*
+- **TOASTOVAČ:** "Říkal někdo, že by si přál toast?" *(reaguje na slovo "toast" v Rimmerově nadávce)*
 
 ---
 
-### Ep. 06 -- Ja na druhou
+### Ep. 03 — Rovnováha sil
 
-- **RIMMER:** "Moje smrt je jedna z nejdulezitejsich udalosti meho zivota." *(Rimmer o videokazete sve smrti)*
-- **LISTER:** "Hele, pod posteli je tvuj ustrizenef nehet. Nemam ti ho taky pribalit?" *(Lister o Rimmerove stehovani)*
-- **RIMMER:** "Vymenils mi zubni pastu za antikoncepni gel." **LISTER:** "Ale prosim te! To byl takovej for." **RIMMER:** "Ano, stejny zert, jako kdyz jsi me zapsal na seznam cekatelu na experimentalni operaci hemeroidu." *(Rimmer a Lister o vzajemnych naschvalech)*
-- **RIMMER:** "Polevka gazpacho se podava studena! Kdyby nam o tom rekli pri zakladnim vycviku! Misto, abychom splhali nahoru a dolu po lane a kopali zakopy. Kdyby nam aspon jednou rekli: 'Polevka gazpacho se podava studena,' mohl jsem byt dneska admiralem!!!" *(Rimmeruv nejslavnejsi priser -- polevka gazpacho)*
-- **RIMMER #2:** "Smir se s tim, nikdo te nemel rad! Dokonce ani maminka!" **RIMMER:** "Maminka me mela rada!!! Jenom nemela cas. Mela porad nejake schuze." *(Rimmer se hada sam se sebou)*
-- **LISTER:** "Horkyho?" *(Lister si neodpusti stipackou poznamku o polevce gazpacho)*
-
----
-
-### Ep. 07 -- Kryton
-
-- **HOLLY:** "Ano, znamena to: 'Poslete pro portyra. Zda se, ze mam v bidetu zabu!'" *(Holly preklada Rimmerovo esperanto)*
-- **LISTER:** "Ufouny ze nam chodej na toaletak?" **RIMMER:** "I takovej ufoun musi chodit tam, kam i kralovna pesky. Pokud by to nedelali nejak zvlastne, cizokrajne, treba ze by to vypousteli z hlavy." **LISTER:** "To teda musi bejt, sedet za nima v kine." *(debata o mimozemstanech a toaletech)*
-- **RIMMER:** "Tak co jsem mel rict? 'Bez obav, ja jsem mazak, co doloval svinstvo z automatu na polivku! O vesmiru nevime ani fn, ale mate-li ucpanou trysku, jsme vasi hosi!'?" *(Rimmer o tom, proc se predstavil jako kapitan)*
-- **HOLLY:** "Psi mleko ma tu vyhodu, ze kdyz je prosle, chutna stejne jako by bylo cerstve." **LISTER:** "A jak to?" **HOLLY:** "Ani pes by ho nepil." *(Holly o psim mleku)*
-- **LISTER:** "'Pan Arnold' neni jeho jmeno. Jmenuje se Rimmer, nebo Magor, nebo Dinosauri kuze, nebo Molekulovej mozek. A pri tech velice vzacnejch prilezitostech, kdyz k nemu chces bejt fakticky super-uctivej, tak mu muzes rikat Kretenee." *(Lister uci Krytona jak oslovovat Rimmera)*
-- **KOCOUR:** "Kocku byste nikdy nedonutili slouzit. Uz jste ji nekdy videli nosit klaciky? 'Hele, priteli, hodils klacik, dojdi si pro nej sam! Ja mam praci!'" *(Kocour o rozdilu mezi kockami a psy)*
-- **KRYTON:** "Vo co de? Dinosauri kuze! Molekulovej mozku!" *(Kryton se konecne vzbouri proti Rimmerovi ve stylu Marlona Branda)*
+- **RIMMER:** "Vynikající plán, Listere! Skvostný plán! Brilantní plán! A já si myslel, že tě to nenapadne, ovšem zřejmě napadlo. Dobře, tak já tu budu jen tak stát a přiblble se usmívat." *(sarkasticky o Listerově plánu "povalovat se a zasmát se")*
+- **RIMMER:** "Diskutujeme o tom, Listere. Co je tohle, když ne diskuze? Dieselová lokomotiva?" *(když Lister říká, že Rimmer o tom nechce diskutovat)*
+- **RIMMER:** "Tak to asi dřív pojede čert na bruslích do práce." *(že Listerovi nikdy nedá Kochanskou)*
+- **LISTER:** "Technik je nejnižší hodnost na lodi. Ten, co měnil toaleťák, byl vejš než my!" *(o hierarchii na lodi)*
+- **RIMMER:** "Listere, „bezva" není výhružka, ať už to „e" protáhneš sebevíc." *(reaguje na Listerovo "Beeezva!")*
+- **HOLLY:** "Pokud jde o počet slov, měl jsi lepší vztah se svým fíkusem." *(Listerovi o jeho "vztahu" s Kochanskou — 173 slov za celý život)*
+- **LISTER:** "Holly, 7 milionů je za to, že jsem mu říkal polib mi a dalších 7 milionů, když mě za to „polib mi" dával do hlášení." *(o 14 milionech slov s Rimmerem)*
+- **RIMMER:** "Nakonec se staneš tím, co nejvíc nenávidíš. Jen se na sebe podívej. Urážlivý, bezohledný, cílevědomý, necitelný. Podobáš se mi víc než já sám." *(Listerovi, který se chce stát důstojníkem)*
 
 ---
 
-### Ep. 08 -- Lepsi nez zivot
+### Ep. 04 — Čekání na Boha
 
-- **HOLLY:** "Tri miliony let letimy vesmirem a zjistili jsme spoustu veci: nejvyssi formou zivota je clovek a nejnizsi formou zivota je clovek, ktery si hraje s vlacky." *(Holly o zivotni moudrosti)*
-- **RIMMER:** "Hele, Casablanca! Natocili re-make Casablancy!" **LISTER:** "Vylizanci! Jak chces natocit znova Casablancu?" *(reakce na postu)*
-- **RIMMER:** "Naprosto presne! A proto taky vyhraju. Dokazku pristupovat k problemu tvurcim zpusobem." *(Rimmer o svem "strategickem" pristupu k dame, kde mu zbyva jedina figurka)*
-- **KOCOUR:** "Rimmerovi umrel tata." **KOCOUR:** "Ja radsi kure." *(Kocouruv pokus o soustrast)*
-- **RIMMER:** "Ve ctrnacti jsem se s nima rozved`." **LISTER:** "Coze?" **RIMMER:** "Dal jsem je k soudu. Museli mi platit, dokud jsem si nemoh` vydelavat. A jednou za ctrnact dni mi museli pujcit psa." *(Rimmer o svem detstvi)*
-- **RIMMERUVOTEC:** "Jenom jsem ti chtel rict,... ze ses naprostej magor!" **RIMMER:** "Coze?! Tohle neni muj sen!" **KOCOUR:** "Ne, ten je muj!" *(ve hre Lepsi nez zivot -- Kocouruv sen prerusi Rimmeruv)*
-
----
-
-### Ep. 09 -- Diky za tu vzpominku
-
-- **RIMMER:** "Sobota." **LISTER:** "A vic mi nereknes?" **RIMMER:** "Pak tam jsou nejaky cisla, ale buhvi co znamenaj." *(Rimmer s kocovinou cte budik)*
-- **RIMMER:** "Jsi na nic. Kazda jednotlivost je na nic. Jsi usmudlanej, nemas smysl pro disciplinu, jsi jediny clovek, ktery vyrazi svoje penize z kazdeho vsivaka. Presto te maj vsichni radi." *(Rimmer srovnava Listera se sendvicem)*
-- **RIMMER:** "Vis kolikrat v zivote jsem se ja s nekym miloval?" **LISTER:** "Ne, to nechci vedet." **RIMMER:** "Jednou." **LISTER:** "Boha jeho!" **RIMMER:** "Jednou jedinkrat." *(Rimmer ve stavu opilosti odhaluje sve intimni tajemstvi)*
-- **RIMMER:** "Dvanact minut. A to vcetne doby, co jsme jedli pizzu." *(Rimmer upresnuje svuj jediny pohlavni styk)*
-- **RIMMER:** "Vsechno bych to vymenil, vsechno, frcky, medaile za dlouhou sluzbu, plavecke diplomy, dalekohled i kopyto na boty, vseho bych se vzdal, kdyby me... nekdo mel rad." *(Rimmer ve stavu opilosti)*
-- **KOCOUR:** "Teda, to je fakt krasnej darek. Urcite cekal tak maximalne kravatu." *(Kocour o Listerove napadu darovat Rimmerovi romantickou vzpominku)*
+- **HOLLY:** "„Přehnaně horlivý, zřejmě blázen. Pravděpodobně má víc zubů než mozkových buněk. Vyhlídky na povýšení: komické."" *(čte Rimmerův osobní spis)*
+- **TOASTOVAČ:** "Toastuju, tedy jsem." *(existenciální toastovač)*
+- **RIMMER:** "Ty troubo! Dramatik ze starých časů: Wilfried Shakespeare." *(opravuje Listera, ale sám si nepamatuje křestní jméno)*
+- **LISTER:** "Měli masivní biče, Rimmere. Masivní biče." *(vysvětluje stavbu pyramid)*
+- **KOCOUR:** "Tak jo. Proměň tohle v ženskou." *(když se dozví, že Lister je jeho bůh)*
+- **LISTER:** "Neděláš si srandu? Měly bejt zelený." *(o svatých válkách kočičích lidí kvůli barvě čapek)*
+- **RIMMER:** "Představ si, že spíš se ženou!" *(řekne nahlas a vyděsí se — odpověď na "představ si ženskou se šesti prsama")*
+- **HOLLY:** "To je dobře. Protože by ti mohli pomoci s interpunkcí." *(komentuje Rimmerovu zprávu plnou čárek)*
 
 ---
 
-### Ep. 10 -- Skvira ve stazi
+### Ep. 05 — Sebevědomí a Mindrák
 
-- **RIMMER:** "Se vsi uctou, pane, ale Vy mate nejspis v kebuli piliny." *(Rimmer ke kapitanovi, ktery mu dal maly trest)*
-- **RIMMER:** "Nemel jsi mu rvat tu tuzku do nosu." **LISTER:** "Bylo to gumou napred!" *(Rimmer o svem trestu za napadeni kapitana)*
-- **LISTER:** "Carol McCauleyova, Vase oci jsou jako dve kristalova jezirka." **RIMMER:** "Prestan." **LISTER:** "Vase vlasy jako zlaty vodpad." **RIMMER:** "Prestan." **LISTER:** "A z Vasich minisukni jsem jak zhava kamna." *(Lister predcita Rimmeruv milosny dopis)*
-- **KOCOUR:** "Jedna stara kocici moudrost, ktera se sem ted moc hezky hodi, rika: 'Co to sakra meles, ty vorechu?'" *(Kocour nechape teorii cestovani casem)*
-- **KOCOUR/RIMMER/LISTER:** "Ahoj." / "Ahoj." / "Ahoj." / "Promiñ, tohle je konference agrofobni spolecnosti." *(trojice nalezena ve sprse pri cestovani casem)*
-- **RIMMER:** "Dal jsem ti nejlepsi leta sve smrti!" *(Rimmer Listerovi vytyka, ze ho chce opustit kvuli Kochanske)*
-
----
-
-### Ep. 11 -- Queeg
-
-- **LISTER:** "Samej Cecka: 'Jste eroticky zalozena dama, smyslna a naruziva a nebojite se to davat najevo.' Joooo! Jsem pekna samice!!!" *(Lister vyplnuje kviz v zenskem casopise)*
-- **HOLLY:** "Ja vedel, ze neuhodnete. Priletl postovni modul!" *(Holly se bavi tim, ze nuti ostatni hadat)*
-- **RIMMER:** "Jsi tak uzitecny, jako automat na kondomy ve Vatikanu." *(Rimmer o Hollym)*
-- **RIMMER:** "Tak podle tebe neni vazne, kdyz ti genitalie odpochoduji, kam se jim zlibi?" *(Rimmer ztraci nohy kvuli poruse holografickeho systemu)*
-- **QUEEG:** "Po prvnich peti stech metrech omdlel." **LISTER:** "Tos ho nechal bezet dve a pul mile v bezvedomi?" **QUEEG:** "To je predpis!" *(Queeg nutí Rimmera bezet)*
-- **QUEEG:** "Sest." **HOLLY:** "Sest? Dej si voraz! To by bylo malo i na sklenicku vody!" *(Queeg odhaluje Hollyho skutecne IQ)*
-- **HOLLY:** "Jo a posledni vec -- 45,265881. Druha odmocnina z 2 049. Nejsem rychly, ale nakonec to dam dohromady." *(Holly se louci pred "vymazanim")*
-- **HOLLY:** "Zazili jste taskarici stoleti. Uzili jste si april v dubnu, kvetnu, cervnu, cervencu a srpnu. No jo, je to tak, ja jsem Queeg!" *(Holly odhaluje ze Queeg nikdy neexistoval)*
+- **RIMMER:** "Jednou se mi zdálo o psu, což neznamená, že s ním chci spát." *(reaguje na Listerův argument o snech Kochanské)*
+- **RIMMER:** "Jistě, že vím, co je láska. Mechanismus, jenž vynalezli bankéři, aby nás donutili přečerpat účet." *(definice lásky)*
+- **LISTER:** "Rimmere, láska jee ..., láska je to, čím se lišíme od zvířat." **RIMMER:** "Né, Listere, od zvířat se lišíme tím, že nepoužíváme jazyk k čištění genitálií." *(filozofická debata o lásce)*
+- **RIMMER:** "Co?! Ano, mami, připravuju si aktovku. Kde to jsem? Kolik je hodin?" *(probouzí se ze spánku)*
+- **KOCOUR:** "Co je důležitější, lidský život nebo ten tvůj oběd?" **KOCOUR:** "Tak to si ani nezaslouží odpověď." *(Rimmer ho prosí o pomoc s omdlelým Listerem)*
+- **SEBEVĚDOMÍ:** "Aha, už vím, co to znamená, to „H" na čele! Hidiot, nemám pravdu?" *(uráží Rimmera)*
+- **KOCOUR:** "Jóóó, to jsi ty! Ale opičáku, ty seš marod, maród, bezmocnej a v bezvědomí. Kdybys nebyl můj přítel, stopil bych ti boty." *(najde omdlelého Listera na chodbě)*
 
 ---
 
-### Ep. 12 -- Paralelni vesmir
+### Ep. 06 — Já na druhou
 
-- **RIMMER:** "To je jako moji rodice v posteli." *(Rimmer o paralelni skutecnosti -- dva telesa sdileji stejny prostor, ale jedno o druhem nevi)*
-- **RIMMER:** "Stacil ten stary trik. Neco ti spadlo do oka, zlato. Uprel jsem na ni svuj pohled a bac ho! Sla se mnou na rande." **LISTER:** "A co s ni bylo?" **RIMMER:** "Nic." **LISTER:** "To jako ze sla na rande s tebou a byla normalni?" *(Rimmer o svem jedinem uspechu s zenami)*
-- **RIMMER:** "Samozrejme. Mela umely nos. Velmi vkusne udelany. Uslechtily kov. Zadny zmetek." *(Rimmer popisuje svou "schuzku")*
-- **PES:** "No, co je? Ty me nechces vocuchat?" **KOCOUR:** "Prosim te, tebe bych ucejtil i z Marsu! Kdys naposledy videl vanu?" **PES:** "U vsech psu, tohle slovo nerikej!" *(Kocour potkava Psa -- svuj protejsek z paralelniho vesmiru)*
-- **KOCOUR:** "Kdys naposled videl V - A - N - U?" **PES:** "Co to je?" *(Pes nezna slovo "vana")*
-
----
-
-### Ep. 13 -- Pozpatku
-
-- **LISTER:** "Taky te Wilma pritahuje?" **KOCOUR:** "Klidne bych se vsadil s kymkoli, ze Wilma Flintstounova je nejrajcovnejsi kost, jaka kdy zila." *(debata o animovanych zenskych)*
-- **KOCOUR:** "No, s Betty bych taky sel, ... ale myslel bych na Wilmu." *(Kocour o Betty Rubbleove)*
-- **LISTER:** "Nydnol! Nyd-nol!!! No to je v Bulharsku!" *(Lister nepozna, ze napis "NZDNOL" je Londyn pozpatku)*
-- **LISTER:** "Jasne! Zemak byl muj nejoblibenejsi predmet. Nydnol, Bulharsko -- rostlinna vyroba, nerostne bohatstvi a blizko Bosny." **KOCOUR:** "Tobe to pali! Jsem rad, ze jsem s tebou jel!" *(Lister s naprostou jistotou umistuje Londyn do Bulharska)*
-- **RIMMER:** "Jakou to ma cenu, kdyz nemuzes vzit nikoho zpatky?" *(Rimmer o cestovani casem)*
-- **KRYTON:** "Za tohle me urcite nechate propadnout." *(Kryton po havarce Kosmika do rybniku)*
+- **RIMMER:** "Moje smrt je jedna z nejdůležitějších událostí mého života." *(o videokazetě se svou smrtí)*
+- **RIMMER:** "Já vím, ale lepidlo je moje." *(chce si vzít lepidlo z Listerových plakátů)*
+- **LISTER:** "Moment. Takže podle tebe jsi nepovýšil na důstojníka, protože jsi bydlel s někým, kdo si broukal?" *(zpochybňuje Rimmerovu teorii)*
+- **RIMMER #2:** "Smiř se s tím, nikdo tě neměl rád! Dokonce ani maminka!" **RIMMER:** "Maminka mě měla ráda!!! Jenom neměla čas. Měla pořád nějaké schůze." *(hádka Rimmera se svým duplikátem)*
+- **RIMMER:** "Tohle už nemusíme dál snášet. Ty tvoje trapné poznámky, tvé nechutnosti, ty tvé ponožky, jež spustí kropicí systém." *(proč se odstěhoval od Listera)*
+- **HOLLY:** "Máme dostatek jídla na třicet tisíc let. Zbyla však jediná čokoládička na dobrou noc. Zůstává ze slušnosti nedotčena." *(úvod epizody)*
+- **RIMMER:** "To je docela zábavná myšlenka, ne? Hádat se do krve sám se sebou." *(když ho Lister přistihne, že se pohádal se svým duplikátem)*
 
 ---
 
-### Ep. 14 -- Trosecnici
+### Ep. 07 — Kryton
 
-- **HOLLY:** "Opustte lod, blizi se cerna dira... Toto neni cvicny poplach, *toto* je cvicny poplach." *(Holly se zamotava v hlaseni)*
-- **LISTER:** "Copak vime, co se stane zejtra, nebo v pristich peti minutach? Proto je to tak napinavy." *(Lister filozofuje, zatimco se na ne riti meteor)*
-- **RIMMER:** "Rikaji se, ze kazdou spolecnost deli od revoluce tri chody. Odepri lidem tri chody jidla a skonci to anarchii." *(Rimmer o civilizaci)*
-- **LISTER:** "Uz chapu proc si psi lizou kulky. Potrebujou tohle nejak zajist." *(Lister po ochutnani psi konzervy)*
-- **RIMMER:** "Videl jsem 'West Side Story', ten western." *(Rimmer o sve znalosti Shakespeara)*
-- **RIMMER:** "'Ted..!' Vic si nepamatuju." **LISTER:** "A z ceho to je?" **RIMMER:** "Z 'Richarda III.', ty tupce. Ten skvostny monolog na 'Ted'. 'Ted... neco, neco, neco, neco, neco, neco, neco.' Takovy skvost nelze zapomenout." *(Rimmer cituje Shakespeara)*
-- **LISTER:** "Nech stranku 61!" *(Rimmer o knize Lolita, kterou Lister chysta spalit)*
-- **RIMMER:** "A co tvoje kytara?" **LISTER:** "Kromne ty kytary." *(Lister tvrdi, ze nic neni dulezitejsi nez lidsky zivot -- krome jeho kytary)*
-
----
-
-### Ep. 15 -- Polymorf
-
-- **KRYTON:** "To neni vsechno, mam spoustu pristroju, ktere staci zastrcit do triselne zasuvky, a mohu tedy vykonavat temer vsechny domaci prace." **LISTER:** "Treba?" **KRYTON:** "Tak napriklad: cirkularku, vrtacku ... dokonce i slehac." *(Kryton o svych schopnostech)*
-- **LISTER:** "Zblaznily se mi trenyrky -- scvrkavaj se! Jezisi! Moje spodky, jsou zivy a zmensujou se!!!" *(polymorf se premeni v Listerovy trenyrky)*
-- **RIMMER:** "Nemuzu rict, ze me to zas tak moc sokuje... ty preriznes cokoliv, vid?!" *(Rimmer spatri Krytona kleciciho pred Listerem s hadicí)*
-- **RIMMER:** "A co Rimmerova direktiva, jez rika: 'Nikdy si nezahravej s nicim, co ma vic zubu, nez cela Addamsova rodina.'?" *(Rimmer proti direktive Hvezdne pechoty)*
-- **LISTER:** "Vyrvu mu prdusnui a umlatu ho k smrti tim koncem, kde jsou mandle!" *(Lister bez strachu -- polymorf mu vycucal strach)*
-- **KRYTON:** "Dlabu na tebe, ty hadronova kebule!" *(Kryton bez svedomí odmitta Rimmera)*
+- **HOLLY:** "Ano, zdecimoval jsem ji. Takže místo oktávy je to decima. Vynalezl jsem dva nové tóny: I a J." *(o svém revolučním hudebním systému)*
+- **RIMMER:** "Tak co jsem měl říct? „Bez obav, já jsem mazák, co doloval svinstvo z automatu na polívku! O vesmíru nevíme ani fň, ale máte-li ucpanou trysku, jsme vaši hoši!"?" *(proč se vydával za kapitána)*
+- **KOCOUR:** "Pánové, jsem tak vzrušený, že mám všech šest bradavek v pozoru!" *(o vyhlídce na setkání s ženami)*
+- **RIMMER:** "Stačí se na ně podívat. Mají na sobě míň masa než kuře McNugget!" *(o mrtvých důstojnicích na Nově 5)*
+- **LISTER:** "„Pan Arnold" není jeho jméno. Jmenuje se Rimmer, nebo Magor, nebo Dinosauří kůže, nebo Molekulovej mozek. A při těch velice vzácnejch příležitostech, když k němu chceš bejt fakticky super-uctivej, tak za těch vyjímečnejch okolností mu můžeš říkat Kreténe." *(učí Krytona jak oslovovat Rimmera)*
+- **HOLLY:** "Jeden pár má na nohou a ten druhý má srolovaný v trenýrkách." *(prozrazuje Rimmerovo tajemství s ponožkami)*
+- **LISTER:** "Já si tu plíseň pěstoval. Jmenovala se Amáta a chtěl jsem, aby vyrostla půl metru." *(stěžuje si, že Kryton uklidil)*
 
 ---
 
-### Ep. 16 -- Vymena tel
+### Ep. 08 — Lepší než život
 
-- **KOCOUR:** "Jeste ze jsis nedal dvojtej cisburger." *(Kocour potom, co Lister objednavkou z automatu spustil autodestrukci)*
-- **HOLLY:** "Prosla jsem celou databazi a zvazila vsechny moznosti a mame tri realne alternativy. Zaprve: sedet tady az to vybouchne. Za druhe: stat tady az to vybouchne. Zatreti: poskakovat a rvat na mne ze jsem neschopna, dokud to nevybouchne." *(Holly o moznostech zastaveni autodestrukce)*
-- **RIMMER:** "Jestli nezastavite autodestrukcni system do dvaceti sekund, budou ty muzske pohlavni organy obihat kolem nejblizsi planety. Spolecne s organy jinych osob, pohlavnimi i jinymi." *(Rimmer presvedcuje dustojnici Brownovou)*
-- **RIMMER:** "Minuly tyden, jak ve strojovne zhaslo svetlo, se na zdi odrazela tvoje silueta. Vydesila me k smrti. Myslel jsem, ze je to Alfred Hitchcock." *(Rimmer o Listerove postave)*
-- **RIMMER:** "Mas na sobe vic sadla, nez u reznika za vylohou." *(Rimmer o Listerove vaze)*
-- **KOCOUR:** "Jozxyqk." **LISTER:** "To neni slovo." **KOCOUR:** "To je kocicinnou." **LISTER:** "A co to znamena?" **KOCOUR:** "To je zvuk, co vydas. Kdyz ti neco priskripne pohlavni organy." *(Kocour a Lister hraji scrabble)*
-
----
-
-### Ep. 17 -- Fotostroj casu
-
-- **LISTER:** "Ja chci zit! Tohle je horsi nez vezeni. Kdyz ses v base, tak se aspon tesis, ze te jednou pustej." *(Lister o zivote na Cervenem trpaslikovi)*
-- **KOCOUR:** "Ze mne nevyrazis nic lepsiho nez 'Maleho rybare'!" *(Kocour na Listerovu touhu po lasce)*
-- **KRYTON:** "Zajeli bychom si do Dallasu v listopadu roku '63, stoupli si pred Kennedyho vuz a zarvali: 'Zalez!' Omlouvam se, asi se mi zkratoval cip pro dobry vkus." *(Kryton navrhu ke zmene dejin)*
-- **MLADY LISTER:** "Co o tom vis, dedku!?! Ses moc starej na to, abys chapal, co chcem sdelit!" **LISTER:** "Ja jsem ty, vole!!!" *(Lister se hada se svym mladym ja)*
-- **RIMMER:** "Nemas nahodou desku s tim 'Ohm'? Vzal bych si ji s sebou." **MLADY LISTER:** "Jsou vsechny v aute." **RIMMER:** "Aaah, to je skoda. Porad mi zni v usich, je tak chytlava!" *(Rimmer jediny fanda pisne "Ohm")*
-- **HOLLY:** "Zahynul pri letecke nehode, v osmadevadesati." **RIMMER:** "V devadesati osmi?!" **HOLLY:** "Byla to nepochybne jeho vina. Miloval se se svou ctrnactiletou zenou a zanedbal rizeni." *(Holly o alternativnim zivote bohateho Listera)*
+- **HOLLY:** "Kravské mléko. To už je drahně let, co došlo. Čerstvé, jakož i sušené." **LISTER:** "No a jaký mlíko teď pijeme?" **HOLLY:** "Nouzové rezervní zásoby. Jsme na psím mléku." *(šokující odhalení)*
+- **HOLLY:** "Ani pes by ho nepil. Navíc psí mléko má tu výhodu, že když je prošlé, chutná stejně jako by bylo čerstvé." *(o psím mléku)*
+- **RIMMER:** "O všech svých zkouškách jí tvrdím, že jsem je udělal. Už je to pěkně trapné, s takovou budu za chvíli velitelem vesmíru." *(o dopisech matce)*
+- **LISTER:** "Jenom, že skonal tiše ve svém džípu… ve spánku!" *(čte dopis od Rimmerovy matky, luští její škrabopis)*
+- **RIMMER:** "Rádi!? Já ho nenáviděl! Nesnášel jsem toho tlustýho, vykulenýho, plešatějícího neřáda!" *(o svém otci, u kterého Lister čekal dojemný vztah)*
+- **RIMMER:** "Ve čtrnácti jsem se s nima rozved`." *(o svých rodičích)*
+- **LISTER:** "Říkala, že je moc štastnej a že odešel tam, co moje zlatá rybka. Tak jsem si myslel, že ho spláchli do záchoda." *(vzpomíná na smrt svého otce)*
+- **KOCOUR:** "Já radši kuře." *(reakce na zprávu, že Rimmerovi umřel táta)*
 
 ---
 
-### Ep. 18 -- Posledni den
+### Ep. 09 — Díky za tu vzpomínku
 
-- **KRYTON:** "Lidske nebe? Co Vas nema. Lide neprijdou do nebe! Ne. To si jenom, jenom nekdo vymyslel, abyste se vsichni nezblaznili!" *(Kryton o lidskem nebi)*
-- **LISTER:** "Nechci rict neco nevhodnyho, ale to je absolutne na hlavu padly. Neexistuje zadny 'kremikovy nebe'." **KRYTON:** "A kam prijdou vsechny kalkulacky?" *(debata o posmrtnem zivote stroju)*
-- **LISTER:** "Nejsem fenteista! Stroje nemaj dusi. Kompjutry a kalkulacky neprijdou do nebe. Neexistujou feny s kridylkama, co sedej na oblacku a hrajou na harfu!" *(Lister o kremikivem nebi)*
-- **RIMMER:** "Delal jsem na Lince duvery." **LISTER:** "Ja vim. Jedno dopoledne." **RIMMER:** "Dele jsem to nevydzel." **LISTER:** "Nedivim se ti. Volalo ti pet lidi a vsichni spachali sebevrazdu. A to si jeden chudak splet` cislo! Volal si o vysledky kriketu." *(Rimmer na Lince duvery)*
-- **RIMMER:** "Kazdy ma narok na svou viru, Listere. Nesdilel jsem viru svych rodicu, ale nikdy bych je proto nezavrhnul." **LISTER:** "Co byli?" **RIMMER:** "Virivi adventiste sedmeho dne. Verili, ze musis kazdou nedeli virit." *(Rimmer o nabozenstvi svych rodicu)*
-- **KOCOUR:** "Hele, jsme pri tobe. On je jen jeden a my ctyri, ze jo?" *(Kocour o pripravach na boj s Hudzenem)*
-- **LISTER:** "On nikam nepoleti, zato ty jo! ...... Fakt jsem to rek`?" *(Lister se pokusi vyhruzovat Hudzenovi a sam sobe neverí)*
-- **RIMMER:** "Kolik mas prstu na nohou?" **LISTER:** "No deset!" **KOCOUR:** "Jo? Na obou nohou?" **LISTER:** "Dohromady!" *(posmesky na ucet Listerovych rodicu)*
-# Nejlepsi hlasky -- Cerveny trpaslik, serie IV-VI
+- **RIMMER:** "Jednou jedinkrát." **LISTER:** "Boha jeho!" **RIMMER:** "Dvanáct minut." **LISTER:** "Prosim tě." **RIMMER:** "A to včetně doby, co jsme jedli pizzu." *(přiznává se k jedinému sexuálnímu zážitku)*
+- **RIMMER:** "Jsi nanic. Každá jednotlivost je nanic. Jsi ušmudlaný, nemáš smysl pro disciplínu, jsi jediný člověk, který vyrazí svoje peníze z každého všiváka. Přesto tě maj všichni rádi." *(opilý Rimmer přirovnává Listera k sendviči)*
+- **HOLLY:** "Heleďte, v podstatě každá věc se dá logicky vysvětlit. Možná až na počet členů Kelly Family." *(o záhadných událostech na lodi)*
+- **RIMMER:** "Ufouni!" **LISTER:** "Už zase." **KOCOUR:** "Co to plácáš, ty moulo?" *(Rimmerovo věčné vysvětlení pro vše záhadné)*
+- **LISTER:** "To je jako hledat pšouk ve vířivce." *(o hledání černé skříňky)*
+- **HOLLY:** "Kristepane, ještě, že nedělal gynekologa." *(o dortu ve tvaru klíče, protože Rimmer byl mechanik)*
 
 ---
 
-## SERIE IV
+### Ep. 10 — Škvíra ve stázi
 
-### Ep. 19 -- Kamila
-
-- **LISTER:** "Koukni: pomeranc! Meloun! Samice hrabace!" *(uci Krytona lhat, ukazuje na ovoce a rika nesmysly)*
-
-- **KRYTON:** "To je pooo... Je to pooo... Je to banan! Nema to smysl, tohle nedokazu!" *(snazi se lhat, ale nedokaze rict neco jineho nez pravdu)*
-
-- **KRYTON:** "To je... to je... to je... pomocnik tasmanskeho policisty mimo sluzbu." *(konecne se mu podari lhat -- o bananu)*
-
-- **KRYTON:** "Oh! Vy mate uzasne schopnosti! A ta fantazie! Zvlast kdyz banan nazvete hrabacem kapskym. Hrabac dokonce neni ovoce. Ach, to je naprosto genialni!" *(obdivuje Listerovu schopnost lhat)*
-
-- **KAMILA:** "Nerikej mi, cos jedl!" / **LISTER:** "Vindaloo. A ty?" / **KAMILA:** "Vindaloo!" *(oba zjisti, ze maji stejne chutnove preference -- Listeruv ideal)*
-
-- **RIMMER:** "Aha, takze za spraveho vetra bychom se mohli vracet po svejch!" / **LISTER:** "Tak to se mi nelibi." / **RIMMER:** "Proc?" / **LISTER:** "Protoze spravnej vitr nefoukal uz tri miliony let!" *(o Kosmiku bez paliva)*
-
-- **KOCOUR:** "Zamkli jsme ho do skladu a hodili klicek." / **RIMMER:** "Ten stvoril iluzorni kopii toho, co si nejvic preje. A co dostal Lister? Kryton v podvazcich! To mu nikdy neodpustim." *(Rimmer o tom, ze Kocour videl svuj dokonaly obraz, ale Lister dostal Kamilu -- ktera je ve skutecnosti Kocour)*
-
-### Ep. 20 -- D.N.A.
-
-- **KOCOUR:** "Joo? A kvuli ufounum mam vypadat jako Frankensteinova nevesta?" *(Kocour si fenujem vlasy odpoji snimaci pult, kdyz sledujou UFO)*
-
-- **RIMMER:** "Mimoземstani! Asi chteji vratit Glena Millera." *(Rimmer o nezname lodi)*
-
-- **RIMMER:** "Ehh, Krytone, ty jdi prvni, ve vetsine filmu to vzdecky jako prvni koupi ten vepredu. Jdi prvni." / **KRYTON:** "Ve filmech, ktere jsem videl ja, to byl vzdecky ten chudak, co kryl ustup, ktery to schytal prvni, takze ostatni netusili, ze byli napadeni." / **RIMMER:** "Mas pravdu, mas pravdu. Muzes jit vepredu i vzadu a ja uprostred?" *(pruzkum cizi lodi -- Rimmer se boji)*
-
-- **KRYTON:** "Je to ohavne! Tohle je nejlepsi model, co vymysleli? To mi chcete tvrdit, ze probeh' konkurz a nekdo rek': ,Ah, tohle, to je ono, tenhle tvar jsme hledali, konecne vystavni zoufalec.' Shakespeare ho mel taky? Einstein?" *(Kryton jako clovek -- o svem penisu)*
-
-- **KRYTON:** "Na nic zvlastniho, jen jsem si tady trochu listoval katalogem elektrickych spotrebicu. Narazil jsem na rubriku vysavacu Super de luxe a najednou mi guma od spodku vystrelila pres celou osetrovnu." *(Kryton zjistuje eroticke reakce lidskeho tela -- na vysavac)*
-
-- **LISTER:** "Ne, to byl Pepek namornik." *(opravuje Rimmera, ktery si mysli, ze "Jsem to, co jsem" rekl Descartes)*
-
-- **KOCOUR:** "Clovek stvoreny z lupu? To bude katastrofa! V okamziku, kdy si umejes hlavu ,Clearem', tak zmizis!" *(Kocour o Rimmerove planu naklonovat se z lupu)*
-
-- **RIMMER:** "Nemuzu uverit, ze utikam pred psychopatem na kari." *(utikaji pred vindaloo bestii)*
-
-- **LISTER:** "Jedli jste uz porci poppadomu velkou jako Atlantik? Je to moc dobry!" *(miniaturni robocop Lister po zabiti vindaloo bestie, olizuje svou vystroj posetou kousky kari)*
-
-### Ep. 21 -- Spravedlnost
-
-- **KRYTON:** "Urcite vypadate lip. Daleko lip. Je uzasne, o kolik se ten Vas otok pres noc zmensil." / **LISTER:** "Myslite?" / **KRYTON:** "No urcite. Vcera malem narazel do stropniho ventilatoru." *(Kryton utesuje Listera s vesmirnymi priusnicemi)*
-
-- **LISTER:** "Kdyz vypadis takhle odpudive, tak teprv poznas skutecny kamarady." / **KRYTON:** "Odpudivy teda skutecne nejste." / **LISTER:** "Prestan me lakovat, Krytone. Vypadam jako zarovka. Jenom me nekam zasroubovat." *(Lister o svem oteklem obliceji)*
-
-- **KRYTON:** "Byl na turisticke ture po naftovych plosinach. Deset dnu pres lodni spalovaci motory se dvema robiky. Rikal, ze zaskoci a ukaze Vam diaky." / **LISTER:** "Nedelal si srandu?" / **KRYTON:** "To urcite ne, protoze plni zasobnik uz ctyriadavacet hodin." *(o Rimmerove dovolene -- diaky z naftovych plosin)*
-
-- **KRYTON:** "Trest smrti za kradez? Trest smrti za napadeni? Trest smrti za hranolky v cinsko-americke restauraci?" *(Kryton cte zakony Zony spravedlnosti)*
-
-- **KRYTON:** "Pane Rimmere, cely Vas zivot na palube Cervenoho trpaslika svecdi o tom, ze vy jste neuveditelne ubozi, netvorny a maly clovicek, ktery nikdy v zivote nedosahne niceho hodnotneho." / **RIMMER:** "Oh, diky." / **KRYTON:** "Prave proto jste v Zone spravedlnosti v bezpeci. Clovek jako vy je prilis nicotnj, nez aby mu stalo za to ublit druhe." *(Krytonova obhajoba Rimmera -- urazky jako strategie)*
-
-- **RIMMER:** "Jen mi chces namluvit, ze tohle ubozky a nicotnky jsem JA?" / **KRYTON:** "Pane, nemyslim, ze pro toho cloveka existuje slovo v jakemkoliv jazyce." *(po vyhrany sporu u Spravedlnosti)*
-
-### Ep. 22 -- Bila dira
-
-- **TOASTOVAC:** "Te pero, sombrero!" *(charakteristicky vyrok posedleho toastovace)*
-
-- **LISTER:** "A sakra! Rozeber ho! Ty toho vopruzaka neznas!" / **KRYTON:** "Prosim?" / **LISTER:** "Je porouchanej. Chce, abysme v jednom kuse jedli toasty. Je tim posedlej." *(Lister o toastovaci)*
-
-- **TOASTOVAC:** "Nechcete toast?" / **RIMMER:** "Nechci toast, nechci vafli, nechci palacinkovou smes! Nechci vajicka, nechci nic od vas!" / **TOASTOVAC:** "A co smazenou housku? Mam udajne nejlepsi smazeny housky v celym vesmiru." *(toastovac otravuje Rimmera)*
-
-- **KOCOUR:** "Je to moc jednoduchy, obvyklej porad: vstat, zvedni se, uhladito, obdivovat, polozit, dal. Vstat, zvedni se, uhladit, obdivovat, polozit, dal. Vstat, zvedni se, uhladit, obdivovat, polozit, dal." / **LISTER:** "Kocoure, v tom kufru mas sestnact tisic kosil!" *(Kocour bali na cestovani casem)*
-
-- **KRYTON:** "Nemam vylet s pany Rimmerem a Listerem. Mam to tak nerad, az z toho mam motolici." / **KOCOUR:** "Proc?" / **KRYTON:** "Oni se porad jen hadaj a dohadujou a vsechno, co delaj, delaj spatne." / **KOCOUR:** "Proc jsi s nima?" / **KRYTON:** "Protoze pan Lister potrebuje podelanou!" *(Kryton se poprvne uci rikat sproste vyrazy)*
-
-- **KRYTON:** "Vy jste totalni, totalni, totalni... totalni... Jak se rika tomu, co jste?" / **RIMMER:** "Smeghead?" / **KRYTON:** "Jo, to je to slovo!" *(Kryton nadsene rika Rimmerovi sprosty slovo, kdyz se uci byt hruby)*
-
-### Ep. 23 -- Jina dimenze
-
-- **RIMMEROVA MATKA:** "Rek' jsem jim: ,To je skoda, ze nemame houpacku.' A oni rikali, ze ji muzou udelat, ale nedoslo mi, ze ji chteji vyrobit ze me. Tak tady visim." *(mlady Rimmer visi ze stromu hlavou dolu)*
-
-- **ESO:** "Kouricej chlapi nekaslou. Jsou mrtvi." *(Ace Rimmer v bitce -- o parasutisteich)*
-
-- **LISTER:** "Proc bychom te nazyvali Esem? Ten chlap je hrdina, zasluzi si respekt. A ty -- do tebe se trefim, kdyz zvratis na vlastni boty." *(Lister odmita rikat nasemu Rimmerovi "Eso")*
-
-- **KOCOUR:** "Fakt si myslite, ze Rimmer se jako clovek zmensi? Melo by to ekvivalent k nemu? To si rikate s vaznou tvari? Ten chlap je tak malinky, ze kdyz stojite vedle nej, kazdy jinej na svete vypada jako obr." *(Kocour o Rimmerovi ve srovnani s Esem)*
-
-- **RIMMER:** "No nemas to snadny, kdyz ti brat odvede pritelkyni, kamarady, rodice..." *(Rimmer zufalec zebra sympatii, kdyz vsichni obdivuji Esa)*
-
-### Ep. 24 -- Roztaveni
-
-- **LISTER:** "Rimmere, co je to s tebou? Copak nechapes, ze na tvoje vypraveni neni nikdo zvedavej? Dyt ty mas tezkou dusevni chorobu, ktera te tak oblbuje, ze nudis lidi k smrti. Jak to, ze to necejtis!?" *(Rimmer vypravy o tom, co hodil v kostkach na kadetce)*
-
-- **KOCOUR:** "Ten blbec by moh' nudit za vlast!" *(o Rimmerovi a jeho kostkovem vypraveni)*
-
-- **RIMMER:** "Chci vyobrazit vas v roli boha. Asi jako Vykricnik od Whistlera." / **KRYTON:** "Ale ten je pod nazvem: Vzpominka v sede a cerne." / **RIMMER:** "To neni Vykricnik?" / **KRYTON:** "Ani nahodou, pane. Vykricnik namaloval Edvard Munch." / **RIMMER:** "Tak koho maloval Whistler?" / **KRYTON:** "Svou matku." / **RIMMER:** "Tak mne namaluj, jak jsem sedel na matce... ehh, Whistlerove matce!" *(Rimmerova naprostina prehazovacka maliru)*
-
-- **RIMMER:** "Vis, Kryacku, rad bych se s tebou vydal na pruzkum a celil vsem tem velkolenym, neznamym nebezpecim a jako dobrodruh si proklestil cestu dzungli poznani, ale zapominas na jedno." / **KRYTON:** "Ne, pane, vasi vrozenou zbabelost jsem vzal v uvahu." *(pred pruzkumem planety mokulem)*
-
-- **LISTER:** "Ten prcek se stupidnim knirem byl Hitler a ten prasteny brejlatej prznitel deti, to byl Goebbels. Takze bych rek', ze ten tlustoch byl Goring. Na tuty! Snupal kokain a byl transvestita. Za jinejch okolnosti by se stal slavnou filmovou hvezdou." *(Lister identifikuje nacisty ve Voskovem svete)*
-
-- **KOCOUR:** "Hele, neco ti poradim: vsichni jsme po soulozi hladovi, ale musi nam stacit pizza." *(Kocour k Caligulovi, ktery snedl sveho syna)*
-
-- **RIMMER:** "Vis, Sartre, existencialisty tady nemame v lasce. A vubec nestojime o to, aby nam tu filozofove honili vodu v cernych rolacich a blbli lidem hlavu teoriemi o bezuspesnosti byti a absurdnosti kosmu, rozumels?" *(Rimmer inspektuje Arnieho armadu)*
-
-- **LISTER:** "Ne, neni kamarade. Ty ses tady furt." *(Rimmer tvrdi, ze silena hrozba svet je minulosti -- Lister mu odpovi, ze on sam je ta hrozba)*
-
-- **LISTER:** "Neboj se, za par dni vyjde ven. Az projde tim peklem, co nam pripravil. Nedal, nedal by si nekdo kure vindaloo?" *(Lister spolkne Rimmerovo holosrdce jako pomstu)*
+- **RIMMER:** "Se vší úctou, pane, ale Vy máte nejspíš v kebuli piliny." *(ke kapitánu Hollisterovi)*
+- **RIMMER:** "Neměl jsi mu rvát tu tužku do nosu." **LISTER:** "Bylo to gumou napřed!" *(po audienci u kapitána)*
+- **RIMMER:** "Myslel jsem, že je to reklama na „Planetu opic"." *(proč spolkl fotku kapitánovy ženy)*
+- **KOCOUR:** "Co to je?" **RIMMER:** "Je to trhlina v časoprostorovém kontinuu." **KOCOUR:** "Co to je?" **LISTER:** "Dveře do minulosti." **KOCOUR:** "Jo, kouzelné dveře! Proč to neřeknete rovnou?" *(Kocour chce jednoduchý výklad)*
+- **HOLLY:** "Šest tisíc není tak moc. Tolik má dvanáct tisíc hlídačů na parkovištích." *(o svém IQ)*
+- **HOLLY:** "Jsem jeden z těch nejvymakanějších počítačů, co kdy člověk vymyslel. No a proto jsem téměř bezchybnatý." **LISTER:** "Bezchybný." **HOLLY:** "Přesně." *(Holly se neumí vyjadřovat správně)*
 
 ---
 
-## SERIE V
+### Ep. 11 — Queeg
 
-### Ep. 25 -- Hololod
-
-- **RIMMER:** "Tak abys vedel, tohle byla nejhorsi ubulena limonada, jakou jsem kdy musel pretrpet. Dokonce to urazilo i mou zadnici, jez se oprudila, neboze chudinka moje mala drepela u tak desneho pubertackeho skvaru!" *(Rimmer o romantickam filmu)*
-
-- **LISTER:** "To jsi tvrdil i o ,Krali kralu' a to je o Jeziskovi!" / **RIMMER:** "A trvam na tom. Syn tesare, zije s mamou do triceti. Plahocil se vsude pesky. Mel vousy. Ale tomu tleskaj." *(Rimmerova recenze filmu o Jezisovi)*
-
-- **RIMMER:** "Co si ted predstavit svou budoucnost? Predstav si Rimmerosvet: je to jako Disneyland, jenom tam neni nic." *(na hololodi, kde diskutuji o Rimmerove neveselem zivote)*
-
-- **RIMMER:** "Slysel jsem, ze statecnost je neco, co ti schazi, kdyz se vydavas na cestu a mas ji, kdyz se vratis domu." / **KRYTON:** "Ne, pane, to je kufor." *(Rimmer se snazi byt filozoficky pred bojem)*
-
-- **RIMMER:** "Hololod nemame, Bludneho Holandana nemame, Ztraceneho Holandana nemame. My mame jenom blbnouciho Holandana a to je Holly." *(Rimmer o Hollinu spatnem navigovani)*
-
-### Ep. 26 -- Inkvizitor
-
-- **KRYTON:** "A, Vergiliova Aeneas. Epos o Agamemnonove boji o Helenu Trojskou -- dilo nejvetsiho rimskeho basnika, jenz se kdy brkem dotkl pergamenu." / **LISTER:** "Jo, tohle je komiksova verze." / **KRYTON:** "Vazne?" / **LISTER:** "Ale je to dobry. Primo naslipany dejinama." *(Lister cte komiks Aeneady)*
-
-- **INKVIZITOR/LISTER:** "Tak co jsi udelal se svym zivotem? Dostal jsi mozek, ktery ti zavidel kdejaky vedec, a cos udelal? Zdrcnul jsi vsechno a nasmes do kanarku." / **LISTER:** "Jo, ale kanarku s Grammyho." *(Lister obhajuje svuj zivot pred sebou samym)*
-
-- **INKVIZITOR/RIMMER:** "Arnold Judas Rimmer? Ty se mas za co stydet." / **RIMMER:** "Ja se nebudu pred nikym stydet, natoz pred sebou. Jo, celej zivot jsem se plazil -- no a? Moje zivotni filosofie zni: Je lepsi zivorit nez nezivorit. A proto, smrad nebo ne, jsem nazivu!" *(Rimmer obhajuje svuj zivot pred Inkvizitorem)*
-
-- **KRYTON:** "Na svete je jenom jeden clovek, jehoz urazky mne muzou zranit, a to je pan Lister. A on mne rika, ze jsem v pohode. Takze -- jdi se vykendat, dedo." *(Kryton posle Inkvizitora do haje)*
-
-### Ep. 27 -- Psychoteror
-
-- **CENTRALNI JEDNOTKA:** "Dobre zpravy: neco na pozadi. Spatne zpravy: je to lavina." *(Krytonuv vnitrni pocitac po bouracce)*
-
-- **LISTER:** "Vysral jsem se na kuchar, chci bejt zivej." / **KOCOUR:** "To je drsny rozhodnuti." / **LISTER:** "Tezky rozhodnuti neni. Tezky rozhodnuti je, kdyz nemuzete spat a premyslite, jestli mate zustat kucharkou." *(Lister o svych profesich)*
-
-- **KRYTON:** "To mi rika clovek, ktery svuj spolecensky zivot travi drzenim v jedne ruce piva a v druhe kebab. Pak rve na televizi, a kdyz ta mu neodpovida, tak z ni vyhodi popelnik." *(Kryton Listerovi, ktery ho chce ucit byt vic lidsky)*
-
-- **KRYTONOVA SEBEJISTOTA:** "Jmenuji se Sebejistota a reknu vam, ze Krytonovi bude lip, nez kdykoli predtim. Jsem nejen krasny, jsem take chytry, inteligentni a skvele obleceny. Jsem nejlepsi, co jste v zivote potkali!" *(personifikace sebejistoty v Krytonove hlave)*
-
-### Ep. 28 -- Karantena
-
-- **RIMMER:** "V soucasne dobe cele operaci schopne veli android, ktery byl stvoren k myti zachodu. Takze me z toho vynechte, kapitane Pisoare." *(Rimmer o Krytonovi, ktery vede akci)*
-
-- **RIMMER:** "Budte pozitivni, panove, mohlo to dopadnout hur." / **KRYTON:** "Jak presne mohlo dopadnout hur?" / **RIMMER:** "Mohl jsem byt na vasi strane." *(karantena -- Rimmer drzi ostatni pod zamkem)*
-
-- **RIMMER:** "Pane Lister a Kocour! Mozna se vas Rimmeruv dekret cislo 12 tyce, mozna ne, ale podle nej kazdy muz nosici devci nabidku musi byt oblecen v zenskem. Rozhodl jsem se, ze vas to tyce." / **LISTER:** "Ted zacinas bejt fakt vtipnej." / **RIMMER:** "Lister, jestli nebudete behem ctyr hodin odeny do saticek se sedmikraskami, jste v krimalu!" *(zblaznely Rimmer v karantene)*
-
-- **RIMMER:** "Pane Hop-Hop!" *(Rimmer hlasi nemocny, mluvi s plysakem panem Hop-Hopem)*
-
-- **LISTER:** "Docela by me zajimalo, jak dlouho byl Rimmer prastenej, nez jsme si toho vsimli. S Rimmerem to neni tak jednoduchy." / **KOCOUR:** "Poznal jsem to, kdyz mi prinesl mou veceri a na taliri misto jidla lezela matice a srouby." *(jak poznat, ze Rimmer zesilenel)*
-
-### Ep. 29 -- Demoni a andele
-
-- **RIMMER:** "Pokud se udeluje Nobelova cena v oboru ovoce, tak budete pro letosek horkymi kandidaty. Panove, vejdete do historie! Budete slavni, postavi vam pomnik. I mesta ponesou vase jmena. Napada me napriklad ,Mamlasov'." *(Rimmer o triplikatoru na jahody)*
-
-- **NIZKY LISTER:** "Hele, Smradochu, budeme si navzajem pomahat, nebo ne? My budeme v klidu na vasi palube a vy budete v klidu na nasi palube." / **LISTER:** "A co bude s Kocourem?" / **NIZKY LISTER:** "Zemrel. Meli jsme hlad." *(nizky, zly Lister o Kocourovi)*
-
-- **NIZKY KOCOUR:** "Az ho nachytame, rozsekame ho na drobno a snisnime. A potom vyzvracime. A snisnime znovu." *(nizky, zly Kocour o Listerovi)*
-
-- **NIZKY RIMMER:** "Udelam ti z tvyho tylu predni cast hlavy!" *(nizky Rimmer vyhruzka)*
-
-- **VYSSI LISTER:** "Pojdte dal! Je to uplne nadherne uvnitr! Ale sundejte si boty, prosim!" / **LISTER:** "Sundejte si boty? On rikal sundejte si boty! Ten chlap je spatnej az na kost!" *(Lister o svem "vyssim" ja)*
-
-### Ep. 30 -- Navrat do reality
-
-- **KOCOUR:** "Ptaci plavou na jih?! A jakpak dychaji?" *(Kocour o ptacich a rybach -- zmateny v migraci)*
-
-- **RIMMER:** "Vypada to jako mama Normana Batese." *(Rimmer o nalezene mrtvole na Esperantu)*
-
-- **LISTER:** "Jake sebevrazedni poselstvi by presvedcilo cely posadku aby se zabila?" / **RIMMER:** "Ehh, treba: Jedli jste posledni dobu hodne veprovyho a vase strevni flora to nemuze zvladnout." / **LISTER:** "Takze kvuli tomu se vsichni zastrelili?" / **RIMMER:** "Ne, ne... To bylo jen tak..." *(Rimmer totalne mimo pri reseni zahady hromadne sebevrazdy)*
-
-- **LISTER:** "Jak vypadame ve skutecnym svete?" / **KRYTON:** "Predstavte si svuj oblicejovej odlitek, kdyby ho udelal opilej taxikar." *(Kryton o tom, jak by vypadali ve skutecnem svete -- nebo v halucinaci)*
-
-- **KOCOUR:** "Rikaj mi Duane Dibbley?" *(Kocour -- hruzou zjistuje, ze ve "skutecnem zivote" je ohyzdny Duane Dibbley)*
-
-- **RIMMER:** "Krome toho chci otazku z vedlejsi kategorie: Co je tohle za svet, kde je Rimmer cool a Lister je spina? To je prevraceny, nestastny, nemocny, slizky, nechutny svet!" *(Lister o realite, kde je Rimmer zajimavy a Lister trapny)*
+- **RIMMER:** "Jsi tak užitečný, jako automat na kondomy ve Vatikánu." *(Hollymu po další katastrofě)*
+- **RIMMER:** "Tak podle tebe není vážné, když ti genitálie odpochodují, kam se jim zlíbí?" *(když ztratí nohy)*
+- **RIMMER:** "Ty jsi naprostý, naprostý … to slovo ještě nevymysleli, aby vystihli to, co doopravdy jsi, ale to jsi! A to naprostý, naprostý... tři tečky." *(Hollymu po elektrické ráně)*
+- **QUEEG:** "Šestka tam je, ale šest tisíc to není." *(odhaluje Hollyho skutečné IQ)*
+- **QUEEG:** "Kouká se do knížky." *(jak Holly zná odpovědi na otázky z vědy)*
+- **HOLLY:** "Jsem v nejlepším stavu!" *(brání se odstavení)*
+- **RIMMER:** "S tebou budu rád, když neztratím aspoň nohy!" *(Hollymu, který říká "neztrácej hlavu")*
 
 ---
 
-## SERIE VI
+### Ep. 12 — Paralelní vesmír
 
-### Ep. 31 -- Psireny
-
-- **KRYTON:** "Cloumal jsem s Vami uz na jare, ale Vy jste trval na dalsich trech mesicich." *(Kryton o probouzeni Listera z 200-leteho spanku)*
-
-- **LISTER:** "Ja piju k snidani studenou kari omacku?" / **KRYTON:** "Kazde rano. Vasim slovum: ,Neni nad studeny vindalko, kdyz do luzka leze, kdyz z luzka vstava.'" *(Listerovy ztracene vzpominky na sve jidelni zvyky)*
-
-- **KOCOUR:** "Co me na tom nejvic stve, je, ze ta bestie je tak odporny, nestydaty a bezcharakterny tvor, ze se prevlekla za me. Za me! Mela se predemnou studem propadnout!" *(Kocour urazeny, ze psirena na nej pouzila jeho vlastni podobu)*
-
-- **KOCOUR:** "Sbohem, pratelove. Sbohem Listere. Sbohem, Krytone. Sbohem, Rimmere. Sbohem, Listere. Sbohem, Krytone. Sbohem, Rimmere. Sbohem, Listere --" / **LISTER:** "Proboha, zabit se nestihnes, kdyz se budeme vsichni loucit." *(Kocour se opakuje pri louceni, nez se obetuje)*
-
-- **LISTER:** "Smeg! Muj obrad z basne. Moje zadni zivotni pravidlo. Nejak ho ztracim!" / **RIMMER:** "To zvladnu ja: ,Zzz frnk bzzz.'" / **LISTER:** "To je Rimmeruv!" *(o Listerovych ztracejicich se vzpominkach vs. Rimmeruv chrapani)*
-
-### Ep. 32 -- Legie
-
-- **KRYTON:** "Vodu jsme uz recyklovali tolikrat, ze chutna jako holandsky lezak." *(o stavu zasob na Kosmiku)*
-
-- **RIMMER:** "Nemuzes podavat vesmirneho mola. Ani Lister s poslednim zbyvajicim chutovym poharkem nebude pojidat tu hmyzi verbez. V jeho pripade by slo o kanibalismus." *(Rimmer o Krytonove jidelnicku)*
-
-- **KRYTON:** "Rikali tomu ,trikovy obraz'. Muzete v nem videt bud nahou zenu nebo Vatikansky palac. Je to zvlastni, ze za cely tri sta let, co to mam, jsem nikdy nevidel Vatikansky palac." *(Kryton o optickem klamu)*
-
-- **LEGIE:** "Ja jsem Legie, nebot je nas mnoho." / **RIMMER:** "Aha. Kolik presne?" / **LEGIE:** "Ctyri." *(nadprirozena bytost -- slozena ze ctyr clenu posadky)*
-
-- **RIMMER:** "Hmm, velka kultura a velke umeni vsude kolem nas. Cely tyhle prostory vedou k obzivnuti intelektu, rozvoji osobnosti, obohaceni ducha a prozivani krasna. Nemuzu se dockat, az to tu opustim." *(Rimmer na stanici Legie)*
-
-- **LISTER:** "Ehh, dobry. Ja -- mam takovou otazku: Mate tady bazukoid? Neco opravdu hardcore, co by rozprasklo celou tu stanici?" *(Lister k Legii -- misto filozoficke otazky chce zbrane)*
-
-### Ep. 33 -- Pistolnici z Apokalypsy
-
-- **LISTER:** "Je to prosty. Tohle neni skutecnost, ale virtualni realita. Jenom simulace. Mam te vydat poldum a skoncit v naruci kladny hrdinky. Nehraju to poprve. Jenze ted jsem do tebe blazen. Jsi nejvetsi kocka z pocitacovejch her." *(Lister virtualni Lorette ve hre -- zamilovany do pocitacove postavy)*
-
-- **LISTER:** "Nevadej mi ty tri, co jsi zabila..." *(Lister Lorette -- nevadi mu vrazdy, jen chce polibit)*
-
-- **RIMMER:** "Musim uznat, ze jsem jediny clovek, kterej by se mel stat clovekom. Ja vim, je to paradox, ale jestli me nekdo nedoceni, tak jsem to ja." *(Rimmer o tom, ze nikdy nedostal sanci byt dobrym clenem posadky)*
-
-- **KOCOUR:** "Hele ty. Mam ucho cloveka, ktery umira. Pouzij ho moudre." *(Kocour dava umirajicimu Jimmymu sanci rict posledni slova -- v kontextu westernove simulace)*
-
-- **JIMMY:** "A nevstoupil do salonu chlap tak tvrdej, ze na neho neplatil ani prukaz?" / **LISTER:** "To je hodne tvrdej, Jimmy." *(Jimmy umira a vypravy o Apokalypticich)*
-
-### Ep. 34 -- Polymorf II (Emocuc)
-
-- **RIMMER:** "Tobě to asi uniklo. Povidam: POPLACH!" / **LISTER:** "Diky, ty palacinky bez slehacky." *(Rimmer budí Listera do poplachu, ten mluvi ze spanku)*
-
-- **RIMMER:** "Myslite, ze jsem malicherny, byrokraticky hnidopich, ktery se primo zuziva v predpisech, protoze z toho ma jakousi zvrahlou radost?" / **KRYTON:** *(prikyvuje na souhlas)* *(Rimmer se pta recnicky -- Kryton prikyvuje)*
-
-- **LISTER:** "Fajn, budeme moct odpocivat v pokoji." *(Rimmer je vyhlasi za mrtve, kdyz neprijdou na poplach -- Lister to bere jako bonus)*
-
-- **KOCOUR:** "Neco takovyho uz mam. Jenze ne na hlave." *(Kocour o Rimmerove strihu -- ma "to same" na jinem miste)*
-
-- **KRYTON:** "Emocuc -- tvori se tak, ze clovek, v nasem pripade pan Rimmer, preslechteny polozivotni druh, projde genovou mutaci a zmeni se v priseru, ktera pak ostatnim vysava emoce a osobnost." / **RIMMER:** "Okamzik! Proc prave ja?" / **KRYTON:** "Protoze vy jste jediny, komu nechybi." *(proc emocuc napadne zrovna Rimmera)*
-
-- **RIMMER (BEZ EMOCI):** "Kdo je Rimmer? Co je zac? Kde si mysli, ze je? Na kamennym zamku? Mel by se stydet!" *(Rimmer bez ctizadosti sam sebe kritizuje)*
-
-### Ep. 35 -- Rimmerosvet
-
-- **KRYTON:** "Vsichni si dobre uvedomujeme, co jste. Oh, konecne vysledky." *(Kryton o Rimmerove osobnosti -- pri zdravotni prohlidce)*
-
-- **KRYTON:** "Vypnout lhaci rezim. Ano, pane, uz to tak bude." *(Kryton prepina z optimismu na pravdu o Rimmerove zdravi)*
-
-- **RIMMER:** "Ja to tusil! To ty bolesti hlavy. A buseni srdce. A vypadky zraku. A bolesti na prsou. To s tim souvisi, vid?" / **KRYTON:** "Ne, to je jen stres, spatna strava a zadny pohyb. Ja mluvil o vasem holosrdci." *(Rimmerovy hypochondricke obavy -- problem je jinde)*
-
-- **RIMMER:** "Kdybych mel vybrat den, kdy chci zemrit, byla by to prave tahle chvile. Krome te smrti mi to vyslo!" *(Rimmer na Rimmerovem svete -- konecne stastny, ale umira)*
-
-- **LISTER:** "Rimmer to nevzal. Moh' bejt ten borec. Dali mu to na zlatym podnosku, a von to nechtěl." / **KOCOUR:** "Vzdal to, protoze vedel, ze to neni skutecny." / **LISTER:** "Hm... Mozna. Mozna taky ne." *(Lister obdivuje, ze Rimmer odmitnul perfektni zivot, protoze to nebylo fér)*
-
-### Ep. 36 -- Mimo realitu
-
-- **RIMMER:** "Vite, z ceho je mi u Listera opravdu na bliti? Kvuli cemu mam hroznou chut vypichnout mu obe oci? Kvuli vsemu! Tak je to. Vubec nejvic kvuli jeho prisernemu, svitorivemu optimismu. A nas Kocour je nesnesitelny posuk. A Kryton? Jestli se sebou neco neudela, tak mu pricvaknu draty na jeho bradavky a usmazim ho jako kralovskeho sumce. No, a hned se tu da dychat." *(Rimmer jako "velitel morálky" -- jeho prvni porada)*
-
-- **LISTER:** "Vyrval lednicku ze zdi a chtel ji zasunout do me." / **KRYTON:** "Cim jste ho tak rozladil?" / **LISTER:** "Vubec nicim, hledel jsem si svyho a vytrhaval si chlupy z nosu." *(o Rimmerove nervozite)*
-
-- **KOCOUR:** "To poznas, kdyz je nervozni. Vzdycky zmuchla salek a hodi ho do odpadku. A to nemyslim polystyrenovy, ale plechovy!" *(Kocour o Rimmerovi)*
-
-- **RIMMER:** "Podivejte, my ctyri jsme vubec jediny lidi v celym vesmiru a ja musim machat mopem za vsechny ostatni idioty, kteri po sobe nechali neporadek." *(Rimmer na kolenou drhe podlahu -- pod dojmem, ze je uklizec v umele realite)*
-
-- **LISTER:** "Rimmer drhne podlahu. Kocour je bezdomovec. A ja? Fakt nevim, co jsem, ale nemam ani korunu." / **KRYTON:** "Pane, to je zkouska. Tohle neni realita." / **LISTER:** "Ty to vis jiste?" / **KRYTON:** "Stoprocentne. Protoze kdybych to neveril, tak bych si musel vyzadat pozadavek na sebezniceni." *(Kryton o tom, proc tohle nemuze byt realne)*
-
-- **LISTER:** "Hele, vezmi ho... Treba neumi ridit." / **KRYTON:** "Pane, je to Rimmer. Muze ridit?" / **LISTER:** "...ne." *(o utikajicim zlocincu -- Rimmer neumi nic, takze ho nemuze chytit)*
+- **RIMMER:** "Ano, ovšem? A to máš z pohádky „Jak šla astronavigace na vandr"?" *(na Listerovu poznámku o třístupňovém obratu)*
+- **RIMMER:** "To je jako moji rodiče v posteli." *(o dvou tělesech sdílejících stejný prostor, které o sobě nevědí)*
+- **HOLLY:** "V tomhle vesmíru to třeba mohl být Hitler, kdo vyhrál druhou světovou, a může se to zcela vymykat rozumu, jako třeba že Ringo byl fakt dobrý bubeník." *(o paralelním vesmíru)*
+- **RIMMER:** "Vynechal jsi sedmičku!" **HOLLY:** "Vážně? Sedmička mi vždycky dělala trochu problémy." *(při odpočítávání Hollyhopského pohonu)*
+- **HOLLY:** "Není tady." **KOCOUR:** "A co?" **HOLLY:** "Země. Zmizela. Ztratila se. Moment. Koukal jsem se ze špatného okna." *(po přemístění Hollyhopem)*
+- **LISTER:** "Rimmere, na tuhle průpovídku by jsi neulovil ani mrtvýho koně bez mozku." *(o Rimmerových svůdnických technikách)*
 
 ---
 
-*Zdroj: Ceske scenare Cerveneho trpaslika, serie IV-VI. Preklad CT.*
-# Red Dwarf - Best Quotes: Series VII-VIII (Czech scripts)
+### Ep. 13 — Pozpátku
 
-## Serie VII
+- **LISTER:** "Viděl si někdy Flinstounovi?" **KOCOUR:** "Jasně!" **LISTER:** "Taky tě Wilma přitahuje?" *(začátek slavné konverzace)*
+- **KOCOUR:** "Klidně bych se vsadil s kýmkoli, že Wilma Flinstounová je nejrajcovnější kost, jaká kdy žila." *(o kresleném seriálu)*
+- **LISTER:** "Nikdy Freda neopustí a my to víme." *(závěr debaty o Wilmě)*
+- **HOLLY:** "No, na to, abych ho určila přesně, bych potřebovala víc údajů." **RIMMER:** "Třeba?" **HOLLY:** "Hodil by se letošní kalendář!" *(jak určit historickou dobu)*
+- **KRYTON:** "Deodorant Roll-off - dopřejte si, …dopřejte si pot a zápach po čtyřiadvacet hodin." *(čte reklamu ze zpětného světa)*
+- **RIMMER:** "Kde ve zpětné realitě přijmou mrtvý hologram a android s hlavou jako hypermoderní kondom?" *(o hledání práce)*
+- **KOCOUR:** "Jsou fuč, brácho. Vem to z té lepší stránky... Jsou fuč, brácho!!!" *(o ztracených Rimmerovi a Krytonovi)*
 
-### Ep. 37 — Pekelne ostry vylet
-- **LISTER:** "Uz ani nevim, kdy jsem naposledy zkousel mocit na Rimmera z paluby D. Jo, pockat, v patek, ale s touhle jedinou vyjimkou jsem uz tak vyzralej jako Abraham Lincoln nebo Mojzis." *(Lister nataci lodni denik, uvaha o vlastni vyzralosti)*
-- **KRYTON:** "Je to zkomolenee, matouci a jeste nudnejsi nez palubni casopis belgickych aerolinek." *(Kryton o Listerove vysvetleni casovych paradoxu)*
-- **LISTER:** "Zivot bez kari, to je jako Laurel bez Hardyho, osamely jezdec bez tamtoho indiana." *(Lister truchlí nad znicenymi zasobami kari)*
-- **KOCOUR:** "Vsechny znaky tveho rukopisu." *(Kocour k Listerovi, kdyz Kryton oznaci jeho plan jako nezodpovedny, stupidni a absurdni)*
-- **KRYTON:** "Na to vem jed, vole!" *(Kryton bez cipu svedomi, souhlasi s vypraveou pro kari)*
-- **LISTER:** "Tohle neni obrovska pizza, pane." — "Ma prumer pres dva metry. To je ti malo? Do jaky pizzerie jsi chodil? Do italsky 'Obludarie'?" *(Lister se diva z okna Texaskeho knizniho skladu na misto atentatu na JFK)*
-- **KRYTON:** "Privedl jste dvacate stoleti na pokraj zahuby, pane. Zvejkacku?" *(Kryton bez svedomi, klidne komentuje katastrofu)*
-- **LISTER:** "...ja vim, nesehnal jsem to kari!" *(Lister o tom nejhorsim dusledku zmeny dejin)*
+---
 
-### Ep. 38 — Nachystejte kvetinace
-- **ESO:** "Stacilo jen vykloubit si obe ramena, hodit je za usi a vyklouznout z provazu." *(Eso Rimmer vysvetluje, jak se zbavil pout)*
-- **ESO:** "Princezna Bonjella? Eso Rimmer. Na vysvetlovani bude cas pozdeji, zrovna tak jako na sex." *(Eso zachranuje princeznu, akce a romantika v jednom)*
-- **RIMMER:** "Ne, dekuji. To bych si radsi pomazal genitalie rybi pastou a strcil je do tunky plne pirani." *(Rimmer na Esovu pozvánku k prochazce)*
-- **LISTER:** "Dyt ses fñukna, zbabelec, tupoun, ufnukanek, neurotik, krivak a ubozak a hlavne velkej kus vola. Neuraž se, ale vrat se na zem. I eunuch ma vetsi koule nez ty." *(Lister vysvetluje Rimmerovi, proc nemuze byt Eso)*
-- **ESO:** "Kapnul jsi na to. Tvuj mozek je rychlejsi nez decko po prvnim kari." *(Eso k Rimmerovi, ktery konecne pochopil, ze umira)*
-- **LISTER:** "Nesrovnaval bych Rimmera s knizkou, ta ma aspon nejakej hrbet." *(Lister o Rimmerovi)*
-- **KRYTON:** "No, o sedesat procent vic jako lasicka." *(Kryton o tom, jak Rimmer v prestroji za Esa mluvi trochu jinak)*
+### Ep. 14 — Trosečníci
+
+- **HOLLY:** "Pokud všechno klapne, sejdeme se na pouštním měsíci Sigma 14D." **LISTER:** "Ale co bude, když se něco zvrtne?" **HOLLY:** "Pak bude Červený trpaslík i jeho obsah slisován na velikost malého hrášku." *(o průletu černými dírami)*
+- **RIMMER:** "Velký? Je jako dva špatně zaparkované Volkswageny." *(o Listerově zadku)*
+- **RIMMER:** "Fantazie! To nemáš ponětí! Bentley V8 kabriolet! Luxusní vybavení. Překrásný stroj, překrásný." *(popisuje auto, ne sex — jak přišel o panictví)*
+- **LISTER:** "Byla tak hezká, a kdyby chtěla, mohla by pracovat jako prodavačka parfémů u Diora. Taková to byla krása." **RIMMER:** "Kolik ti bylo?" **LISTER:** "Dvanáct." *(šokující přiznání)*
+- **LISTER:** "Hrůza co všechno mi tady připomíná jídlo. I tyhle knížky: „Snídaně šampiónů", „Sklenka před večeří", „Balada o smutné kavárně", „Hledání ztraceného času"." *(vyhladovělý Lister)*
+- **RIMMER:** "Mayday! Mayday! Sedm týdnů po vzkříšení Krista! Sedm týdnů po vzkříšení Krista!" *(netuší, že mayday je z francouzštiny)*
+- **LISTER:** "Možná proto, že jsi byl dvorní eunuch Alexandra Velikýho." *(proč Rimmer ve dvanácti ještě neměl sex)*
+
+---
+
+### Ep. 15 — Polymorf
+
+- **KRYTON:** "Ovšem že mohu, pane, ale je zarážející, jak málo lidí ji má v oblibě." *(o šlehání španělské omelety přes tříselnou zásuvku)*
+- **KOCOUR:** "To je skalpel?! To si mám krájet jídlo skalpelem, který byl v něčích vnitřnostech!?" *(o Listerově chirurgickém nádobí na vaření)*
+- **LISTER:** "Vyrvu mu průdušnici a umlátím ho k smrti tim koncem, kde jsou mandle!" *(Lister zbavený strachu navrhuje strategii proti polymorfovi)*
+- **RIMMER:** "Tak, podle mě máme pouze dvě možnosti, za prvé: Chytit to a zabít; nebo za druhé: Utéct. Kdo je pro dvojku?" *(typický Rimmerův přístup k nebezpečí)*
+- **KRYTON:** "Řekněte mi, kdo je tohle? Vaše někdejší děvče, pane Arnolde?" **RIMMER:** "Sotva." **KRYTON:** "Ne, ne. Řekl bych, že to není váš typ - taková tupá, stará treska." **RIMMER:** "To je moje matka." *(Krytonovo fatální faux pas)*
+- **RIMMER:** "Nemůžu říct, že mě to zas tak moc šokuje... ty přeřízneš cokoliv, viď?!" *(vidí Krytona klečet mezi Listerovýma nohama s hadicí v rozkroku)*
+
+---
+
+### Ep. 16 — Výměna těl
+
+- **HOLLY:** "Prošla jsem celou databází a zvážila všechny možnosti a máme tři reálné alternativy. Zaprvé: sedět tady až to vybouchne. Za druhé: stát tady až to vybouchne. Zatřetí: poskakovat a řvát na mně že jsem neschopná, dokud to nevybouchne." *(tři možnosti při odpočtu autodestrukce)*
+- **KOCOUR:** "Ještě že jsi si nedal dvojtej čísburger." *(poté co Lister aktivoval autodestrukci objednávkou u automatu)*
+- **RIMMER:** "Minulý týden, jak ve strojovně zhaslo světlo, se na zdi odrážela tvoje silueta. Vyděsila mně k smrti. Myslel jsem, že je to Alfred Hitchcock." *(o Listerově hmotnosti)*
+- **RIMMER:** "Máš na sobě víc sádla, než u řezníka za výlohou." *(pokračuje v urážkách Listerovy váhy)*
+- **LISTER:** "Svoje tělo ti nepučím ani za zlatý prase." *(odmítá Rimmerův návrh na výměnu těl)*
+- **RIMMER:** "Ty jsi nikdy na přírodopise nedržel žábu za hlavu? Víš, jak je to její bříško vyboulené nad hubenými nožičkami. To je obrázek, jenž vidím, když ráno seskakuješ z palandy." *(popisuje Listerovu postavu)*
+
+---
+
+### Ep. 17 — Fotostroj času
+
+- **LISTER:** "Já chci žít, já chci pracovat, bejt mezi lidma. Chci chodit na rande, chci se milovat!" **KOCOUR:** "Ze mě nevyrazíš nic lepšího než „Malýho rybáře"!" *(Kocour nabízí deskovou hru jako náhražku)*
+- **RIMMER:** "Jak je to možné? Největší kráska na západní polokouli a Pašík Holden, uhrovitý prťavý krypl, který odfoukl peřinu, když si dal k večeři květák!" *(o spolužákovi, který se oženil s modelkou)*
+- **LISTER:** "S Charlesem Keeganem. Ten byl docela slavnej." **RIMMER:** "Čím se proslavil?" **LISTER:** "Zabil svojí ženu." *(o slavném spolužákovi)*
+- **KRYTON:** "Nesmím zapomenout: vypnout plyn, zaplatit účty, napadnout Československo." *(čte z Hitlerova deníku)*
+- **MLADÝ LISTER:** "Co o tom víš, dědku!?! Seš moc starej na to, abys chápal, co chcem sdělit!" *(sedmnáctiletý Lister svému budoucímu já)*
+- **LISTER:** "Jak to říct, abych tě neurazil? Nebudeš slavnej, protože... umíš hovno!" *(Lister svému mladšímu já)*
+- **RIMMER:** "To je Norimberk a Adolf Hitler! Jeho tým skončil druhý ve druhé válce." *(komentuje historickou fotku)*
+
+---
+
+### Ep. 18 — Poslední den
+
+- **KRYTON:** "Lidské nebe? Co Vás nemá. Lidé nepřijdou do nebe! Ne. To si jenom, jenom někdo vymyslel, abyste se všichni nezbláznili!" *(o lidském posmrtném životě)*
+- **LISTER:** "Nejsem fénteista! Stroje nemaj duši. Kompjůtry a kalkulačky nepřijdou do nebe. Neexistujou fény s křidýlkama, co seděj na obláčku a hrajou na harfu!" *(odmítá křemíkové nebe)*
+- **KRYTON:** "Jak je přece psáno v Elektronické bibli: „Vlak bude pobývat s větrákem."" *(cituje robotí písmo)*
+- **RIMMER:** "Dělal jsem na Lince důvěry." **LISTER:** "Já vim. Jedno dopoledne." **RIMMER:** "Déle jsem to nevydržel." **LISTER:** "Nedivím se ti. Volalo ti pět lidí a všichni spáchali sebevraždu. A to si jeden chudák splet` číslo! Volal si o výsledky kriketu." *(o Rimmerových poradenských schopnostech)*
+- **RIMMER:** "Klidně si oba vemte moji. Všichni ostatní už ji měli!" *(nabízí svou matku, když Kryton a Holly lamentují, že nikdy neměli maminku)*
+- **RIMMER:** "Vířiví adventisté sedmého dne. Věřili, že musíš každou neděli vířit." *(o rodičích a jejich náboženství)*
+- **KRYTON:** "Vtip, kameňákový vtip." *(poté co řekl Listerovi, že jako jeho majitel musí zemřít s ním)*
+- **RIMMER:** "Jen to, že je tu velmi reálná možnost, že tví rodiče byli bratr a sestra." *(Listerovi o jeho původu)*
+
+---
+
+## Série IV-VI (ep. 19-36)
+## Série IV
+
+### Ep. 19 — Kamila
+- **KRYTON:** "To je... to je... to je... pomocník tasmánského policisty mimo službu." *(učí se lhát, místo "banán" říká nesmysl)*
+- **KRYTON:** "To je červenomodrý golfový deštník!" *(pokračuje v lhaní, pomeranč nazývá deštníkem)*
+- **LISTER:** "Hele, naučím tě lhát a podvádět za každou cenu. Naučím tě být protivný, krutý a kousavý. Jedině takhle nabouráme tvůj program a pak budeš nezávislej!" *(motivační řeč Krytonovi)*
+- **KRYTON:** "Jsem Vám skutečně vděčný, ani nevíte, jak rád bych byl prolhaný, protivný a úrážlivý. Tyhle lidské vlastnosti obdivuju nejvíc." *(upřímně obdivuje lidské neřesti)*
+- **KOCOUR:** "Já jsem objekt své vlastní touhy?" *(když Kamila nabere jeho podobu)*
+- **RIMMER:** "Ty? Ovšemže ne. Ty vypadáš jako okousaná tužka s gumou na konci." *(Krytonovi, když se ptá, jestli se Rimmerovi líbí)*
+- **KOCOUR:** "Hezká?! Vypadá jako něco, co ukáplo Sfinze z nosu!" *(o pravé podobě Kamily — zelené slizce)*
+- **KRYTON:** "Jistě, nikdy nebudeš na titulní stránce Vogue - ale to ani já!" *(utěšuje slizku Kamilu)*
+
+### Ep. 20 — D.N.A.
+- **KOCOUR:** "Jóó? A kvůli ufounům mám vypadat jako Frankensteinova nevěsta?" *(odmítá odpojit fén kvůli sledování UFO)*
+- **RIMMER:** "Otázka zní: opravdu to chcem?" *(o vrácení Listera ze slepice do lidské podoby)*
+- **KRYTON:** "Takže, ehh, můj optický systém nemá funkci zoom. Co vy na to?" *(jako čerstvý člověk se ptá Listera na lidské oči)*
+- **KRYTON:** "Ale nyní, ať s nimi kroutím sebevíc, nemůžu žádnou jazzovou stanici chytit." *(o lidských bradavkách, které nefungují jako rádio)*
+- **KRYTON:** "Je to ohavné! Tohle je nejlepší model, co vymysleli?" *(o lidském penisu)*
+- **LISTER:** "Fotit si to a ukazovat kamarádům? Né, to není!" *(Krytonovi, který mu ukazuje fotku svého penisu)*
+- **RIMMER:** "Né, to byl Pepek námořník." *(opravuje Listera, který přisuzuje citát "Jsem to, co jsem" Descartesovi)*
+- **KOCOUR:** "Já??? To má být fór? Spousta lidí odkazuje své tělo lékařské vědě, já to svoje přenechám Louvreu, zlato!" *(o DNA přístroji a vylepšení těla)*
+
+### Ep. 21 — Spravedlnost
+- **KOCOUR:** "Moh` bys jít na rande se Sloním mužem a on bude ten hezoun." *(Listerovi o jeho oteklé hlavě)*
+- **KRYTON:** "Ten základní je v tom, že android by nikdy neurval člověku hlavu a nenaplil mu do krku." *(vysvětluje rozdíl mezi androidem a replikantem)*
+- **HOLLY:** "Ale jistě. Stačí, když počkáte čtyřiadvacet hodin, a když budete mít údy roztroušené v kosmu a krk plný slin, tak bude zřejmé, že nešlo o Barborku." *(o zjištění, kdo je v modulu)*
+- **KOCOUR:** "Ale co teď? Uvnitř modulu je buď smrt nebo rande. Pokud jde o mne, jsem připraven to risknout." *(o záchranném modulu s neznámým obsahem)*
+- **KRYTON:** "Byl řadový letecký mechanik, nula, nicka, chrchel plovoucí v toaletní míse života." *(obhajoba Rimmera u soudu)*
+- **KRYTON:** "Člověk tak strašlivě hloupý, že má námitky i proti svému obhájci." *(pokračuje v obhajobě)*
+- **KRYTON:** "Kdo by dovolil tomu muži, této karikatuře muže, jež by nepřelstila ani čajový pytlík, aby získala postavení, z něhož by mohla ohrozit posádku? Kdo? Jedině tak jogurt." *(závěrečná řeč obhajoby)*
+- **RIMMER:** "Námitka!" **KRYTON:** "Pane, proti čemu namítáte teď?" **RIMMER:** "Žádám omluvu." *(po osvobozujícím verdiktu)*
+
+### Ep. 22 — Bílá díra
+- **TOASTOVAČ:** "Tě péro, sombréro! Tak co život!? Já jsem švitorka - švitořící toastovač, váš veselý společník u snídaně." *(první slova opraveného toastovače)*
+- **LISTER:** "Nechceme žádný muffiny, ani toasty, koláčky, žádný žemle, briošky, bagety, ani buchty, žádný veky, ani loupáky a palačinky, bramborový placky, žádný teplý jidáše a už vůbec ne nějaký pitomý lívance!" **TOASTOVAČ:** "Ahá, takže ty jsi na vafle!" *(toastovač nepřestává nabízet pečivo)*
+- **HOLLY:** "Já jsem počítač s IQ 12 000. Asi to nechápeš, ale já znám smysl celého vesmíru!" **TOASTOVAČ:** "Na tohle jsem se tě neptal." *(dialog geniální Holly s toastovačem)*
+- **TOASTOVAČ:** "Za předpokladu, že Bůh je nekonečný a vesmír je taky nekonečný… dala by sis palačinku?" *(pseudo-filozofická otázka)*
+- **KRYTON:** "Áh, vynikající návrh, pane, ale se dvěma drobnými nedostatky. Za prvé: nemáme zdroj energie pro lasery a za druhé: nemáme žádné lasery." *(Kocourovi na návrh propálit se laserem)*
+- **RIMMER:** "Ano, ale Rimmerova direktiva 271 říká stejně jasně: «Ani náhodou, ty zmetku plechovej!»" *(odmítá obětovat se za posádku)*
+- **KOCOUR:** "Ne, obětoval bych tvůj v zájmu posádky." *(Rimmerovi, zda by obětoval svůj život)*
+- **LISTER:** "U nás v putyce jsem byl pro všechny Dave «Cinzano Bianco» Lister, protože jsem byl furt nalepenej na stole." *(o svých kulečníkových schopnostech)*
+
+### Ep. 23 — Jiná dimenze
+- **RIMMER:** "Bavím se historkami o tom, jak jsem byl tajemníkem společnosti Hammondových varhan. S váma to nehne. Zvu vás na přednášku o své sbírce telegrafních sloupů 20. století. Vždycky se na něco vymluvíte!" *(stěžuje si, že ho nikdo nemá rád)*
+- **LISTER:** "Nezlob se, Rimmere. Víš, že seš oblíbenej jako nadrženej pes na přehlídce koček?" *(co by mu rád řekl)*
+- **ESO:** "Nadsvětelka? Jako jankovitá kobyla na letní louce." *(Eso Rimmer o své zkušební lodi)*
+- **BONGO:** "Nejsem. Pětatřicet let jsem šťastně ženatej. Jen chlap jako ty zamotá člověku hlavu." *(nabízí se Esovi)*
+- **KOCOUR:** "Á, je to zlý. Víš, jak to myslím. Červená s meruňkovou. Vypadám jako buran. Krvácím v nemoderní barvě." *(o svém zranění — barva krve je nemódní)*
+- **RIMMER:** "«Kapitán Rimmer»! To určitě. «Eso»! Mě neoblafne. Dám na to krk, že nosí dámské prádlo." *(žárlivě o svém alternativním já)*
+- **ESO:** "Promiň mi to, Dave, teď se zachovám jako srab. Omdlím." *(drží Listera za zlomenou ruku v bouři)*
+
+### Ep. 24 — Roztavení
+- **LISTER:** "Nikoho nezajímá tvoje pitomá historka o tom, jak jsi to nandal v kostkách svýmu učiteli na kadetce." **RIMMER:** "A najednou zvrat!" *(Rimmer nedá pokoj s historkou o hře v kostky)*
+- **RIMMER:** "Hodil jsem pětku a dvojku." **LISTER:** "A tohle má bejt to nejlepší?" **RIMMER:** "Nejlepší bylo, že mě za to poslal do Ruska." *(pointou nekonečného vyprávění je hod kostkou)*
+- **KRYTON:** "Doporučuji vzít nohy na ramena. Navrhuji pelášit tak rychle, jak to jen místní gravitace dovolí." *(po přistání na neznámé planetě)*
+- **KOCOUR:** "Tenhle chlap, že je transvestita?" **LISTER:** "Jo." **KOCOUR:** "S takovým zadkem?" *(o Göringovi)*
+- **LISTER:** "Přivazujou ho ke kůlu. To je Medvídek Pú!" *(šokovaně pozoruje popravu ve Voskovém světě)*
+- **KRYTON:** "Tři už se roztekli vyčerpáním." *(Rimmerovi o jeho armádě z voskových figurín)*
+- **RIMMER:** "Ve válce jsou vždycky ztráty, pánové. Jinak by nešlo o válku, ale jen o ostřejší při se šťouchanci a strkanci." *(o masakru své armády)*
+
+## Série V
+
+### Ep. 25 — Hololoď
+- **RIMMER:** "Syn tesaře, který se naučí různým trikům a neudělá kariéru v show-byznysu? Tak tomu by neuvěřilo ani pětileté děcko." *(o Ježíšovi ve filmu Král králů)*
+- **CRANEOVÁ:** "Tvé milování je jak japonské jídlo: malé porce, ale tolik chodů." *(hodnocení Rimmera v posteli)*
+- **BINKS:** "Lidská bytost, nebo něco jí velmi velmi podobné. Kalendářní věk: tak pětadvacet, biologický věk čtyřicetsedm. Trpí nadváhou a je zbytečně ošklivý." *(holografický průzkumník o Listerovi)*
+- **LISTER:** "Lister Červenému trpaslíku. Viditelné známky potřeby dostat přes držku. Nechápe ani jednoduché výhružky." *(paroduje Binkse)*
+- **KRYTON:** "To je přímo vynikající návrh. Má jen dvě drobné vady. Za prvé: žádné obranné štíty nemáme a za druhé: nemáme žádné obranné štíty. Teoreticky jde o jednu vadu, ale považoval jsem ji za tak významnou, že jsem ji uvedl hned dvakrát." *(o návrhu spustit obranné štíty)*
+- **KOCOUR:** "Tak rychle pryč, než nám ho vrátěj!" *(reakce na únos Rimmera)*
+- **RIMMER:** "Dvakrát denně? To se někomu nepodaří za celý život!" *(o povinném sexu na hololodi)*
+
+### Ep. 26 — Inkvizitor
+- **LISTER:** "A ty se jednou ráno probuděj a Řekové jsou v tahu. A hned za městskejma branama nechali ten dar; výraz úcty ke svejm sokům: ohromnýho koně, dost velkýho na to, aby se do něj vešlo pět set Řeků v plný zbroji a ještě zbylo dost místa na hygienický zařízení." *(o trojském koni)*
+- **KRYTON:** "Jen různé mýty; děsivé příběhy; strašidelné historky, jež se vyprávějí u blikajícího ohně o půlnoci, vždy když se sejdou ošlehaní vesmírní vlci a při lahvince se předhánějí v příhodách, při nichž krev tuhne v žilách!!!" **RIMMER:** "Stačilo by říct normálně «ano»." *(o Inkvizitorovi)*
+- **RIMMER:** "Proč mi tohle někdo neřekl dřív? Kdybych věděl hned od začátku, že má člověk žít užitečný život, mohl jsem s tím něco udělat!" *(o kritériích Inkvizitora)*
+- **RIMMER:** "Nemoh` jsem být jiný. Můj otec byl šílený zkrachovalý voják, matka semetrika ze Semetrikova. Mí bratři měli krásu i talent. A co jsem měl já? Střapaté vlasy a zarůstající nehty. Ano, přiznávám, že jsem nula. Ale vzhledem k mému zázemí je nula pokrok." *(obhajoba před Inkvizitorem)*
+- **KOCOUR:** "Dal jsem světu potěšení ze svého půvabného těla!" **INKVIZITOR:** "To je pravda." **KOCOUR:** "Už můžu jít?" *(Kocourova obhajoba existence)*
+- **LISTER:** "Polib mi." *(odpověď Inkvizitorovi na výzvu k ospravedlnění)*
+
+### Ep. 27 — Psychoteror
+- **KRYTON:** "Moje krátkodobá paměť byla zcela vymazána. Tuto skutečnost připisuji působení magnetických cívek ze zadního motoru Kosmiku. Za druhé, ea... následkem působení magnetických cívek byla zřejmě vymazána moje krátkodobá paměť." *(nahrává záznam do černé skříňky se smazanou pamětí)*
+- **LISTER:** "> Nemyslí mi to. V mejch slabinách si buduje domeček tarantule s okem velkým jako karbanátek. Pomoz mi." *(píše na počítači, protože má Krytonovu ruku v kalhotách)*
+- **KOCOUR:** "> Má oko velký jako karbanátek." *(píše na počítači o "tarantuli")*
+- **KOCOUR:** "> TY máš nahnáno? Jak myslíš, že je mně?" **KOCOUR:** "> Tys ji NEVIDĚL!!" *(psaná konverzace o strachu)*
+
+### Ep. 28 — Karanténa
+- **RIMMER:** "Vypusť skauta." *(opakuje rozkaz, ale všichni ho ignorují — teprve Kryton ho zdvořile zopakuje)*
+- **KRYTON:** "To je ma... To je ma... To je ma - góóóóóór." *(konečně se odváží říct Rimmerovi urážku)*
+- **LANSTROMOVÁ:** "Nazdárek. Jmenuju se doktorka Hildegard Lanstromová a jsem úplně šílená." *(představuje se přes vysílačku)*
+- **LANSTROMOVÁ:** "Mám pro tebe hádanku. Co je mrtvé a mrtvé a dočista mrtvé?" **RIMMER:** "Dám se podat, paní doktorko Šáhlá." **LANSTROMOVÁ:** "Tyyyyyyyyyyy!!!" *(šílená hologramová vědkyně)*
+- **RIMMER:** "Říkám ti, Kryton tady přebírá moc. Pomalu, ale jistě. Pamatuješ si, jaký býval? Ublafaná ruina, neasertivní, nulové sebevědomí, výčitky svědomí, s duchem podřazenosti. Tehdy jsem ho měl moc rád." *(nostalgicky o starém Krytonovi)*
+- **RIMMER:** "Všechno, jak má být?" *(s širokým úsměvem, když slyší, že jsou v nebezpečí)*
+
+### Ep. 29 — Démoni a andělé
+- **RIMMER:** "Pokud se uděluje Nobelova cena v oboru ovoce, tak budete pro letošek horkými kandidáty." *(o triplikátoru, který rozmnožil jahodu)*
+- **LISTER:** "Reálná šance, že vybouchne, je jedna ku …" *(Červený trpaslík vybuchne)* "… jedný!" *(komentuje výbuch lodi)*
+- **RIMMER:** "Nás se to vlastně netýká, že ano? Kdybychom vyhodili jejich mrtvoly do vesmíru, při snížené hmotnosti, doletíme ten asteroid." *(šeptá Krytonovi svůj plán zbavit se Listera a Kocoura)*
+- **RIMMER:** "Máte to snad písemně?" *(na heslo "Jeden za všechny, všichni za jednoho")*
+- **LISTER:** "Jsi krysa, Rimmere. A podvraťák! Ty seš slizkej had s morálkou kudlanky nábožný." *(Rimmerovi o jeho záchranném plánu)*
+- **KOCOUR:** "Extrapolárka? Kamaráde, ty nemůžeš být moje součást. Žádná moje součást by nenosila sandály." *(o svém vznešeném já)*
+- **RIMMER:** "To tedy byl! Měl dlouhé vlasy, nepracoval - co chceš víc?" *(o tom, zda byl Ježíš hippík)*
+
+### Ep. 30 — Návrat do reality
+- **KOCOUR:** "Neplavou ryby na zimu na jih?" **KRYTON:** "Ne, to jsou ptáci, pane." **KOCOUR:** "Ptáci plavou na jih?! A jakpak dýchají?" *(zmatená debata o migraci)*
+- **KOCOUR:** "Ten spáchal sebevraždu, ten spáchal sebevraždu, ten spáchal sebevraždu a ryba spáchala sebevraždu. Je tady nějaká souvislost, na kterou nemůžu kápnout." *(pátrá po vzorci na ztroskotané lodi)*
+- **LISTER:** "Proč by se treska sebevraždila? Bože, na co se to vůbec ptám?" *(zpochybňuje vlastní otázku)*
+- **RIMMER:** "Lhal jsem vám. Je to jenom tisíc sáhů." *(přiznává, že zmenšil vzdálenost olihnně)*
+- **KOCOUR:** "Nechat se vojet olihní na prvním rande? Jak bysme se ráno cejtili?" *(o možnosti, že je oliheň chce "přeříznout")*
+- **ANDY:** "Propásli jste ji?! No to je teda skandál! Jsou maníci, co tam zkejsnou kolik let." *(o planetě nymfomanek, kterou posádka minula)*
+
+## Série VI
+
+### Ep. 31 — Psirény
+- **KRYTON:** "Studená omáčka vindaloo." **LISTER:** "Já piju k snídani studenou kari omáčku?" **KRYTON:** "To záleží na náladě. Když se vzbudíte odpoledne, začínáte den zvětralým pivem z minulého večera, a proto máte u postele sítko na čaj, abyste mohl procedit cigaretové špačky." *(popis Listerových zvyků po probuzení z hibernace)*
+- **LISTER:** "Jsem zvíře. Jsem nechutnej, neotesanej, pologramotnej, nemuzikální, chlípnej, tupej kosmickej vágus." **KRYTON:** "Á, vítejte zpátky, pane Listere!" *(Lister si vzpomíná, kdo je)*
+- **KOCOUR:** "Kočky mají jedno pořekadlo: «Je lepší žít hodinu jako tygr, než celej život jako červ.»" **RIMMER:** "Lidé mají taky pořekadlo: «Kdo viděl předložku z červí kůže?»" *(výměna mouder)*
+- **KRYTON:** "Lhací režim. Ovšem, že to vyjde, žádný strach." *(zapne lhací režim, aby uklidnil posádku před střelbou na meteor)*
+- **KOCOUR:** "Já teda nechápu, proč si dal tu práci a udělal tečku svou vlastní ledvinou." **RIMMER:** "Řek` bych, že to nebylo úmyslné. Prostě tam přistála." *(o mrtvém, který napsal varování vlastní krví)*
+
+### Ep. 32 — Legie
+- **KRYTON:** "Zásoby potravin se nám nepříjemně tenčí. Vodu jsme už recyklovali tolikrát, že chutná jako holandský ležák." *(o stavu zásob)*
+- **KRYTON:** "34123? «Se zubní protézou se nevěnujte orálnímu sexu při stavu beztíže.»" *(cituje direktivu, kterou Rimmer neuměl)*
+- **RIMMER:** "Pověřený vyšší důstojník Arnold J. Rimmer z Jupiterské důlní společnosti se hlásí z lodi Kosmik. Dávejte pozor, nebudeme to opakovat: Vzdáváme se bez jakýchkoli podmínek, děkujeme." *(bezpodmínečná kapitulace neznámé střele)*
+- **RIMMER:** "Jako generál George Patton věřím v reinkarnaci. A jsem pevně přesvědčen, že jsem byl ve všech svých minulých životech vojákem, chrabrým válečníkem, jenž bohužel v této inkarnaci dostal tělo bídného poseroutky." *(vysvětluje svou zbabělost)*
+- **KRYTON:** "Pane, nejlépe bude, když mě nabijete do zpětných trysek a potom mé tělo použijete jako živou střelu. Následkem čehož bych byl rozprášen po vesmíru a nemohl dokončit velké prádlo, za což se vám předem omlouvám." *(nabízí se jako střela)*
+- **LISTER:** "To měl i albánskej státní podnik na pračky." *(o vyspělejší technologii cizinců)*
+
+### Ep. 33 — Pistolníci z Apokalypsy
+- **LISTER:** "Nikdy se nezabouchnu do tý pravý. Buď mi zlomí srdce, nebo je to normální zrůda." *(o své lásce k virtuální vražedkyni)*
+- **RIMMER:** "Wimbledon hraješ jen proto, že tam klátíš holku pod zákonem." **LISTER:** "To je další hnusná lež. Není pod zákonem, je jí sedumnáct." *(o Listerových virtuálních hrách)*
+- **RIMMER:** "Ne, to co od nás čekají je, že se změníme v bruslící lemury a zatančíme bolero. A tvůj plán má asi stejný smysl." *(o Kocourově návrhu zaútočit na replikantskou loď)*
+- **KRYTON:** "362358892 mezera B? «Všechny národy na konferenci mají nárok pouze na jedno parkovací místo.»? Stojíme právě tváří v tvář smrti a Vás trápí, že čínští delegáti přijeli ve dvou autech?" *(Rimmer cituje špatnou direktivu)*
+- **LISTER:** "Já jsem Targa Dall. Vyslanec Vindalooského impéria." *(převlečen za mimozemšťana s bradou nahoře a Krytonovým okem na bradě)*
+
+### Ep. 34 — Emocuc (Polymorf II)
+- **LISTER:** "Hele, to není špatný. Stáhli bysme to na 16, kdybychom vynechali ten čtvrtej toast." *(o rekordním čase 1 hodina 17 minut na poplach prvního stupně)*
+- **RIMMER:** "Tak jak to, že americká kavalerie porazila Indiány? Krátký sestřih versus hippísácké kadeře. Kavaleristé proti puritánům - 1:0 pro mamlasy. Vietnam - ježek na obou stranách... takže remíza." *(Rimmerova teorie o účesech a bitvách)*
+- **KRYTON:** "68250? Ale to je vyloučeno. Ledaže máte jedno živé kuře a rabína." *(další špatně citovaná direktiva)*
+- **LISTER:** "Budeme sebou házet jako kapka potu mezi půlkama cvičitelky aerobiku." *(o blízkosti nepřátelské lodi)*
+- **KRYTON:** "Jsme asi tak nevinní jako šlapky před penzí." *(o obvinění z rabování lodí)*
+- **LISTER:** "Volně přeloženo: Šlápni na to." *(překládá pozpátku mluvící policejní sondu)*
+- **HLAS PŘEKLADAČE:** "Tohle je gelfský prostor! Smrt cizincům!!!" *(překlad gelfské ikony)*
+
+### Ep. 35 — Rimmerosvět
+- **KRYTON:** "Jste silný jedinec, který chce slyšet celou pravdu v její nemilosrdné nahotě, či patříte k těm slabším, co dávají přednost blahé nevědomosti o té hrůze, před níž stojíte?" **RIMMER:** "Nevědomost, vždy a všude." *(před sdělením zdravotních výsledků)*
+- **KRYTON:** "Vaše T-hodnoty, které jsou ekvivalentem krevního tlaku, jsou vyšší než u hippíka třetí den rockového festivalu." *(o Rimmerově stresu)*
+- **KOCOUR:** "Kočky mají jedno rčení: «Chceš-li jíst rybu, počítej s kostmi.»" **RIMMER:** "Lidé mají rčení: «Když chceš blábolit, počítej s bolestí.»" *(výměna mouder, podruhé)*
+- **RIMMER:** "Kdybych chtěl žít ve stavu věčných muk já, tak nechám Listera hrát na kytaru." *(o mučení replikantských zajatců)*
+- **RIMMER:** "Rád bych si něco ujasnil. Když narazíme na ty vyšinuté zabijáky, tak se s nimi dáme do boje potichu? Šeptnem «vpřed» a po špičkách k nim doběhnem s pokřikem «pššš» a pak je udusíme v Listerově podpaží?" *(o tiché bojové taktice)*
+- **KOCOUR:** "Celkově vzato stoprocentně úspěšný výlet." **KRYTON:** "Ale přišli jsme o pana Rimmera!" **KOCOUR:** "Celkově vzato _stoprocentně_ úspěšný výlet!" *(po útěku z replikantské lodi)*
+- **RIMMER:** "To nebyl jediný způsob, ale nakonec proč ne. No, doufám, že nikdo nezapomněl na neochvějnou zmužilost a dechberoucí chladnokrevnost té diverzní části plánu." *(vysvětluje svůj "hrdinský" útěk v únikovém modulu)*
+
+### Ep. 36 — Mimo realitu
+- **RIMMER:** "Víte, z čeho je mi u Listera opravdu na blití? Kvůli čemu mám hroznou chuť vypíchnout mu obě oči? Kvůli všemu! Tak je to." *(porada o morálce, kde Rimmer jen nadává)*
+- **LISTER:** "Vyrval ledničku ze zdi a chtěl ji zasunout do mě." **KRYTON:** "Čím jste ho tak rozladil?" **LISTER:** "Vůbec ničím, hleděl jsem si svýho a vytrhával si přerostlý chloupky z nosu kuchyňskejma kleštěma." *(o Rimmerově nervovém zhroucení)*
+- **KRYTON:** "Nóó, v zásadě jen to, že já budu v kokpitu vpředu, a ty máš na starost špínu." *(Listerovi poté, co zjistí, že je "android")*
+- **KRYTON:** "Říká se: «Proč, pane Krytone.» … Tomuhle říkáš trojúhelníkové sendviče? Použil jsi úhloměr?" *(šikanuje "androida" Listera)*
+- **KOCOUR:** "Všichni čtyři! Ehh ... jsme čtyři! Kluci, já jsem tady! Jste slepí a hluchý!" *(Kocour je neviditelný a neslyšitelný kvůli bublině nereálna)*
+
+---
+
+## Série VII-VIII (ep. 37-52)
+---
+
+### Ep. 37 — Pekelně ostrý výlet
+
+- **KRYTON:** "Je to zkomolené, matoucí a ještě nudnější než palubní časopis belgických aerolinií." *(komentuje Listerovo vysvětlování časových paradoxů)*
+- **LISTER:** "Život bez kari, to je jako Laurel bez Hardyho, osamělý jezdec bez tamtoho indiána." *(truchlí nad ztrátou zásob kari)*
+- **KOCOUR:** "Všechny znaky tvého rukopisu." *(komentuje Krytonovo hodnocení Listerova plánu jako nezodpovědného, stupidního a absurdního)*
+- **KRYTON:** "Kauzalita. No dobře. Jedna věc vede k druhý, to jo! Ale občas je potřeba si říct: Zákony času a prostoru jsou pěkný hovadiny!" *(Kryton bez čipu svědomí)*
+- **KRYTON:** "Na to vem jed, vole!" *(Kryton bez čipu svědomí souhlasí s výletem do historie)*
+- **LISTER:** "Jak může někdo po letišti pojmenovat svoje dítě?" *(o JFK)*
+- **RIMMER:** "Skvělé přistání, Krytone. Asi tak jemné, jako egyptská whisky." *(po příletu do Dallasu 1963)*
+- **KRYTON:** "Přivedl jste dvacáté století na pokraj záhuby, pane. Žvejkačku?" *(sděluje Listerovi důsledky jeho jednání)*
+- **KOCOUR:** "Mně je fuk, kam to bude. Hlavně tam, kde jsme ještě nevečeřeli." *(po zjištění, že jedli člověka)*
+
+---
+
+### Ep. 38 — Nachystejte květináče
+
+- **ESO:** "Princezna Bonjella? Eso Rimmer. Na vysvětlování bude čas později, zrovna tak jako na sex." *(zachraňuje princeznu)*
+- **ESO:** "Když tě vidím, tak mi je hned líp, brachu. To je tvůj nový oblek? Má větší říz než celá stránka nejlepších bonmotů Oscara Wildea pokapaná citrónem a vražená někomu do oka." *(zdraví Kocoura)*
+- **RIMMER:** "Ne, děkuji. To bych si radši pomazal genitálie rybí pastou a strčil je do tůňky plné piraní." *(odmítá procházku s Esem)*
+- **LISTER:** "Nesrovnával bych Rimmera s knížkou, ta má aspoň nějakej hřbet." *(o Rimmerovi)*
+- **LISTER:** "Neber si to nějak zle, ale ty na to prostě nemáš. Dyť seš fňukna, zbabělec, tupoun, ufňukánek, neurotik, křivák a ubožák a hlavně velkej kus vola. Neuraž se, ale vrať se na zem. I eunuch má větší koule než ty." *(o Rimmerových šancích stát se Esem)*
+- **ESO:** "Tvůj mozek je rychlejší než děcko po prvním kari." *(chválí Rimmera, že pochopil, že umírá)*
+- **RIMMER:** "Ne, tady musím začít, abych se stal jódlujícím bernardýnem." *(o esovském výcviku v horách)*
+- **KRYTON:** "No, o šedesát procent víc jako lasička." *(hodnotí, jak Rimmer předstírající Esa zní jinak)*
+
+---
 
 ### Ep. 39 — Uroboros
-- **KRYTON:** "Ukažte mi to. Vždyť jsem android pro Boha svateho. Mne se jen tak neco nezhnusi." — "Pane Boze! To je hnus!" *(Kryton chce videt Listeruv chybejici zub, okamzite toho lituje)*
-- **RIMMER:** "K tobe by se hodilo jmeno 'Tiffany'. Zena, co pije Campari se sodou a nosi kalhotky s dirou v rozkroku." *(Rimmer popisuje typ zeny, ktera by se hodila k Listerovi)*
-- **LISTER:** "Ty, co rikaj 'ha ha ha', nemaj smysl pro humor. Nikdy je totiz nepadne vtipna odpoved." — **RIMMER:** "Ha ha ha." *(Rimmer potvrzuje Listerovu teorii)*
-- **KOCHANSKÁ:** "Vyspete se s nekym, to je rozkaz." *(Kochanska k Rimmerovi po jeho navrhu na novy pozdrav Kosmickeho sboru)*
-- **KRYTON:** "Ta spojnice je stabilni asi jako italsky taxikar, ktery musi jet za fararem ve skodovce." *(Kryton o nestabilite tunelu mezi dimenzemi)*
-- **LISTER:** "Skoro jako Rimmeruv varhanni recital." *(Lister o neprostoru — propasti absolutni prazdnoty, kde cas neexistuje)*
 
-### Ep. 40 — Zkouska kanalem
-- **LISTER:** "Mocit ci nemocit... to je ta otazka." *(Lister o zakladnim lidskem dilematu v horku)*
-- **KRYTON:** "To jsou veci! Princezna Leia. Pan Skywalker sel tudy, madam." *(Kryton ke Kochanske, ktera prijde s boulemi ponozek na usich)*
-- **KOCHANSKÁ:** "Reknu ji: 'Sklenicko kakaa, dostan me odsud pryc!'" *(Kochanska na otazku, co by rekla sklenicce kakaa)*
-- **KRYTON:** "Neni pro nej dost dobra! ... nepotrebuje pobehlice, co preskakuji z dimenze do dimenze a obluzuji ho temi ducpartiemi, co jsou spicate a zbytecne." *(Kryton zarlive o Kochanske)*
-- **KOCHANSKÁ:** "Nikdy jsem se na nej nedivala, jako by byl kozi syr s kousky ananasu! Mozna jednou, dvakrat jako na kozi syr, ale nikdy, *nikdy* s kousky ananasu!" *(Kochanska popira sve city k Listerovi)*
-- **KRYTON:** "Chvilecku, prosim. Jen si tu historku ulozim pod 'V' do 'Vydirani' a 'A' — 'Anekdoty', pod kategorie 'T' — 'Tak smesne, ze se smichy potrhas'." *(Kryton po tom, co se Kochanska podrekla o 'rezave brance')*
-- **KOCHANSKÁ:** "Rekni 'nurik'." — **KRYTON:** "'Nurik'." — *Rana.* — **KOCHANSKÁ:** "Rekni 'rutat'." — **KRYTON:** "'Rutat'." — *Rana.* *(Kochanska se msti Krytonovi za noc plnou hluku z trubek)*
+- **KRYTON:** "Pane Bože! To je hnus!" *(podívá se Listerovi do úst po ztrátě korunky)*
+- **KRYTON:** "Tak to Vám příroda sděluje, že si už máte koupit řidičské rukavice." *(o chloupkách v nose)*
+- **LISTER:** "Tohle letí rychlejc než porno časopis v klášteře." *(o rychlosti trhliny)*
+- **RIMMER:** "Neříkal jsem, že je mezi vámi společenská propast? Vem si to: navigační důstojník, kadetka, Vesmírný sbor, umí se vyjadřovat, neusne během opery, vyzná se v sýrech. Je na úrovni. A ty? Kdo jsi ty? Nechci být krutý, ale ve srovnání s ní jsi póvl. A to druhořadý." *(o Kochanské a Listerovi)*
+- **LISTER:** "Jo, ale bejval jsem čtvrtořadej póvl a vyšvih` jsem se vo dvě třídy vejš." *(odpověď Rimmerovi)*
+- **RIMMER:** "K tobě by se hodilo jméno „Tiffany". Žena, co pije Campari se sodou a nosí kalhotky s dírou v rozkroku." *(popisuje ideální ženu pro Listera)*
+- **KOCHANSKÁ:** "Rimmere? Vyspěte se s někým, to je rozkaz." *(odmítá Rimmerův návrh nového pozdravu)*
+- **LISTER:** "Ty, co říkaj „ha ha ha", nemaj smysl pro humor. Nikdy je totiž nenapadne vtipná odpověď." *(Rimmerovi)*
+- **KRYTON:** "Opatrně. Ta spojnice je stabilní asi jako italský taxikář, který musí jet za farářem ve škodovce." *(o tunelu mezi dimenzemi)*
+
+---
+
+### Ep. 40 — Zkouška kanálem
+
+- **LISTER:** "Mám žízeň, ale nechce se mi vstávat... Potřebuju čůrat, ale nechce se mi jít tak daleko... To je to základní lidský dilema - to, před kterým člověk stojí od počátku věků... močit či nemočit... to je ta otázka." *(leží v posteli za vedra)*
+- **KOCHANSKÁ:** "Řeknu jí: „Skleničko kakaa, dostaň mě odsud pryč!"" *(na nabídku kakaa od Krytona)*
+- **KRYTON:** "To je Heimlichův zákrok. Pomáhá, když ženy pláčou." *(snaží se utěšit plačící Kochanskou)*
+- **KOCHANSKÁ:** "Kde jsem udělala chybu? Přitom můj život začal tak slibně. Bohatí rodiče, dobrá škola, poník jménem Trumfík." *(zoufá si nad svým osudem)*
+- **KRYTON:** "Není pro něj dost dobrá! Nic víc. Já vím, že možná páchne jako vojenský koš na prádlo, ale nepotřebuje poběhlice, co přeskakují z dimenze do dimenze a obluzují ho těmi ducpartiemi, co jsou špičaté a zbytečné." *(brání Listera před Kochanskou)*
+- **KOCHANSKÁ:** "Nikdy jsem se na něj nedívala, jako by byl kozí sýr s kousky ananasu! Možná jednou, dvakrát jako na kozí sýr, ale nikdy, *nikdy* s kousky ananasu!" *(o Listerovi)*
+- **KRYTON:** "Chviličku, prosím. Jen si tu historku uložím pod „V" do „Vydírání" a „A" - „Anekdoty", pod kategorie „T" - „Tak směšné, že se smíchy potrháte"." *(po odhalení Kochanské se „sténáním jako rezavá branka")*
+- **LISTER:** "Jestli dovolíš, tak tady provedeme dost radikální změny. A promluvíme si o nich nad šálkem kávy a žhavým pohrabáčem." *(po zjištění, že cesta kanály byla zbytečná)*
+
+---
 
 ### Ep. 41 — Stesk
-- **LISTER:** "Nesnaseli, to jo. Byl to maniak na poradek. Silel jsem z toho, jak jedl podle abecedy. Vzdycky si utrh jenom tri kusy toaleťaku: sup nahoru, sup dolu a vylestit." *(Lister vzpomina na Rimmera)*
-- **KOCOUR:** "Ošklivej a trapnej protiva. Lidskej ekvivalent prusvitnejch trenýrek!" *(Kocour o Rimmerovi)*
-- **RIMMER:** "Mel jsem po krk tech dobrodruzstvi. Znas to, ne? Zachranis par civilizaci a pak to zacne byt... na jedno brdo." *(Rimmer se vraci na Kosmik)*
-- **LISTER:** "Arnolicku..." — **RIMMER:** "Dave..." *(Dojemne shledani, ktere se zmeni v nocni muru, kdyz se oba polibi — a Lister se probudi z desiveho snu)*
-- **LISTER:** "Libat Rimmera! To bych radsi lovil jablka v latrine pri Readingskym festivalu." *(Lister o svem desivem snu)*
-- **KRYTON:** "Promine pane, spatny disk. Tohle byl muj kurs nemciny. Uryvek z Hitlerova norimberského projevu. Jiste hypnotizujici, ale ne spravnym zpusobem." *(Kryton omylem pusti spatny hypnoticky disk)*
 
-### Ep. 42 — Zadna legrace
-- **LISTER:** "Nejim nic, co se objevuje v animacich. Brouky, kraliky, psy, kocky, mysi, trpasliky. Nic z toho. Nejsem disneyozravec!" *(Lister o svych stravovacich zasadach)*
-- **KRYTON:** "Mozna jsem to nerekl dost jasne. Tak znovu: 'Vecere je na stole!'" *(Kryton vyjizdi z jezera v tanku a stili do altanku ve svete Jane Austinove)*
-- **LISTER:** "Ea... hnedej! Ne rajcatovej! Hnedej! Nejsem zadnej krupan..." *(Lister chce kecup k humrovi, coz zpusobi explozi Krytonovy hlavy)*
-- **KOCHANSKÁ:** "Proc se vlastne ptame jeho?? Proc se nezeptame nekoho, kdo nam da inteligentnejsi odpoved? Ahoj steno! Co ty si o tom myslis?" *(Kochanska o Kocourove odhadu stari lodi)*
-- **KOCOUR:** "Zivot bez hlavy? To promeni jeho zivotni styl. Kdo by moh žit bez hlavy?" — **LISTER:** "Pominu-li tebe, tak nikdo." *(o Krytonovi bez hlavy)*
-- **LISTER:** "Ne, rek jsem: 'Hele.' Kdyby si me nechala domluvit, tak bych rek: 'Hele... ne, to nevim.'" *(Lister po tom, co druha Krytonova hlava taky explodovala)*
+- **KRYTON:** "Strávil jsem měsíce tím, abych vás naučil dávat ho do lednice. A pak si přijde ona a co nevidím? Je zase zpátky v kredenci!" *(o dresinku)*
+- **LISTER:** "Nejdřív ji musíš sundat. To jsem cvičil léta. Dával jsem máminu podprdu kolem křesla, dokud jsem ji nerozep` i levačkou. Doteďka mě pohled na křeslo rajcuje." *(o podprsenkách)*
+- **KOCOUR:** "Ošklivej a trapnej protiva. Lidskej ekvivalent průsvitnejch trenýrek!" *(o Rimmerovi)*
+- **LISTER:** "Nesnášeli, to jo. Byl to maniak na pořádek. Šílel jsem z toho, jak jedl podle abecedy. Vždycky si utrh` jenom tři kusy toaleťáku: šup nahoru, šup dolů a vyleštit." *(vzpomíná na Rimmera)*
+- **LISTER:** "Líbat Rimmera! To bych radši lovil jablka v latríně při Readingským festivalu." *(po noční můře)*
+- **RIMMER:** "Měl jsem po krk těch dobrodružství. Znáš to, ne? Zachráníš pár civilizací a pak to začne být... na jedno brdo." *(vrací se k posádce)*
+- **LISTER:** "Už nás nikdy neopouštěj!" / **RIMMER:** "Nikdy, nikdy!" / **LISTER:** "Slibuješ?" / **RIMMER:** "Oh, Listy..." / **LISTER:** "Rimmsy..." *(vášnivé shledání -- pak se ukáže, že to byl sen)*
 
-### Ep. 43 — Epidem
-- **KOCOUR:** "Jakou ty mas kvalifikaci, ty spatne vyklepanej kokose?" *(Kocour ke Krytonovi)*
-- **KOCOUR:** "Jo, nikdo jiny nebyl po ruce, tak jsem se vychovával sám. No, a vzhledem k tomu, ze jsem neznal nic, školní hodiny se dost tahly. Hlavne ctvrtecni dvouhodinovky niceho." *(Kocour o svem vzdelani)*
-- **EPIDÉM:** "Ale tim, ze zabiju tebe, si zrovna dvakrat nepolepsim. Neuraž se, ale k cemu je virovi, kdyz umi otvirat pivni lahve zubama?" *(virus Epidem k Listerovi o jeho vedomostech)*
-- **LISTER:** "Ja jsem posledni muz na svete." — **KOCHANSKÁ:** "No, co se da delat?" *(Lister se snazi svadet Kochanskou)*
-- **LISTER:** "Zrovna se me pokusila znasilnit nadrzena mumie. Tak jak mne sakra muze bejt dobre." *(Lister po utoku zombie Carmenove)*
-- **KOCOUR:** "At uz to zabre, nebo ne! To bude driv v pekle snezit, nez si dam zase peceny kridylka." *(Kocour po sledovani amputace Listerovy ruky)*
+---
+
+### Ep. 42 — Žádná legrace
+
+- **LISTER:** "„Cupitavé něco po francouzsku"? Nic, co by cupitalo, jsem nikdy nepozřel. Chybí mi cupitavej kanálek." *(o tajemné večeři)*
+- **LISTER:** "Nejím nic, co se objevuje v animácích. Brouky, králíky, psy, kočky, myši, trpaslíky. Nic z toho. Nejsem disneyožravec!" *(odmítá podezřelé jídlo)*
+- **KRYTON:** "Možná jsem to neřekl dost jasně. Tak znovu: „Večeře je na stole!"" *(vyjede z tanku, který vpálil do altánku v umělé realitě)*
+- **KOCOUR:** "No, to se ti povedlo! Teď musíme mejt nádobí sami!" *(poté, co Krytonovi exploduje hlava)*
+- **KOCHANSKÁ:** "Proč se vlastně ptáme jeho?? Proč se nezeptáme někoho, kdo nám dá inteligentnější odpověď? Ahoj stěno! Co ty si o tom myslíš?" *(po Kocourově nesmyslném odhadu stáří lodi)*
+- **LISTER:** "Ne, řek` jsem: „Hele." Kdyby si mě nechala domluvit, tak bych řek`: „Hele... ne, to nevím."" *(když druhá hlava Krytona exploduje)*
+- **KOCOUR:** "Já bych rád, ale šev kalhot mi porcuje nářadí na dva kusy!" *(o těsných kalhotách v simulátoru Jane Austinové)*
+- **KOCHANSKÁ:** "Protože to nedává smysl." / **KOCOUR:** "No tak *proč* to děláme?" / **KOCHANSKÁ:** "Existuje jediný důvod. Že jsme tam něco nechali a víme, že to vyhodí do povětří jejich loď." *(geniální taktika proti replikantovi)*
+
+---
+
+### Ep. 43 — Epidém
+
+- **KOCHANSKÁ:** "Ne, to ne. Nemám ponětí ... tak jo, jedenáct set milimetrů, a co? Nepovažuji totiž za vrchol schopností čárku na záchodě, která by označovala můj nejvyšší dostřel." *(o srážkách ve Venezuele a Listerově nadřazenosti)*
+- **EPIDÉM:** "Ale tím, že zabiju tebe, si zrovna dvakrát nepolepším. Neuraž se, ale k čemu je virovi, když umí otevírat pivní láhve zubama?" *(inteligentní virus o Listerových vědomostech)*
+- **LISTER:** "Zrovna se mě pokusila znásilnit nadržená mumie. Tak jak mně sakra může bejt dobře." *(po útoku zombie Carmenové)*
+- **LISTER:** "Neblbni, šuknem si, Chris. Tak hajdy do peřin." / **KOCHANSKÁ:** "Takhle chceš někoho svádět?" / **LISTER:** "Já jsem poslední muž na světě." / **KOCHANSKÁ:** "No, co se dá dělat?" *(romantický pokus o svedení)*
+- **KOCOUR:** "Třeba se naučíš žonglovat." *(utěšuje Listera, který právě přišel o ruku a zbývá mu 58 minut života)*
+- **EPIDÉM:** "Nejvyšší čas, aby se váš druh pakoval. Arrivederci človíci!" *(virus o lidstvu)*
+- **KOCOUR:** "Ať už to zabere, nebo ne! To bude dřív v pekle sněžit, než si dám zase pečený křidýlka." *(po amputaci Listerovy ruky)*
+
+---
 
 ### Ep. 44 — Nanarchie
-- **KOCOUR:** "Ten Velsan. Vsak vis, ten s tou jednou rukou. Van Chochoch." — **LISTER:** "Ten mel jedno ucho, ktery si uriz." — **KOCOUR:** "Vidis! Ten chlapek si urizne ucho jednou rukou a ty se bojis, ze nepovedes normalní zivot?" *(Kocour a Lister o slavnych jednoruych lidech — Van Gogh)*
-- **KOCHANSKÁ:** "Horatio Nelson, ten jednoruky z 'Uprchika', Venuse Melska, Van Gogh a... jeste jeden..." — **KOCOUR:** "Ten Mexikanec! Co okradal lidi!" — **LISTER:** "Jednoruky bandita...!" — **KOCOUR:** "To je stroj, ty troubo!" *(hledani slavnych jednoruych — jednoruky bandita je hraci automat)*
-- **KRYTON:** "Rikaite si: 'Ruko, zvedni micek.'" ... *Listerova umela paze vystřelí a da Krytonovi pesti do celisti.* — **KRYTON:** "Tak... vyborne... a ted jeste jednou." *(nacvik umele ruky, ktera misto micku mlati Krytona)*
-- **KRYTON:** "Rikate si: 'Ruko zvedni micek,' ale Vase podvedomi rika: 'Majzni Krytona po palici. Vymlat mozek z toho volodroida, co mi ufik mou milovanou ruku.'" *(Kryton diagnostikuje problem s umelou rukou)*
-- **HOLLY:** "Hajzlici! To je nejstarsi trik, co znam. Unest lod, udelat z ni planetu a pak si zkoumat makrosvet kose na spinave pradlo." *(Holly o nanobotickych sabotazich)*
-- **LISTER:** "Dave Lister, chlap se suspenzorem jako galaxie!" *(Lister pote, co zjisti, ze dirka v jeho suspenzoru je vetsi nez cela galaxie)*
 
-## Serie VIII
+- **KOCOUR:** "Ten malíř, ne? Ten Velšan. Však víš, ten s tou jednou rukou. Van Chochoch." / **LISTER:** "Ten měl jedno ucho, který si uříz`." / **KOCOUR:** "Vidíš! Ten chlápek si uřízne ucho jednou rukou a ty se bojíš, že nepovedeš normální život?" *(pokus utěšit jednorukého Listera)*
+- **KOCOUR:** "Jednorukej bandita...!" / **LISTER:** "To je stroj, ty troubo! Oblíbená hra v hospodách dvacátýho století." / **KOCOUR:** "A jenom s jednou rukou? To je ale dojemná historka..." *(hledání slavných jednorukých)*
+- **LISTER:** "Pomalejší reakci měl jenom Rimmer na diskotéce." *(o pomalé umělé ruce)*
+- **KRYTON:** "Říkáte si: „Ruko zvedni míček," ale Vaše podvědomí říká: „Majzni Krytona po palici. Vymlať mozek z toho volodroida, co mi ufik` mou milovanou ruku."" *(vysvětluje chování Listerovy umělé ruky)*
+- **HOLLY:** "Hajzlíci! To je nejstarší trik, co znám. Unést loď, udělat z ní planetu a pak si zkoumat makrosvět koše na špinavé prádlo." *(o nanobotích)*
+- **LISTER:** "Takže Trpaslík dva roky zkoumal nové světy v koši s mym špinavym prádlem." *(o nanobotích uvnitř jeho koše na prádlo)*
+- **KRYTON:** "Zatím nic... jen dvě indické placky, jež jste před pár tisíciletími hodil do potrubí, kde vyvinuly jistou elementární inteligenci a vytvořily folkové duo." *(výsledky scanneru)*
 
-### Ep. 45 — Zpatky v Cervenem 1
-- **LISTER:** "Zmátla me ta capka a ten bryndak. Myslel jsem, ze to bude to dite!" *(Lister o fotce triaosmdesatileteho otce s ditetem)*
-- **RIMMER:** "Mam hlavu tak vybrakovaneou, jako bych stravil tri dny na seminari o perspektivach hrebiku. Dovedeš si vůbec představit, jak jsi otravny? Na to jsi mistr! I tropicke ekzemy by se od tebe mely co ucit!" *(Rimmer o Listerove blaboleni)*
-- **RIMMER:** "Vymackals na me celou tubu, ty hnusny, odporny, smradlavy opici zvratku!" *(Rimmer vybuchne po dnech mlceni)*
-- **LISTER:** "Jo, limonadu a pekne velkou skotskou." *(Lister zadost o pomoc pri zatkani)*
-- **HOLLY:** "Nechcete aspon jednu bleskovku? Jde o sci-fi film a jmeno lodi, jedine slovo... Nozdrolomo!" *(Holly nabizi hadanku, zatimco Kosmik leti na kaši)*
-- **KOCOUR:** "Kasl na cervenej! To chce rovnou hnedej!" — **KRYTON:** "Ale hnedy poplach neexistuje." — **KOCOUR:** "Tak to se uvidi za chvili." *(Kocour navrhuje nový stupen poplachu)*
+---
 
-### Ep. 46 — Zpatky v Cervenem 2
-- **HOLLISTER:** "Rimmere, bude mit to salutovani konce? Ea, mam si zajit nekam na kafe? Nebo si vzit rovnou dovolenou?" *(Hollister behem Rimmerova nekonecneho extra-dlouheho pozdravu)*
-- **KRYTON:** "Vzdyt mi ho nikdy ani nenamontovali. Na co bych ho taky mel? Jedine kdybych prisel o obe ruce a potreboval napsat svoje jmeno do snehu." *(Kryton o tom, ze nema penis a byl zarazen mezi zeny)*
-- **RIMMER:** "Operace povyseni, Rimmer slavnym kabrnakem, zkracene P.R.A.S.A.K., je uz v plnem proudu." *(Rimmer o svem planu na karierni postup)*
-- **LISTER:** "Pohnout a zatrist? Ty jdes na veceri se stehovakama, co maj Parkinsonovu chorobu?" *(Lister o Rimmerove veceri s dulezitymi lidmi)*
-- **RIMMER:** "Ano, to jsem cely ja." *(Rimmer prizna, ze je pokrytecka, slizka, podrazacka krysa)*
+### Ep. 45 — Zpátky v Červeném 1
 
-### Ep. 47 — Zpatky v Cervenem 3
-- **RIMMER:** "Zmlátil me. Rikal, ze jsem ufnukanej buzik s nohama jako holcicka. Pak do me zacal rezat knihou 'Jak ukazat soucit svym spoluveznum'." *(Rimmer o socialnim pracovnikovi ve vezeni)*
-- **RIMMER:** "Ze jsem ufnukanek, jemuz se styska po mame. A pak me zbil taky. Vzadu na hlave mam jeste otisky krize." *(Rimmer o faráři)*
-- **LISTER:** "Ten chlap me pronasleduje vsude! Jednou jsem byl v hotelu a tam si ji zapomnel taky. A dva roky nato v jinym hotelu ji ten kreten nechal zase!" *(Lister o Gideonove Bibli)*
-- **RIMMER:** "Angus Thornton, tricet-sest, prostredni jmeno Lionel. Velikost kalhot: dvacet-devet, kolem krku: sestnact, obrezany." *(Rimmer vydirajici strazneho pomoci duvěrnych zaznamu)*
-- **THORNTON:** "To je hnusna, odporna, nehorazna, spinava lez, kterou sis zrovna ted vymyslel! ... Kdo ti to rekl?" *(Thornton po Rimmerove odhaleni jeho tajemstvi)*
+- **RIMMER:** "Mám pocit, že za dobu tvého blábolení uběhlo pár století. Mám hlavu tak vybrakovanou, jako bych strávil tři dny na semináři o perspektivách hřebíku." *(o Listerově otravování)*
+- **LISTER:** "Měla nás voba! A zadek si vyhoblovala až na kost!" *(provokuje Rimmera výmysly o McGruderové)*
+- **KRYTON:** "Musíme jednat odvážně, jasně a rozhodně. Navrhuji změnit poplach z modrého na červený." / **KOCOUR:** "Kašli na červenej! To chce rovnou hnědej!" / **KRYTON:** "Ale hnědý poplach neexistuje." / **KOCOUR:** "Tak to se uvidí za chvíli." *(Kosmik se řítí ventilační šachtou)*
+- **HOLLY:** "Doufám, že nás nechytěj policajti. Jízdu v krysím zadku trestají." *(po průletu konečníkem krysy)*
+- **KRYTON:** "Ztratili jsme střední část a kuchyň! Všem se omlouvám, ale k obědu budeme mít pouze sendviče!" *(při ničení Kosmiku)*
+- **LISTER:** "Jo, limonádu a pěkně velkou skotskou." *(reakce na zatčení a nabídku právní pomoci)*
+
+---
+
+### Ep. 46 — Zpátky v Červeném 2
+
+- **HOLLISTER:** "Rimmere, bude mít to salutování konce? Ea, mám si zajít někam na kafe? Nebo si vzít rovnou dovolenou?" *(o Rimmerově nekonečném salutování)*
+- **HOLLISTER:** "„Konečníková hojivá mast. Snadno aplikovatelná mast dodávaná se specielní rukavicí."" *(čte z krabičky, kterou mu Rimmer přinesl)*
+- **KRYTON:** "Vždyť mi ho nikdy ani nenamontovali. Na co bych ho taky měl? Jedině kdybych přišel o obě ruce a potřeboval napsat svoje jméno do sněhu." *(o penisu)*
+- **KRYTON:** "Jde o prevenci pohlavních nejasností ve vězení. Jak se to říká: „Jak nemáš s čím houpat, kliď se z našich doupat."" *(o klasifikaci jako žena)*
+- **KOCHANSKÁ:** "Něco ti poradím. Pokud tě zítra popadne strach, tak si je představ na záchodě, jak tam trůní..." / **KRYTON:** "Funguje to s každým!" / **KOCHANSKÁ:** "Koho na ní vidíš teď?" / **KRYTON:** "Vás, slečno." *(rada proti strachu z nadřízených)*
+
+---
+
+### Ep. 47 — Zpátky v Červeném 3
+
+- **RIMMER:** "Jeden den v téhle trestanecké kolonii a já jsem na zhroucení. Všichni jsou vyšinutí a brutální. Tak jsem vyhledal sociálního pracovníka." / **LISTER:** "Byl ti k něčemu?" / **RIMMER:** "Ani ne. Zmlátil mě." *(o poměrech ve vězení)*
+- **RIMMER:** "Že jsem ufňukánek, jemuž se stýská po mámě. A pak mě zbil taky. Vzadu na hlavě mám ještě otisky kříže." *(o návštěvě faráře)*
+- **LISTER:** "Ne, napadlo mě, že v takový cele, kde je mandl, můžeme vyrábět chipsy." *(o luxusním bloku D)*
+- **LISTER:** "Ten chlap mě pronásleduje všude! Jednou jsem byl v hotelu a tam si ji zapomněl taky. A dva roky nato v jinym hotelu ji ten kretén nechal zase!" *(o Gideonově Bibli)*
+- **KOCOUR:** "Já to zvládnu, krasavice. Jsem dobrej. Fakt dobrej. Jsem Bůh, kosmickej Bůh." *(Kocour flirtuje s dispečerkou)*
+
+---
 
 ### Ep. 48 — Kassandra
-- **HOLLY:** "Stat se psem." *(Hollyho plan, jak si Lister odkrouti dva roky za ctrnact tydnu)*
-- **RIMMER:** "Muj zivot je v troskach. Kariera, vyhlidky, pratele, tohle vsechno jsem mel a zahodil. To je tragedie." — **LISTER:** "Co to meles? Nic z toho jsi nikdy nemel." — **RIMMER:** "To je fakt, nic z toho jsem nemel. Nemel jsem vubec nic a vsechno jsem zahodil. To je jeste vetsi tragedie!" *(Rimmer o svem zivote)*
-- **LISTER:** "Jake je to slovo, co tenistky rikaj, ze je hrozne dulezity? Zacina na 'K'..." — **RIMMER:** "'Kunnilingus?'" — **LISTER:** "'Koncentrace'." *(Lister a Rimmer o preziti ve vezeni)*
-- **KASSANDRA:** "Udusi se ve sto osmdesati pri pokusu sundat podprsenku zubama." *(Kassandrina predpoved Listerovy smrti)*
-- **KASSANDRA:** "...ktery zemre za dvacet minut." — **RIMMER:** *(Radost zmizi a jeho usta se tresou)* *(Kassandra predvida Rimmerovu smrt)*
-- **RIMMER:** "Odpustte, asi jsme zabloudili do spatneho krouzku, jdeme hned pryc." *(Rimmer se snazi uniknout z Kanarku, kdyz zjisti, ze nejde o pevecky sbor)*
+
+- **HOLLY:** "Stát se psem." *(plán, jak Listerovi zkrátit trest)*
+- **RIMMER:** "„Kunnilingus?" " *(když Lister hledá slovo na K, které tenistky považují za důležité -- myslí „koncentrace")*
+- **LISTER:** "Když jdu na pány ve vězení, tak se radši moc nerozhlížím, jestli mi rozumíš. Jako když hraju golf: držím pevnej postoj, zírám na to kulatý a nikdy se nekejvám!" *(proč neviděl náborové plakáty Kanárků)*
+- **KASSANDRA:** "Udusí se ve sto osmdesáti při pokusu sundat podprsenku zubama." *(předpověď Listerovy smrti)*
+- **LISTER:** "To není špatný. V tomhle věku sundávat podprsenku zubama. To je přece šíleně sexy odchod!" *(reaguje na předpověď)*
+- **KRYTON:** "V případě, že ty zuby jsou ve Vaší puse." *(poznámka k Listerově optimismu)*
+- **KASSANDRA:** "Pouze Lister, Kryton, Kocour a Kochanská přežijí." / **LISTER:** "Co se stane s Rimmerem?" / **KASSANDRA:** "Ten dostane infarkt, důsledkem stresu z toho, že ví, že zahyne." *(předpověď Rimmerovy smrti)*
+
+---
 
 ### Ep. 49 — Televize Kryton
-- **RIMMER:** "Jako obycejne. Vyhrozujou mi smrti... A podle Reader's Digest jsem vylosovany stastlivec." *(Rimmer o svych dopisech)*
-- **RIMMER:** "Tri miliony let hluboko v kosmu, odkud se tezko hnu, a ja si vyhraju zajezd na Mauricius." *(Rimmer vyhraje v soutezi, kam se nemuze dostat)*
-- **RIMMER:** "Nesnasim tvou kytaru! Kdybych chtel byt na cele s kusem dreva, co mi poleze na nervy, zvolim hvezdu Esmeraldy." *(Rimmer o Listerove kytare)*
-- **RIMMER:** "Jo, a tri pacienti, co byli v komatu, si sbalili veci a sli domu." *(Rimmer o vlivu Listerovy pisne na spitalní radio)*
-- **LISTER:** "Ty se sprchujex s holkama?" — **KRYTON:** "Je to tak ubijejici, ze se to neda popsat. Stoji tam nahate a mydli se. Tela mokra, pokryta penou." *(Kryton si stezuje, cely sal muzu ztuhne v zasahu)*
-- **HOLLY:** "V takovych chvilich jsem rad, ze mam jen hlavu." *(Holly pote, co si vsichni muzi sborove dali nohu pres nohu)*
+
+- **RIMMER:** "Ááách, jako bych teď vyskočil z letadla bez padáku a přistál v bazénu plném krásných holek." *(reakce na zjištění, že Listerova kytara nemá struny)*
+- **RIMMER:** "Ani když jsem se ji pokoušel do tebe nacpat?" *(na Listerovu poznámku, že netušil, jak mu kytara vadí)*
+- **RIMMER:** "Jo, a tři pacienti, co byli v kómatu, si sbalili věci a šli domů." *(o demoverzi Listerovy písně hrané v nemocničním rádiu)*
+- **KRYTON:** "Božínku, zase se nějak zastavil čas!" *(když všichni strnuli při jeho popisu sprchování s nahou ženskou)*
+- **HOLLY:** "V takových chvílích jsem rád, že mám jen hlavu." *(po Krytonově popisu dámských sprch)*
+- **RIMMER:** "Z morálního hlediska je použití skryté kamery v dámských sprchách a natáčení žen, jejichž těla jsou pokryta mýdlovou pěnou, bez jejich dovolení, je z morálního hlediska, a o to mi jde především… Jsem zcela pro!" *(Rimmerův morální postoj)*
+
+---
 
 ### Ep. 50 — Pete I
-- **HOLLISTER:** "Coz vedlo k tomu, ze kdyz dnes rano dorazil na mustek, tak se omluvil za pozdni prichod zpusobeny tim, ze brousil manzelku dustojnika pro vedu a nemel cas se prevlect ze sve batmanovsky soupravy." *(Hollister o dopadu sera pravdomluvnosti na Ackermana)*
-- **KOCOUR:** "Rikal jsem jen, ze jste mi sympaticky." — **ACKERMAN:** "Zase jste mluvil!" *(Kocour nemůže pochopit, proč je bit za komplimenty)*
-- **RIMMER:** "Davaje se jim dyzko? Ja nikdy nevim. Lakavejsi veci jsem uz videl na zemi v pavilonu slonu." *(Rimmer o vezenske strave)*
-- **LISTER:** "Ne, to byl omyl. To byla cinska pradelna. Nechces neco vyzehlit?" *(Lister po neuspechu s morseovkou v potrubi)*
-- **HOLLY:** "Zhruba tak rychle, jako servirka v nadraznim bufetu. Proto se zda, jako by vlastne nedelali nic." *(Holly vysvetluje, jak pomaly cas pusobi na lidi)*
-- **KOCOUR:** "V latine? Kdo by rek, ze Rimani litali do kosmu!" *(Kocour o latinskem nápisu na pristroji)*
+
+- **HOLLISTER:** "Vaše prosba se zamítá." / **RIMMER:** "Bohužel asi neodolám, hahaha." *(Rimmer žádá o svolení se zasmát Ackermanovi v batmanovské soupravě)*
+- **KOCOUR:** "Říkal jsem jen, že jste mi sympatický." / **ACKERMAN:** "Zase jste mluvil!" *(Kocour je mlácen za komplimenty)*
+- **RIMMER:** "Lákavější věci jsem už viděl na zemi v pavilonu slonů. Něco takovýho by pozřel jen idiot." *(hodnotí vězeňské jídlo -- a pak ho jí)*
+- **LISTER:** "Kejchlo mu to na talíři!!!" *(o jídle s nosy z klonovacích pokusů)*
+- **RIMMER:** "Kvůli splachujícím letadlům?" / **LISTER:** "Jó, uvažuj trochu: nemůžeš se opalovat, grilovat na zahradě a když vylezeš ven tak jedině v rybářským klobouku a rovnou do auta." *(debata o tom, proč jsou domy u letišť levné)*
+- **KRYTON:** "V jednom momentě je vše, jak má. Pak se na zlomek sekundy trochu nesoustředíte a jste snadná kořist pro nepřátelskou formu života." *(Krytonovo bezpečnostní poučení -- řečené nikomu, protože všichni odešli)*
+
+---
 
 ### Ep. 51 — Pete II
-- **HOLLY:** "Jak to chces, v dlouhe ci kratke verzi?" — **LISTER:** "V dlouhy." — **HOLLY:** "Jste vyrizeny." — **KOCOUR:** "A jak je ta kratka?" — **HOLLY:** "Sbohem." *(Holly hodnotí situaci s tyranosaurem)*
-- **RIMMER:** "Promiñte, ja se omlouvam. Proste jsem mel jenom... ted uz je to dobre. Mohl bych jen neco rict?" — **LISTER:** "Jo, co je?" — **RIMMER:** "Jsme vyrizeny!!!" *(Rimmer se snazi zustat v klidu pri utoku dinosaura)*
-- **HOLLISTER:** "A vite, co se stane s temi nebohymi lidmi, kteri maji tu smulu, ze jsou ve smeru rihnuti?" — **RIMMER:** "Reknou: 'Pfuuj!'" *(Hollister vypravuje o nasledcich dinosauriho rihnuti)*
-- **HOLLISTER:** "Jednu celou jednotku to vyrmstilo, odneslo o deset metru dal a hodilo na zeñ." — **RIMMER:** "Doufam, ze tak drobny incident nepoznamena nas neposkvrnenej zaznam o vykonu trestu." *(Rimmer se snazi zlehcit katastrofu)*
-- **RIMMER:** "Krava na kari? To vam nevyjde." ... "Trochu jako Francouzi, rek bych." *(Rimmer porovnava stravovaci navyky theropodu a Francouzu)*
 
-### Ep. 52 — Jenom sympataci
-- **RIMMER:** "Ja se hrozne omlouvam. Jenze kdyz budu mit zaznam, nikdy nedostanu frcky ani vlastni lod. A po tom touzim nejvic na svete. Byt jako Vy... pouze stihlejsi a v lepsi kondici, a urcite bez Vasich ucpanych cev." *(Rimmer Hollisterovi)*
-- **AUTOMAT:** "Hahaha hahaha! Zkratovaly mi obvody! Poplach, poplach! Cokoladova loupez ve 341. obvode." *(automat na cokoladu prozrazuje Rimmerovu kradez)*
-- **KRYTON:** "Pred par dny se divala do kalendare a rikala, ze je spatny kus mesice, tak jsem ji sehnal novy." *(Kryton nechapal, co znamena, ze zena ma 'spatny kus mesice')*
-- **RIMMER:** "Ve rvacce, to uz je davno. Duel." — **LISTER:** "Duel? Ty?" — **RIMMER:** "Ale ne souboj. 'Duel'. Ten starej film od Spielberga. Kamarad po mne hodil kazetu." *(Rimmer o sve jizve)*
-- **KOCOUR:** "Protože ted se to tady meni, ty tlustochu! Odednska, ty paprdo, mi delas cubu!" *(Kocour se snazi byt napadeny, aby se dostal na marodku — ale Velky Maso se podvoli)*
-- **VELKÝ MASO:** "To mam zridit tu krasnou tvaricku? Ani nahodou!" *(Velky Maso odmitá uderit Kocoura a misto toho ho obejme)*
-- **ZRCADLOVÁ TALIA:** "Dal jsi mi francouzaka!" — **RIMMER:** "Ne, to bylo bliz Antverpdm. To byl belgicdak." *(Rimmer v zrcadlovem vesmiru po tom, co omylem polibil 'sestru')*
-- **ZRCADLOVÝ KOCOUR:** "Cesiumfrankolitiovy mixialobidiumrixidehyxid." — **RIMMER:** "Tezko uverit, ze tohle slysim od Vas." *(Rimmer v zrcadlovem vesmiru, kde je Kocour profesorem)*
+- **HOLLY:** "Jak to chceš, v dlouhé či krátké verzi?" / **LISTER:** "V dlouhý." / **HOLLY:** "Jste vyřízený." / **KOCOUR:** "A jak je ta krátká?" / **HOLLY:** "Sbohem." *(hodnocení situace s tyranosaurem)*
+- **RIMMER:** "Jo, mám lepší nápad. Chci spáchat sebevraždu." *(alternativní plán k Kochanské strategii s vlákninou pro dinosaura)*
+- **HOLLISTER:** "Víte, co se stane, když dinosaurus sežere krávu na kari a... a také dvě a půl tuny mátové čokolády a přesně čtyři sta krabic s ovocnými nanuky a nakonec spláchne všechno sedmi tisíci litry své oblíbené limonády? Víte, co se stane?" / **LISTER:** "Říhne?" *(kapitán vypočítává škody)*
+- **RIMMER:** "Doufám, že tak drobný incident nepoznamená náš neposkvrněný záznam o výkonu trestu." *(po katastrofě s dinosaurem)*
+- **HOLLISTER:** "Přílivová vlna. Byla tři metry vysoká. Do smrti už budu muset chodit na léčení." *(o průjmu dinosaura)*
+- **RIMMER:** "Ano, opomněl jste jeden kousek na nose." *(po kapitánově otázce, zda nemají co dodat)*
+- **RIMMER:** "Kráva na kari? To vám nevyjde." / **LISTER:** "Jsou to vostrý hoši. Jasně, že milujou kari. Kdyby byl kluk, byl by to pěknej drsňák. Týpek, co chodí v tričku i v zimě a ani mu netvrdnou bradavky." *(o dinosaurech a kari)*
+
+---
+
+### Ep. 52 — Jenom sympaťáci
+
+- **RIMMER:** "Já se hrozně omlouvám. Jenže když budu mít záznam, nikdy nedostanu frčky ani vlastní loď. A po tom toužím nejvíc na světě. Být jako Vy... pouze štíhlejší a v lepší kondici, a určitě bez Vašich ucpaných cév." *(lichotí kapitánovi)*
+- **AUTOMAT:** "Hahaha hahaha! Zkratovaly mi obvody! Poplach, poplach! Čokoládová loupež ve 341. obvodě." *(automat bonzuje na Rimmera)*
+- **RIMMER:** "Tu fotografii Vaší ženušky mám nechat, jak je, nebo ji mám otočit ke zdi?" *(ke kapitánovi, když přijde Talia)*
+- **KOCOUR:** "Kradu ti hranolky, ty bandasko!" *(provokuje Velkého Masa, aby ho ten zmlátil a dostal se na marodku)*
+- **VELKÝ MASO:** "Ne, kdepak. Jsem tvoje čuba! Odteďka jsem tvoje kocabinka, samička, křapule, bruska a tvůj božíček!" *(místo toho, aby Kocoura zmlátil)*
+- **LISTER:** "Kruci, Rimmere, ty seš podělanej jako městskej chodník! Koukej to do sebe hodit!" *(nutí Rimmera pít Baxterovu pálenku)*
+- **RIMMER:** "Lepím ti hubana s pozdravem od mýho rejdiváka!" / **ZRCADLOVÁ TALIA:** "Jsem tvoje sestra!" *(Rimmer v zrcadlovém vesmíru)*
+- **SMRT:** "Arnolde Jidáši Rimmere. Tvůj život je u konce. Pojď se mnou." / **RIMMER:** "Dneska ne, kamaráde!" *(Rimmer kopne Smrt do slabin)*
+- **RIMMER:** "Jenom sympaťáci umírají mladí." *(utíká od Smrti)*
