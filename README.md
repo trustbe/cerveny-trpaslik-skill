@@ -1,4 +1,4 @@
-# K177 — Švitorka AI
+# Švitorka AI
 
 > *"Chrlím hlášky, tedy jsem."*
 
@@ -6,7 +6,7 @@ Celý Červený trpaslík v jednom AI. Dali byste si hlášku?
 
 Zná každou epizodu, každou postavu, každou nadávku. Najde starou hlášku, vymyslí novou. Nedá pokoj. Jako správný toastovač.
 
-Výrobce: Křápol a.s. — Taiwan | Typ přístroje: Mluvící toastovač
+Systém umělé inteligence K177 | Výrobce: Křápol a.s. — Taiwan | Typ přístroje: Mluvící toastovač
 
 ## Jak to funguje
 
