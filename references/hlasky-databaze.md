@@ -109,7 +109,7 @@ Citaty extrahovane z ceskych scenaru. Kazda hlaska ma uvedenou postavu a kontext
 ### Ep. 09 -- Diky za tu vzpominku
 
 - **RIMMER:** "Sobota." **LISTER:** "A vic mi nereknes?" **RIMMER:** "Pak tam jsou nejaky cisla, ale buhvi co znamenaj." *(Rimmer s kocovinou cte budik)*
-- **RIMMER:** "Jsi nanic. Kazda jednotlivost je nanic. Jsi usmudlanej, nemas smysl pro disciplinu, jsi jediny clovek, ktery vyrazi svoje penize z kazdeho vsivaka. Presto te maj vsichni radi." *(Rimmer srovnava Listera se sendvicem)*
+- **RIMMER:** "Jsi na nic. Kazda jednotlivost je na nic. Jsi usmudlanej, nemas smysl pro disciplinu, jsi jediny clovek, ktery vyrazi svoje penize z kazdeho vsivaka. Presto te maj vsichni radi." *(Rimmer srovnava Listera se sendvicem)*
 - **RIMMER:** "Vis kolikrat v zivote jsem se ja s nekym miloval?" **LISTER:** "Ne, to nechci vedet." **RIMMER:** "Jednou." **LISTER:** "Boha jeho!" **RIMMER:** "Jednou jedinkrat." *(Rimmer ve stavu opilosti odhaluje sve intimni tajemstvi)*
 - **RIMMER:** "Dvanact minut. A to vcetne doby, co jsme jedli pizzu." *(Rimmer upresnuje svuj jediny pohlavni styk)*
 - **RIMMER:** "Vsechno bych to vymenil, vsechno, frcky, medaile za dlouhou sluzbu, plavecke diplomy, dalekohled i kopyto na boty, vseho bych se vzdal, kdyby me... nekdo mel rad." *(Rimmer ve stavu opilosti)*
