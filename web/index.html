@@ -12,106 +12,97 @@
 
   :root {
     --red: #c4342d;
-    --red-glow: #e8453e;
+    --red-hover: #e04038;
     --bg: #0c0c0f;
-    --surface: #161619;
+    --surface: #131316;
+    --card: #18181c;
+    --border: #222228;
     --text: #e8e4df;
     --text-mid: #8a8580;
     --text-dim: #4a4642;
     --amber: #d4a04a;
     --green: #4a9a6a;
+    --rimmer: #4a9a4a;
+    --lister: #c4342d;
+    --kocour: #d4a04a;
+    --kryton: #7a8a9a;
+    --holly: #6a7aaa;
   }
 
-  html { height: 100%; }
+  html { scroll-behavior: smooth; }
 
   body {
-    min-height: 100vh;
     background: var(--bg);
     color: var(--text);
     font-family: 'Michroma', sans-serif;
-    display: flex;
-    flex-direction: column;
+    line-height: 1.6;
   }
 
-  /* === TOP BAR — ship computer style === */
-  .top-bar {
-    padding: 14px 32px;
+  /* === NAV === */
+  nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 50;
+    padding: 0 32px;
+    height: 52px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-family: 'VT323', monospace;
-    font-size: 16px;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--text-dim);
-    border-bottom: 1px solid #1e1e22;
-    background: var(--surface);
+    background: oklch(0.06 0.01 260 / 0.9);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
   }
 
-  .top-bar .brand {
+  nav .brand {
     color: var(--red);
-    font-family: 'Michroma', sans-serif;
     font-size: 11px;
     letter-spacing: 0.25em;
+    text-transform: uppercase;
   }
 
-  .top-bar .k177 {
-    color: var(--text-mid);
+  nav .links {
+    display: flex;
+    gap: 24px;
     font-family: 'VT323', monospace;
     font-size: 16px;
+    text-transform: uppercase;
   }
 
-  .top-bar .status {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    font-family: 'VT323', monospace;
-    color: var(--green);
+  nav .links a {
+    color: var(--text-dim);
+    text-decoration: none;
+    transition: color 0.2s;
   }
 
-  .dot {
-    width: 7px;
-    height: 7px;
-    border-radius: 50%;
-    background: var(--green);
-    box-shadow: 0 0 6px var(--green);
-    animation: blink 2.5s ease-in-out infinite;
-  }
+  nav .links a:hover { color: var(--red); }
 
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.2; }
-  }
-
-  /* === MAIN === */
-  .main {
-    flex: 1;
+  /* === HERO === */
+  .hero {
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 60px 32px;
+    padding: 80px 32px 60px;
     position: relative;
     overflow: hidden;
   }
 
-  /* K177 watermark */
-  .watermark {
+  .hero .watermark {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family: 'Michroma', sans-serif;
     font-size: clamp(140px, 28vw, 380px);
-    font-weight: 400;
-    color: #131316;
+    color: #111114;
     letter-spacing: 0.05em;
     pointer-events: none;
     user-select: none;
-    line-height: 1;
   }
 
-  .content {
+  .hero .content {
     position: relative;
     z-index: 1;
     display: flex;
@@ -120,20 +111,16 @@
     max-width: 860px;
   }
 
-  /* === CHARACTER NAME — Microgramma style === */
-  .who {
-    font-family: 'Michroma', sans-serif;
+  .hero .who {
     font-size: clamp(11px, 1.3vw, 14px);
     letter-spacing: 0.4em;
     text-transform: uppercase;
     color: var(--red);
-    margin-bottom: 32px;
+    margin-bottom: 28px;
     position: relative;
   }
 
-  /* Red line accents around character name */
-  .who::before,
-  .who::after {
+  .hero .who::before, .hero .who::after {
     content: '';
     position: absolute;
     top: 50%;
@@ -142,12 +129,10 @@
     background: var(--red);
     opacity: 0.4;
   }
+  .hero .who::before { right: calc(100% + 16px); }
+  .hero .who::after { left: calc(100% + 16px); }
 
-  .who::before { right: calc(100% + 16px); }
-  .who::after { left: calc(100% + 16px); }
-
-  /* === THE QUOTE === */
-  .hlaska {
+  .hero .hlaska {
     font-family: 'Playfair Display', Georgia, serif;
     font-weight: 700;
     font-size: clamp(24px, 4.2vw, 52px);
@@ -156,34 +141,19 @@
     color: var(--text);
   }
 
-  .hlaska::before {
-    content: '\201E';
-    color: var(--red);
-    opacity: 0.7;
-  }
+  .hero .hlaska::before { content: '\201E'; color: var(--red); opacity: 0.7; }
+  .hero .hlaska::after { content: '\201C'; color: var(--red); opacity: 0.7; }
 
-  .hlaska::after {
-    content: '\201C';
-    color: var(--red);
-    opacity: 0.7;
-  }
-
-  /* === EPISODE — terminal font === */
-  .odkud {
-    margin-top: 28px;
+  .hero .odkud {
+    margin-top: 24px;
     font-family: 'VT323', monospace;
     font-size: 20px;
     color: var(--text-mid);
-    letter-spacing: 0.05em;
   }
+  .hero .odkud .ep { color: var(--amber); }
 
-  .odkud .epizoda {
-    color: var(--amber);
-  }
-
-  /* === BUTTON — ship control style === */
   .btn {
-    margin-top: 52px;
+    margin-top: 48px;
     background: transparent;
     border: 1px solid var(--red);
     color: var(--red);
@@ -191,20 +161,9 @@
     font-size: 10px;
     letter-spacing: 0.25em;
     text-transform: uppercase;
-    padding: 16px 44px;
+    padding: 16px 40px;
     cursor: pointer;
-    transition: all 0.25s ease;
-    position: relative;
-  }
-
-  .btn::before {
-    content: '';
-    position: absolute;
-    inset: -1px;
-    border: 1px solid var(--red);
-    opacity: 0;
-    transform: scale(1.05);
-    transition: all 0.25s ease;
+    transition: all 0.25s;
   }
 
   .btn:hover {
@@ -213,48 +172,255 @@
     box-shadow: 0 0 20px oklch(0.5 0.2 25 / 0.3);
   }
 
-  .btn:hover::before {
-    opacity: 0.3;
-    transform: scale(1.08);
+  /* === SECTIONS === */
+  section {
+    padding: 80px 32px;
+    max-width: 1100px;
+    margin: 0 auto;
   }
 
-  .btn:active {
-    transform: scale(0.97);
-  }
-
-  /* === BOTTOM BAR === */
-  .bottom {
-    padding: 14px 32px;
+  .section-header {
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    font-family: 'VT323', monospace;
-    font-size: 15px;
-    letter-spacing: 0.06em;
+    gap: 16px;
+    margin-bottom: 48px;
+  }
+
+  .section-header h2 {
+    font-size: clamp(14px, 2vw, 18px);
+    letter-spacing: 0.2em;
     text-transform: uppercase;
-    color: var(--text-dim);
-    border-top: 1px solid #1e1e22;
-    background: var(--surface);
-  }
-
-  .bottom .specs {
-    display: flex;
-    gap: 24px;
-  }
-
-  .bottom a {
-    color: var(--text-dim);
-    text-decoration: none;
-    transition: color 0.2s;
-  }
-
-  .bottom a:hover {
     color: var(--red);
   }
 
-  .bottom .tagline {
+  .section-header .line {
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  .section-header .count {
+    font-family: 'VT323', monospace;
+    font-size: 18px;
+    color: var(--text-dim);
+  }
+
+  /* === DIVIDER === */
+  .divider {
+    max-width: 1100px;
+    margin: 0 auto;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* === QUOTE CARDS === */
+  .filters {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 32px;
+  }
+
+  .filter-btn {
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--text-mid);
+    font-family: 'VT323', monospace;
+    font-size: 16px;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: all 0.2s;
+    text-transform: uppercase;
+  }
+
+  .filter-btn:hover, .filter-btn.active {
+    border-color: var(--red);
+    color: var(--red);
+  }
+
+  .quotes-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .quote-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    padding: 24px 28px;
+    transition: border-color 0.2s;
+  }
+
+  .quote-card:hover {
+    border-color: var(--text-dim);
+  }
+
+  .quote-card .q-who {
+    font-family: 'VT323', monospace;
+    font-size: 16px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+
+  .quote-card .q-text {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: clamp(16px, 2vw, 22px);
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--text);
+  }
+
+  .quote-card .q-meta {
+    margin-top: 12px;
+    font-family: 'VT323', monospace;
+    font-size: 15px;
+    color: var(--text-dim);
+  }
+
+  .quote-card .q-meta .ep { color: var(--amber); }
+
+  /* Color coding by character */
+  .char-rimmer { color: var(--rimmer); }
+  .char-lister { color: var(--lister); }
+  .char-kocour { color: var(--kocour); }
+  .char-kryton { color: var(--kryton); }
+  .char-holly { color: var(--holly); }
+
+  .more-btn {
+    display: block;
+    margin: 32px auto 0;
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+    font-family: 'VT323', monospace;
+    font-size: 18px;
+    padding: 12px 32px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all 0.2s;
+  }
+
+  .more-btn:hover {
+    border-color: var(--red);
+    color: var(--red);
+  }
+
+  /* === INSULT SECTION === */
+  .insult-display {
+    text-align: center;
+    padding: 40px 20px;
+  }
+
+  .insult-text {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-weight: 700;
+    font-size: clamp(28px, 4vw, 48px);
+    line-height: 1.3;
+    color: var(--red);
+    margin-bottom: 16px;
+  }
+
+  .insult-meta {
+    font-family: 'VT323', monospace;
+    font-size: 18px;
+    color: var(--text-dim);
+  }
+
+  .insult-btn {
+    display: inline-block;
+    margin-top: 32px;
+    background: transparent;
+    border: 1px solid var(--red);
+    color: var(--red);
+    font-family: 'Michroma', sans-serif;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding: 14px 36px;
+    cursor: pointer;
+    transition: all 0.25s;
+  }
+
+  .insult-btn:hover {
+    background: var(--red);
+    color: #fff;
+  }
+
+  /* === ABOUT === */
+  .about-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+
+  .about-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    padding: 28px;
+  }
+
+  .about-card h3 {
+    font-family: 'VT323', monospace;
+    font-size: 20px;
+    color: var(--amber);
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+
+  .about-card p {
+    font-family: 'VT323', monospace;
+    font-size: 17px;
+    color: var(--text-mid);
+    line-height: 1.5;
+  }
+
+  .about-card a {
+    color: var(--red);
+    text-decoration: none;
+  }
+
+  .about-card a:hover { text-decoration: underline; }
+
+  /* === SPECS BAR === */
+  .specs-bar {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px 32px;
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    font-family: 'VT323', monospace;
+    font-size: 15px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+  }
+
+  /* === FOOTER === */
+  footer {
+    padding: 20px 32px;
+    text-align: center;
+    font-family: 'VT323', monospace;
+    font-size: 16px;
+    color: var(--text-dim);
+    border-top: 1px solid var(--border);
+  }
+
+  footer .tagline {
     color: var(--text-mid);
     font-style: italic;
+  }
+
+  /* === MOBILE === */
+  @media (max-width: 640px) {
+    nav { padding: 0 16px; }
+    nav .links { gap: 12px; font-size: 14px; }
+    .hero { padding: 60px 20px 40px; }
+    .hero .watermark { font-size: 100px; }
+    .hero .who::before, .hero .who::after { display: none; }
+    section { padding: 60px 20px; }
+    .about-grid { grid-template-columns: 1fr; }
+    .specs-bar { flex-direction: column; align-items: center; gap: 4px; }
   }
 
   /* === ANIMATIONS === */
@@ -263,64 +429,225 @@
     to { opacity: 1; transform: translateY(0); }
   }
 
-  .who     { animation: rise 0.5s ease-out both; }
-  .hlaska  { animation: rise 0.5s ease-out 0.1s both; }
-  .odkud   { animation: rise 0.5s ease-out 0.2s both; }
-  .btn     { animation: rise 0.5s ease-out 0.3s both; }
-
-  /* === MOBILE === */
-  @media (max-width: 640px) {
-    .top-bar {
-      padding: 10px 16px;
-      flex-direction: column;
-      gap: 4px;
-      text-align: center;
-    }
-    .main { padding: 40px 20px; }
-    .watermark { font-size: 100px; }
-    .who::before, .who::after { display: none; }
-    .bottom {
-      flex-direction: column;
-      gap: 6px;
-      text-align: center;
-      padding: 12px 16px;
-    }
-    .bottom .specs { flex-direction: column; gap: 2px; }
-  }
+  .hero .who     { animation: rise 0.5s ease-out both; }
+  .hero .hlaska  { animation: rise 0.5s ease-out 0.1s both; }
+  .hero .odkud   { animation: rise 0.5s ease-out 0.2s both; }
+  .hero .btn     { animation: rise 0.5s ease-out 0.3s both; }
 </style>
 </head>
 <body>
 
-<div class="top-bar">
-  <div>
-    <span class="brand">Švitorka AI</span>
-    &nbsp;&mdash;&nbsp;
-    <span class="k177">Systém umělé inteligence K177</span>
+<!-- NAV -->
+<nav>
+  <div class="brand">Švitorka AI</div>
+  <div class="links">
+    <a href="#hlasky">Hlášky</a>
+    <a href="#nadavky">Nadávky</a>
+    <a href="#about">O projektu</a>
+    <a href="https://x.com/" target="_blank">Twitter</a>
   </div>
-  <div class="status"><span class="dot"></span> ONLINE</div>
-</div>
+</nav>
 
-<div class="main">
+<!-- HERO -->
+<div class="hero" id="hero">
   <div class="watermark">K177</div>
   <div class="content">
-    <div class="who">Rimmer</div>
-    <div class="hlaska">Jistě, že vím, co je láska. Mechanismus, jenž vynalezli bankéři, aby nás donutili přečerpat účet.</div>
-    <div class="odkud">ep. 05 &mdash; <span class="epizoda">Sebevědomí a Mindrák</span></div>
-    <button class="btn" onclick="location.reload()">Dali byste si hlášku?</button>
+    <div class="who" id="hero-who">Rimmer</div>
+    <div class="hlaska" id="hero-text">Jistě, že vím, co je láska. Mechanismus, jenž vynalezli bankéři, aby nás donutili přečerpat účet.</div>
+    <div class="odkud" id="hero-ep">ep. 05 — <span class="ep">Sebevědomí a Mindrák</span></div>
+    <button class="btn" onclick="novaHlaska()">Dali byste si hlášku?</button>
   </div>
 </div>
 
-<div class="bottom">
-  <div class="specs">
-    <span>Výrobce: Křápol a.s. &mdash; Taiwan</span>
-    <span>Typ: Mluvící toastovač</span>
+<div class="divider"></div>
+
+<!-- HLÁŠKY -->
+<section id="hlasky">
+  <div class="section-header">
+    <h2>Hlášky ze seriálu</h2>
+    <div class="line"></div>
+    <div class="count" id="hlasky-count"></div>
   </div>
-  <div>
-    <a href="https://github.com/trustbe/cerveny-trpaslik-skill">GitHub</a>
-    &nbsp;&mdash;&nbsp;
-    <span class="tagline">Chrlím hlášky, tedy jsem.</span>
+
+  <div class="filters" id="filters"></div>
+  <div class="quotes-grid" id="quotes-grid"></div>
+  <button class="more-btn" id="more-btn" onclick="zobrazVic()">Další hlášky</button>
+</section>
+
+<div class="divider"></div>
+
+<!-- NADÁVKY -->
+<section id="nadavky">
+  <div class="section-header">
+    <h2>Nadávky</h2>
+    <div class="line"></div>
+    <div class="count" id="nadavky-count"></div>
   </div>
+
+  <div class="insult-display">
+    <div class="insult-text" id="insult-text">intergalaktický hnisavý vřed</div>
+    <div class="insult-meta" id="insult-meta">— Rimmer (Série I)</div>
+    <button class="insult-btn" onclick="novaNadavka()">Další nadávku!</button>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- O PROJEKTU -->
+<section id="about">
+  <div class="section-header">
+    <h2>O projektu</h2>
+    <div class="line"></div>
+  </div>
+
+  <div class="about-grid">
+    <div class="about-card">
+      <h3>Švitorka AI</h3>
+      <p>Kompletní AI znalostní báze Červeného trpaslíka. Všechny epizody, postavy, hlášky, nadávky. Najde starou hlášku, vymyslí novou. Nedá pokoj.</p>
+    </div>
+    <div class="about-card">
+      <h3>Systém K177</h3>
+      <p>Systém umělé inteligence: K177<br>Výrobce: Křápol a.s. — Taiwan<br>Typ přístroje: Mluvící toastovač<br>Stav: Chrlí hlášky</p>
+    </div>
+    <div class="about-card">
+      <h3>Zdroj dat</h3>
+      <p>Data z webu <a href="http://www.cervenytrpaslik.cz">cervenytrpaslik.cz</a> — legendárního českého Red Dwarf fan klubu. Díky autorům za roky práce.</p>
+    </div>
+    <div class="about-card">
+      <h3>Odkazy</h3>
+      <p>
+        <a href="https://github.com/trustbe/cerveny-trpaslik-skill">GitHub</a> — zdrojový kód a reference<br>
+        <a href="https://x.com/">Twitter/X</a> — hláška dne<br>
+        Licence: MIT
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- SPECS -->
+<div class="specs-bar">
+  <span>Systém umělé inteligence: K177</span>
+  <span>Výrobce: Křápol a.s. — Taiwan</span>
+  <span>Typ přístroje: Mluvící toastovač</span>
 </div>
+
+<!-- FOOTER -->
+<footer>
+  <span class="tagline">Chrlím hlášky, tedy jsem.</span>
+</footer>
+
+<script>
+let hlasky = [];
+let nadavky = [];
+let zobrazeno = 0;
+const BATCH = 12;
+let activeFilter = null;
+
+async function init() {
+  const [h, n] = await Promise.all([
+    fetch('hlasky.json').then(r => r.json()),
+    fetch('nadavky.json').then(r => r.json()),
+  ]);
+  hlasky = h;
+  nadavky = n;
+
+  document.getElementById('hlasky-count').textContent = hlasky.length + ' hlášek';
+  document.getElementById('nadavky-count').textContent = nadavky.length + ' nadávek';
+
+  // Filters
+  const chars = [...new Set(hlasky.map(h => h.postava))].sort();
+  const mainChars = ['RIMMER', 'LISTER', 'KOCOUR', 'KRYTON', 'HOLLY'];
+  const filtersEl = document.getElementById('filters');
+
+  const allBtn = document.createElement('button');
+  allBtn.className = 'filter-btn active';
+  allBtn.textContent = 'Všechny';
+  allBtn.onclick = () => setFilter(null, allBtn);
+  filtersEl.appendChild(allBtn);
+
+  mainChars.forEach(c => {
+    if (chars.includes(c)) {
+      const btn = document.createElement('button');
+      btn.className = 'filter-btn';
+      btn.textContent = c;
+      btn.onclick = () => setFilter(c, btn);
+      filtersEl.appendChild(btn);
+    }
+  });
+
+  // Initial display
+  novaHlaska();
+  novaNadavka();
+  zobrazHlasky();
+}
+
+function charClass(postava) {
+  const p = postava.toLowerCase();
+  if (p.includes('rimmer') || p === 'eso') return 'char-rimmer';
+  if (p.includes('lister')) return 'char-lister';
+  if (p.includes('kocour')) return 'char-kocour';
+  if (p.includes('kryton')) return 'char-kryton';
+  if (p.includes('holly')) return 'char-holly';
+  return 'char-rimmer';
+}
+
+function getFiltered() {
+  if (!activeFilter) return [...hlasky];
+  return hlasky.filter(h => h.postava === activeFilter);
+}
+
+function setFilter(char, btn) {
+  activeFilter = char;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  zobrazeno = 0;
+  document.getElementById('quotes-grid').innerHTML = '';
+  zobrazHlasky();
+}
+
+function zobrazHlasky() {
+  const grid = document.getElementById('quotes-grid');
+  const filtered = getFiltered();
+  const shuffled = filtered.sort(() => Math.random() - 0.5);
+  const batch = shuffled.slice(zobrazeno, zobrazeno + BATCH);
+
+  batch.forEach(h => {
+    const card = document.createElement('div');
+    card.className = 'quote-card';
+    card.innerHTML = `
+      <div class="q-who ${charClass(h.postava)}">${h.postava}</div>
+      <div class="q-text">\u201E${h.citat}\u201C</div>
+      <div class="q-meta">ep. ${h.epizoda} ${h.kontext ? '— <span class="ep">' + h.kontext + '</span>' : ''}</div>
+    `;
+    grid.appendChild(card);
+  });
+
+  zobrazeno += BATCH;
+  document.getElementById('more-btn').style.display =
+    zobrazeno >= filtered.length ? 'none' : 'block';
+}
+
+function zobrazVic() {
+  zobrazHlasky();
+}
+
+function novaHlaska() {
+  const h = hlasky[Math.floor(Math.random() * hlasky.length)];
+  document.getElementById('hero-who').textContent = h.postava;
+  document.getElementById('hero-who').className = 'who ' + charClass(h.postava);
+  document.getElementById('hero-text').textContent = h.citat;
+  document.getElementById('hero-ep').innerHTML =
+    'ep. ' + h.epizoda + (h.kontext ? ' — <span class="ep">' + h.kontext + '</span>' : '');
+}
+
+function novaNadavka() {
+  const n = nadavky[Math.floor(Math.random() * nadavky.length)];
+  document.getElementById('insult-text').textContent = n.nadavka;
+  document.getElementById('insult-meta').textContent = '— ' + n.autor + ' (Série ' + n.serie + ')';
+}
+
+init();
+</script>
 
 </body>
 </html>
