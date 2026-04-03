@@ -360,9 +360,9 @@ Skill je postaven na obsahu webu [cervenytrpaslik.cz](http://www.cervenytrpaslik
 
 Červený trpaslík (Red Dwarf) je seriál BBC vytvořený Robem Grantem a Dougem Naylorem. Všechna práva k seriálu náleží jejich držitelům.
 
-## Roadmap — kam to posunout dál
+## Možná rozšíření
 
-Projekt je kompletní jako knowledge base, ale má potenciál vyrůst v celý ekosystém. Nápady:
+Projekt je kompletní, ale dá se rozšířit mnoha směry:
 
 ### MCP Server
 - **Červený Trpaslík MCP** — zpřístupnit databázi jako [MCP server](https://modelcontextprotocol.io/) s tools: `hlaska(tema, postava)`, `nadavka(postava)`, `kviz()`, `lore(tema)`, `nova_hlaska(postava, tema)`. Pak funguje v jakémkoli MCP klientovi — Claude Code, Claude Desktop, Cursor, Copilot, cokoli.
@@ -389,7 +389,7 @@ Projekt je kompletní jako knowledge base, ale má potenciál vyrůst v celý ek
 - **Merch generátor** — AI generuje nápisy na trička ve stylu Red Dwarf nadávek (*"intergalaktický hnisavý vřed"*, *"těhotný smradlavý lenochod"*)
 - **Tapety/wallpapers** — hlášky jako grafické tapety na telefon/desktop
 
-Pull requesty vítány! Pokud chcete pomoct s čímkoli z roadmapy, otevřete issue.
+Pull requesty vítány!
 
 ## Licence
 
