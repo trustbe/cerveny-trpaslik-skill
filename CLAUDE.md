@@ -31,14 +31,22 @@ Funguje jako Claude Code skill, system prompt pro jakýkoli LLM, nebo základ pr
 
 ## Branding
 
-- Název: **K177 — Švitorka AI**
+- Název: **Švitorka AI**
 - Tagline: *"Chrlím hlášky, tedy jsem."*
 - Perex: *Celý Červený trpaslík v jednom AI. Dali byste si hlášku?*
 - Výrobce: Křápol a.s. — Taiwan | Typ přístroje: Mluvící toastovač
 
+## Web
+
+- `web/index.html` — statická stránka s hláškou dne
+- Layout: top bar (Švitorka AI + K177), velká hláška uprostřed (postava + citát + epizoda), tlačítko "Dali byste si hlášku?", spodní lišta (specs + GitHub)
+- K177 watermark v pozadí
+- Tmavé téma, Space Grotesk + Playfair Display
+- Zatím hardcoded jedna hláška, TODO: napojit na JSON databázi
+
 ## Plány
 
-- Naparsovat hlášky do JSON pro statický web a Twitter bot
+- Naparsovat hlášky do JSON pro web a Twitter bot
 - Pregenerovat batch 500-1000 nových AI hlášek (jednorázově, ne on-demand)
 - Web: GitHub Pages, random hláška při každém loadu, žádný server
 - Twitter: cron job, 1 hláška denně (mix starých a nových)

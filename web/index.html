@@ -3,22 +3,22 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>K177 — Švitorka AI</title>
+<title>Švitorka AI — Chrlím hlášky, tedy jsem.</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
 <style>
   *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
 
   :root {
-    --red: oklch(0.55 0.22 25);
-    --red-dim: oklch(0.35 0.15 25);
-    --bg: oklch(0.12 0.02 260);
-    --bg-lighter: oklch(0.16 0.02 260);
-    --text: oklch(0.88 0.01 80);
-    --text-dim: oklch(0.55 0.02 80);
-    --amber: oklch(0.75 0.15 75);
-    --green: oklch(0.65 0.18 145);
+    --red: #c4342d;
+    --red-hover: #e04038;
+    --bg: #1a1a1e;
+    --surface: #222226;
+    --text: #e8e4df;
+    --text-mid: #9a9590;
+    --text-dim: #5a5652;
+    --amber: #d4a04a;
   }
 
   html { height: 100%; }
@@ -27,266 +27,243 @@
     min-height: 100vh;
     background: var(--bg);
     color: var(--text);
-    font-family: 'Space Mono', monospace;
+    font-family: 'Space Grotesk', system-ui, sans-serif;
     display: flex;
     flex-direction: column;
-    overflow: hidden;
-    position: relative;
   }
 
-  /* Scanlines overlay */
-  body::before {
-    content: '';
-    position: fixed;
-    inset: 0;
-    background: repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 2px,
-      oklch(0 0 0 / 0.08) 2px,
-      oklch(0 0 0 / 0.08) 4px
-    );
-    pointer-events: none;
-    z-index: 100;
-  }
-
-  /* CRT vignette */
-  body::after {
-    content: '';
-    position: fixed;
-    inset: 0;
-    background: radial-gradient(
-      ellipse at center,
-      transparent 50%,
-      oklch(0 0 0 / 0.5) 100%
-    );
-    pointer-events: none;
-    z-index: 99;
-  }
-
-  /* Top bar — ship status */
-  .status-bar {
-    padding: 12px 24px;
+  /* Top bar */
+  .top-bar {
+    padding: 14px 32px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     font-size: 11px;
-    letter-spacing: 0.15em;
+    font-weight: 600;
+    letter-spacing: 0.18em;
     text-transform: uppercase;
     color: var(--text-dim);
-    border-bottom: 1px solid oklch(0.25 0.02 260);
-    flex-shrink: 0;
+    border-bottom: 1px solid #2a2a2e;
   }
 
-  .status-bar .ship-name {
+  .top-bar .brand {
     color: var(--red);
-    font-weight: 700;
   }
 
-  .status-dot {
-    display: inline-block;
+  .top-bar .status {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .dot {
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    background: var(--green);
-    margin-right: 6px;
-    animation: pulse-dot 2s ease-in-out infinite;
+    background: #4a9;
+    animation: blink 2.5s ease-in-out infinite;
   }
 
-  @keyframes pulse-dot {
+  @keyframes blink {
     0%, 100% { opacity: 1; }
-    50% { opacity: 0.3; }
+    50% { opacity: 0.2; }
   }
 
-  /* Main content */
+  /* Main */
   .main {
     flex: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 40px 24px;
+    padding: 60px 32px;
     position: relative;
+    overflow: hidden;
   }
 
-  /* Character label */
-  .character {
-    font-size: clamp(12px, 1.5vw, 14px);
-    letter-spacing: 0.3em;
-    text-transform: uppercase;
-    color: var(--red);
-    margin-bottom: 24px;
-    font-weight: 700;
-  }
-
-  /* The quote */
-  .quote {
-    font-family: 'Instrument Serif', serif;
-    font-size: clamp(28px, 5vw, 64px);
-    line-height: 1.25;
-    text-align: center;
-    max-width: 900px;
-    color: var(--text);
-    font-style: italic;
-    position: relative;
-    padding: 0 20px;
-  }
-
-  .quote::before {
-    content: '\201E';
-    position: absolute;
-    left: -20px;
-    top: -10px;
-    font-size: 1.5em;
-    color: var(--red-dim);
-    font-style: normal;
-  }
-
-  .quote::after {
-    content: '\201C';
-    font-size: 1.5em;
-    color: var(--red-dim);
-    font-style: normal;
-    margin-left: 4px;
-  }
-
-  /* Episode reference */
-  .episode {
-    margin-top: 32px;
-    font-size: clamp(11px, 1.2vw, 13px);
-    color: var(--text-dim);
-    letter-spacing: 0.08em;
-  }
-
-  .episode span {
-    color: var(--amber);
-  }
-
-  /* Reload button */
-  .reload-btn {
-    margin-top: 48px;
-    background: none;
-    border: 1px solid var(--red-dim);
-    color: var(--red);
-    font-family: 'Space Mono', monospace;
-    font-size: 12px;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    padding: 12px 32px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    position: relative;
-  }
-
-  .reload-btn:hover {
-    background: var(--red);
-    color: var(--bg);
-    border-color: var(--red);
-  }
-
-  .reload-btn:active {
-    transform: scale(0.97);
-  }
-
-  /* Bottom bar — toaster specs */
-  .bottom-bar {
-    padding: 16px 24px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-size: 10px;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: oklch(0.35 0.01 260);
-    border-top: 1px solid oklch(0.2 0.02 260);
-    flex-shrink: 0;
-  }
-
-  .bottom-bar a {
-    color: var(--red-dim);
-    text-decoration: none;
-  }
-
-  .bottom-bar a:hover {
-    color: var(--red);
-  }
-
-  /* K177 logo mark */
-  .logo {
+  /* K177 background watermark */
+  .watermark {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: clamp(120px, 25vw, 280px);
+    font-size: clamp(140px, 28vw, 360px);
     font-weight: 700;
-    color: oklch(0.14 0.02 260);
-    letter-spacing: -0.02em;
+    color: #222226;
+    letter-spacing: -0.03em;
     pointer-events: none;
     user-select: none;
-    z-index: 0;
+    line-height: 1;
   }
 
-  .main > * {
+  /* Content sits above watermark */
+  .content {
     position: relative;
     z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 860px;
   }
 
-  /* Flicker animation for CRT feel */
-  @keyframes flicker {
-    0% { opacity: 1; }
-    3% { opacity: 0.95; }
-    6% { opacity: 1; }
-    89% { opacity: 1; }
-    92% { opacity: 0.97; }
-    95% { opacity: 1; }
+  /* Character name */
+  .who {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
+    color: var(--red);
+    margin-bottom: 28px;
   }
 
-  .quote {
-    animation: flicker 4s linear infinite;
+  /* The quote itself */
+  .hlaska {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-weight: 700;
+    font-size: clamp(26px, 4.5vw, 56px);
+    line-height: 1.3;
+    text-align: center;
+    color: var(--text);
+  }
+
+  /* Czech-style quotes „ " */
+  .hlaska::before {
+    content: '\201E';
+    color: var(--red);
+    margin-right: 2px;
+  }
+
+  .hlaska::after {
+    content: '\201C';
+    color: var(--red);
+    margin-left: 2px;
+  }
+
+  /* Episode info */
+  .odkud {
+    margin-top: 28px;
+    font-size: 13px;
+    color: var(--text-mid);
+    letter-spacing: 0.05em;
+  }
+
+  .odkud .epizoda {
+    color: var(--amber);
+    font-weight: 600;
+  }
+
+  /* Button */
+  .btn {
+    margin-top: 52px;
+    background: transparent;
+    border: 2px solid var(--red);
+    color: var(--red);
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding: 14px 40px;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+  }
+
+  .btn:hover {
+    background: var(--red);
+    color: #fff;
+  }
+
+  .btn:active {
+    background: var(--red-hover);
+    border-color: var(--red-hover);
+  }
+
+  /* Bottom bar */
+  .bottom {
+    padding: 14px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    border-top: 1px solid #2a2a2e;
+  }
+
+  .bottom .specs {
+    display: flex;
+    gap: 20px;
+  }
+
+  .bottom .specs span {
+    color: var(--text-mid);
+  }
+
+  .bottom a {
+    color: var(--text-dim);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .bottom a:hover {
+    color: var(--red);
   }
 
   /* Fade in */
-  @keyframes fade-up {
-    from { opacity: 0; transform: translateY(20px); }
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(16px); }
     to { opacity: 1; transform: translateY(0); }
   }
 
-  .character { animation: fade-up 0.6s ease-out both; }
-  .quote { animation: fade-up 0.6s ease-out 0.15s both, flicker 4s linear 1s infinite; }
-  .episode { animation: fade-up 0.6s ease-out 0.3s both; }
-  .reload-btn { animation: fade-up 0.6s ease-out 0.45s both; }
+  .who     { animation: rise 0.5s ease-out both; }
+  .hlaska  { animation: rise 0.5s ease-out 0.1s both; }
+  .odkud   { animation: rise 0.5s ease-out 0.2s both; }
+  .btn     { animation: rise 0.5s ease-out 0.3s both; }
 
   /* Mobile */
-  @media (max-width: 600px) {
-    .status-bar { padding: 10px 16px; font-size: 9px; }
-    .main { padding: 32px 20px; }
-    .bottom-bar { flex-direction: column; gap: 4px; text-align: center; padding: 12px 16px; }
-    .logo { font-size: 100px; }
+  @media (max-width: 640px) {
+    .top-bar { padding: 12px 20px; font-size: 9px; }
+    .main { padding: 40px 24px; }
+    .watermark { font-size: 120px; }
+    .bottom {
+      flex-direction: column;
+      gap: 6px;
+      text-align: center;
+      padding: 12px 20px;
+    }
+    .bottom .specs { flex-direction: column; gap: 2px; }
   }
 </style>
 </head>
 <body>
 
-<div class="status-bar">
-  <div><span class="ship-name">JMC Red Dwarf</span> &mdash; Palubní systém K177</div>
-  <div><span class="status-dot"></span>Švitorka online</div>
+<div class="top-bar">
+  <div><span class="brand">Švitorka AI</span> &mdash; Systém umělé inteligence K177</div>
+  <div class="status"><span class="dot"></span> Online</div>
 </div>
 
 <div class="main">
-  <div class="logo">K177</div>
-
-  <div class="character">RIMMER</div>
-
-  <div class="quote">Jistě, že vím, co je láska. Mechanismus, jenž vynalezli bankéři, aby nás donutili přečerpat účet.</div>
-
-  <div class="episode">ep. 05 &mdash; <span>Sebevědomí a Mindrák</span></div>
-
-  <button class="reload-btn" onclick="location.reload()">Další hlášku</button>
+  <div class="watermark">K177</div>
+  <div class="content">
+    <div class="who">Rimmer</div>
+    <div class="hlaska">Jistě, že vím, co je láska. Mechanismus, jenž vynalezli bankéři, aby nás donutili přečerpat účet.</div>
+    <div class="odkud">ep. 05 &mdash; <span class="epizoda">Sebevědomí a Mindrák</span></div>
+    <button class="btn" onclick="location.reload()">Dali byste si hlášku?</button>
+  </div>
 </div>
 
-<div class="bottom-bar">
-  <div>Výrobce: Křápol a.s. &mdash; Taiwan &nbsp;|&nbsp; Typ přístroje: Mluvící toastovač</div>
-  <div><a href="https://github.com/trustbe/cerveny-trpaslik-skill">github</a> &nbsp;|&nbsp; Chrlím hlášky, tedy jsem.</div>
+<div class="bottom">
+  <div class="specs">
+    <span>Výrobce: Křápol a.s. &mdash; Taiwan</span>
+    <span>Typ přístroje: Mluvící toastovač</span>
+  </div>
+  <div>
+    <a href="https://github.com/trustbe/cerveny-trpaslik-skill">GitHub</a>
+    &nbsp;&mdash;&nbsp;
+    Chrlím hlášky, tedy jsem.
+  </div>
 </div>
 
 </body>
